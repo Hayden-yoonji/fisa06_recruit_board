@@ -16,7 +16,7 @@ BASE_URL = "https://apis.data.go.kr/1051000/recruitment/list"
 # 2. 날짜 계산 (자동화)
 # ==========================================
 now = datetime.now()
-today_cmp = now.strftime("%Y%m%d")
+today_dt = pd.to_datetime(now.date())
 
 # 오늘 기준 -10일 ~ +10일
 start_api = (now - timedelta(days=10)).strftime("%Y-%m-%d")
@@ -126,7 +126,7 @@ def get_job_data():
 # ==========================================
 def update_readme():
     table_str, count = get_job_data()
-    update_time = now.strftime("%Y-%m-%d %H:%M:%S")
+    update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     readme_content = f"""# 📢 공공기관 채용 현황판
 
