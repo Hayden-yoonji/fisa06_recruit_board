@@ -23,7 +23,11 @@
 
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 Updated at: 2026-02-06 07:54:42 (Server Time)
 =======
 Updated at: 2026-02-06 07:52:33 (Server Time)
 >>>>>>> 748f5a0 (finalchange)
+=======
+Updated at: 2026-02-06 07:54:42 (Server Time)
+>>>>>>> e2faaf0 (자동 업데이트: 채용 정보 갱신)
