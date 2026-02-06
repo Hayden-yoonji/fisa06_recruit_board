@@ -27,7 +27,7 @@ end_api = (now + timedelta(days=10)).strftime("%Y-%m-%d")
 # ==========================================
 # params 딕셔너리 대신 f-string으로 URL을 완성합니다.
 # 주의: &resultType=json 을 꼭 넣어야 파이썬에서 처리하기 쉽습니다. (기본값은 XML일 수 있음)
-request_url = f"{BASE_URL}?serviceKey={SERVICE_KEY}&resultType=json&pageNo=1&numOfRows=100&pbancBgngYmd={start_api}&pbancEndYmd={end_api}"
+request_url = f"{BASE_URL}?serviceKey={SERVICE_KEY}&pageNo=1&pbancBgngYmd={start_api}&pbancEndYmd={end_api}"
 
 print(f"📡 요청 URL: {request_url}")
 
