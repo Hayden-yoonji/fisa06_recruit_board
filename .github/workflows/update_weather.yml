@@ -31,7 +31,7 @@ jobs:
         python recruit.py
       env:
                             # settings의 githubaction의 repository secret에 넘겨준 변수명 사용
-        OPENWEATHER_API_KEY: ${{ secrets.SERVICE_KEY }}
+        SERVICE_KEY: ${{ secrets.SERVICE_KEY }}
     - name: Commit and Push
       run: |
           git config --global user.name "github-actions[bot]"
