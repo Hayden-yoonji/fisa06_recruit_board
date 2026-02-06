@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 경기서부지사] 기간제 근로자(체험형 청년인턴) 채용공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=210905&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260206 | 20260213 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-02-06 22:58:27 (Server Time)
+Updated at: 2026-02-06 23:36:12 (Server Time)
