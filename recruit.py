@@ -37,7 +37,10 @@ params = {
 # ==========================================
 def get_job_data():
     try:
-        response = requests.get(BASE_URL, params=params)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        response = requests.get(BASE_URL, params=params, headers=headers)
         print("📡 요청 URL:", response.url)
         print("📡 상태 코드:", response.status_code)
 
