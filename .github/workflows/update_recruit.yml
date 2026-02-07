@@ -36,6 +36,7 @@ jobs:
       run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase
           git add README.md
           git commit -m "자동 업데이트: 채용 정보 갱신" || echo "No changes to commit"
           git push
