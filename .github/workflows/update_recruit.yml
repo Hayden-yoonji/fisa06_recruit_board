@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 * * * *"
   push:
     branches: [ "main" ]
   workflow_dispatch:  # 우리가 버튼으로 트리거할 수 있는 옵션
