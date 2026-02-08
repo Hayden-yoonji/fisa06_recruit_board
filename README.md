@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 항공캠퍼스 외국인근로자지원센터 직원모집 공개채용 공고](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=769660) | 20260206 | 20260218 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-08 02:46:44 (Server Time)
+Updated at: 2026-02-08 05:06:04 (Server Time)
