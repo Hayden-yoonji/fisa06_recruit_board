@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS신세종사업소 경상정비공사 기계보조 모집](www.kps.co.kr) | 20260210 | 20260212 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(6호기 기계 3차)](https://www.kps.co.kr) | 20260210 | 20260212 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[팔공산동부] 2026년 팔공산국립공원동부사무소 봄철 한시인력(산불감시) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018660) | 20260209 | 20260213 | 비정규직 | 신입 |
+| 한전KPS(주) | [한전KPS(주) 발전정비기술센터 단기노무원 채용(정비보조)](https://www.kps.co.kr) | 20260211 | 20260213 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 충남캠퍼스 청년인턴 채용 공고](https://www.kopo.ac.kr/chungnam/board.do?menu=10539&mode=view&post=769890) | 20260210 | 20260218 | 청년인턴(체험형) | 신입+경력 |
 | 서울대학교치과병원 | [기간제근무자(간호직, 보건직)채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244087) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
 | 서울대학교치과병원 | [기간제근무자(원무직-수납)채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244119) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
@@ -18,4 +18,4 @@
 | 근로복지공단 | [[안산병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260210 | 20260220 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-10 13:20:36 (Server Time)
+Updated at: 2026-02-10 15:01:52 (Server Time)
