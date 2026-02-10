@@ -18,4 +18,4 @@
 | 근로복지공단 | [[안산병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260210 | 20260220 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-10 17:04:56 (Server Time)
+Updated at: 2026-02-10 19:09:26 (Server Time)
