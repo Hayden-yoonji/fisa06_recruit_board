@@ -10,12 +10,12 @@
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(6호기 기계 3차)](https://www.kps.co.kr) | 20260210 | 20260212 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[팔공산동부] 2026년 팔공산국립공원동부사무소 봄철 한시인력(산불감시) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018660) | 20260209 | 20260213 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 충남캠퍼스 청년인턴 채용 공고](https://www.kopo.ac.kr/chungnam/board.do?menu=10539&mode=view&post=769890) | 20260210 | 20260218 | 청년인턴(체험형) | 신입+경력 |
+| 서울대학교치과병원 | [기간제근무자(간호직, 보건직)채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244087) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
+| 서울대학교치과병원 | [기간제근무자(원무직-수납)채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244119) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [육아휴직 대체직 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260210 | 20260219 | 청년인턴(채용형) | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 서울경기전력지사 구리지점 차량순시 정비보조 모집](http://www.kps.co.kr) | 20260210 | 20260219 | 비정규직 | 신입+경력 |
 | 한국식품안전관리인증원 | [2026년 제3차 체험형인턴 및 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260209 | 20260219 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)여수사업처 간이정비공사 단기노무원 모집](https://www.kps.co.kr) | 20260209 | 20260219 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 연구원(전남응급의료지원센터) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243911) | 20260209 | 20260219 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-10 07:09:03 (Server Time)
+Updated at: 2026-02-10 08:59:41 (Server Time)
