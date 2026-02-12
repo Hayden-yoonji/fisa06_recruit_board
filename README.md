@@ -17,4 +17,4 @@
 | 국립공원공단 | [[속리산] 2026년 속리산국립공원사무소 기간제(한시인력- 봄철 산불감시원) 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018686) | 20260212 | 20260220 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-12 17:05:14 (Server Time)
+Updated at: 2026-02-12 19:06:36 (Server Time)
