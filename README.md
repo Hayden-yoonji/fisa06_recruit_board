@@ -14,8 +14,8 @@
 | 한전KPS(주) | [한전KPS(주) 영흥사업처 4호기 계획예방정비공사 단기노무원 모집(안전팀)](https://www.kps.co.kr) | 20260213 | 20260220 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[부산보훈병원] 2026년도 전공의(인턴) 추가 모집](https://hpadmin.bohun.or.kr/apple/na/ntt/selectNttInfo.do?mi=1384&bbsId=1158&bbsSysId=busan&nttSn=182563) | 20260219 | 20260220 | 정규직 | 신입+경력 |
 | 국립공원공단 | [[속리산] 2026년 속리산국립공원사무소 기간제(한시인력- 봄철 산불감시원) 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018686) | 20260212 | 20260220 | 비정규직 | 신입 |
+| 한국장애인고용공단 | [[한국장애인고용공단 서울지역본부] 취업지원상담사 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211055&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260213 | 20260222 | 비정규직,청년인턴(채용형) | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제21차)](https://www.kps.co.kr) | 20260213 | 20260223 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 행정지원직(교학처 학과조교 휴직 대체) 3차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=770137) | 20260213 | 20260223 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-13 02:33:40 (Server Time)
+Updated at: 2026-02-13 04:55:55 (Server Time)
