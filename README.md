@@ -18,4 +18,4 @@
 | 근로복지공단 | [[인천병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260213 | 20260223 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-14 11:25:05 (Server Time)
+Updated at: 2026-02-14 12:55:31 (Server Time)
