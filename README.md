@@ -18,4 +18,4 @@
 | 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제(한시인력_산불감시원) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018696) | 20260213 | 20260225 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-16 20:35:46 (Server Time)
+Updated at: 2026-02-16 21:32:23 (Server Time)
