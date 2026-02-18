@@ -18,4 +18,4 @@
 | 세종학당재단 | [2026년 세종학당재단 일반계약직 채용 공고(미달분야 재공고)](http://ksif.fairyhr.com/, https://ksif.or.kr/) | 20260213 | 20260227 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-18 14:49:08 (Server Time)
+Updated at: 2026-02-18 15:55:21 (Server Time)
