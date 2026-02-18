@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[주왕산] 2026년 주왕산국립공원 한시인력(봄철 산불감시원) 2차 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018698) | 20260215 | 20260219 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 의료요원(임상교수) 10차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260213 | 20260220 | 정규직 | 신입 |
-| 강원대학교병원 | [2026년도 상반기 인턴 추가 모집 공고](https://www.knuh.or.kr/hospitalinfo/hospitalinfo_03_05_view.asp?bid=1&page=1&idx=33782) | 20260213 | 20260220 | 정규직 | 신입+경력 |
+| 국립공원공단 | [[팔공산서부]2026년 팔공산국립공원서부사무소 기간제(산불감시) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018679) | 20260212 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[계룡산] 2026년 계룡산국립공원 수익시설(한시인력) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018697) | 20260214 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제(한시인력_산불감시원) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018696) | 20260213 | 20260225 | 비정규직 | 신입+경력 |
 | 국토안전관리원 | [2026년도 제1차 수시 채용 공고](https://www.kalis.or.kr/www/brd/m_630/view.do?seq=313&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&p_stat=&p_itmseq1=&diviTp=) | 20260213 | 20260227 | 무기계약직,비정규직,청년인턴(체험형) | 신입+경력 |
@@ -18,4 +18,4 @@
 | 세종학당재단 | [2026년 세종학당재단 일반계약직 채용 공고(미달분야 재공고)](http://ksif.fairyhr.com/, https://ksif.or.kr/) | 20260213 | 20260227 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-18 04:55:50 (Server Time)
+Updated at: 2026-02-18 06:04:03 (Server Time)
