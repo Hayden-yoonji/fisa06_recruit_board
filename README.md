@@ -12,10 +12,10 @@
 | 국립공원공단 | [[태안] 2026년 태안해안 기간제[한시인력(산불감시)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018704) | 20260219 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[다도해해상]2026년 다도해해상국립공원 기간제[환경관리(해양)] 직원 채용(1차) 추가접수 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018703) | 20260219 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[덕유산] 2026년 덕유산국립공원 봄철 한시인력(산불감시원) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018702) | 20260219 | 20260224 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)부산경남전력지사 기술팀 단기노무원(수목관리사, 정비보조, 상주감시) 모집](https://www.kps.co.kr) | 20260219 | 20260225 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[변산반도]2026년 변산반도국립공원 기간제(산불감시원_한시인력) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018701) | 20260219 | 20260225 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[근로복지공단] 기간제(산재의료전문위원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260219 | 20260226 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 충북지사)](www.kohom.or.kr) | 20260219 | 20260226 | 청년인턴(채용형) | 신입+경력 |
 | 전남대학교병원 | [2026년 2월 전남대학교병원 직원(지원직) 공개채용 공고](https://cnuh.recruiter.co.kr/) | 20260213 | 20260227 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-19 06:01:26 (Server Time)
+Updated at: 2026-02-19 07:50:15 (Server Time)
