@@ -18,4 +18,4 @@
 | 전남대학교병원 | [2026년 2월 전남대학교병원 직원(지원직) 공개채용 공고](https://cnuh.recruiter.co.kr/) | 20260213 | 20260227 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-19 22:35:15 (Server Time)
+Updated at: 2026-02-19 23:33:04 (Server Time)
