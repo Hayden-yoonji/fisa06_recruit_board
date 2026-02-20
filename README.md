@@ -17,4 +17,4 @@
 | 통일연구원 | [[통일연구원] 2026년 프로젝트연구위원 공개채용 공고(제2026-02호)](https://www.kinu.or.kr/main/board/view.do?nav_code=mai1674793621&code=Mc1gdidTKIt&idx=25915&ref=0&re_level=0&re_step=0&search_type=subject%2Bcontent&viewPage=1) | 20260213 | 20260228 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-20 15:39:49 (Server Time)
+Updated at: 2026-02-20 16:43:19 (Server Time)
