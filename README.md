@@ -1,7 +1,7 @@
 # 📢 공공기관 채용 현황판
 
 이 페이지는 **공공데이터 OpenAPI**를 사용하여 자동으로 업데이트됩니다.  
-오늘 기준, 지원 가능한 공고는 총 **9건**입니다.
+오늘 기준, 지원 가능한 공고는 총 **10건**입니다.
 
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
@@ -15,6 +15,7 @@
 | 한국환경보전원 | [한국환경보전원 환경연수처 기간제(육아휴직 대체) 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8107&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260220 | 20260226 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](www.kohom.or.kr) | 20260220 | 20260227 | 청년인턴(채용형) | 신입+경력 |
 | 통일연구원 | [[통일연구원] 2026년 프로젝트연구위원 공개채용 공고(제2026-02호)](https://www.kinu.or.kr/main/board/view.do?nav_code=mai1674793621&code=Mc1gdidTKIt&idx=25915&ref=0&re_level=0&re_step=0&search_type=subject%2Bcontent&viewPage=1) | 20260213 | 20260228 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[동해병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260220 | 20260303 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-20 23:31:57 (Server Time)
+Updated at: 2026-02-21 02:11:36 (Server Time)
