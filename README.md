@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 대학운영직(조리원) 채용 재공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=770515) | 20260223 | 20260302 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-22 20:30:36 (Server Time)
+Updated at: 2026-02-22 21:27:52 (Server Time)
