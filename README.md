@@ -7,7 +7,6 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제22차)](https://www.kps.co.kr) | 20260220 | 20260223 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 화성사업소 사무보조 단기노무원 채용](http://www.kps.co.kr) | 20260220 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[월출산] 월출산국립공원사무소 한시인력(산불감시) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018717) | 20260220 | 20260224 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[오대산] 오대산사무소 기간제(한시인력)[산불감시] 직원 채용(2026년 봄철) 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018713) | 20260220 | 20260224 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 2월 제4차 임시직원 모집 공고(임상병리사, 전화예약)](https://www.knuh.kr/content/04information/02_01.asp) | 20260220 | 20260225 | 비정규직 | 신입 |
@@ -16,6 +15,7 @@
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](www.kohom.or.kr) | 20260220 | 20260227 | 청년인턴(채용형) | 신입+경력 |
 | 통일연구원 | [[통일연구원] 2026년 프로젝트연구위원 공개채용 공고(제2026-02호)](https://www.kinu.or.kr/main/board/view.do?nav_code=mai1674793621&code=Mc1gdidTKIt&idx=25915&ref=0&re_level=0&re_step=0&search_type=subject%2Bcontent&viewPage=1) | 20260213 | 20260228 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 대학운영직(조리원) 채용 재공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=770515) | 20260223 | 20260302 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 포항캠퍼스 무기계약직(대학운영직_조리사) 채용 공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=770564) | 20260223 | 20260303 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-22 22:28:28 (Server Time)
+Updated at: 2026-02-22 23:29:24 (Server Time)
