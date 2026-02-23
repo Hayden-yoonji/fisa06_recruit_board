@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직 간호사-휴직대체(간호부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=245251) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-23 21:50:24 (Server Time)
+Updated at: 2026-02-23 22:43:53 (Server Time)
