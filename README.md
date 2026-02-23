@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 대외사업센터 단기노무원 채용 공고(여수 금호석유화학)](http://www.kps.co.kr) | 20260223 | 20260225 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [2026년 2월 제4차 임시직원 모집 공고(임상병리사, 전화예약)](https://www.knuh.kr/content/04information/02_01.asp) | 20260220 | 20260225 | 비정규직 | 신입 |
-| 한국환경보전원 | [한국환경보전원 녹색환경총괄처 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8109&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260223 | 20260301 | 비정규직 | 신입+경력 |
 | 노사발전재단 | [(노사발전재단) [남녀고용평등 유공자 및 우수기업 포상사업] 단기기간제](https://www.jobkorea.co.kr/Recruit/GI_Read/48647688?Oem_Code=C1&logpath=1&stext=%EB%82%A8%EB%85%80%EA%B3%A0%EC%9A%A9%ED%8F%89%EB%93%B1&listno=1&sc=630) | 20260223 | 20260302 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 포항캠퍼스 무기계약직(대학운영직_조리사) 채용 공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=770564) | 20260223 | 20260303 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 구미캠퍼스 비정규직원(영양사) 채용 공고](https://www.kopo.ac.kr/gumi/board.do?menu=4944&mode=view&post=770572) | 20260223 | 20260304 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 2월 4차 임시직원 채용공고(운영지원 업무보조)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5045&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260224 | 20260302 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 창원캠퍼스 무기계약직원(조리원) 채용 공고](https://www.kopo.ac.kr/changwon/board.do?menu=10551&mode=view&post=770692) | 20260224 | 20260303 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 창원캠퍼스 휴직 대체인력(행정지원직 조리원) 3차 채용 공고](https://www.kopo.ac.kr/changwon/board.do?menu=10551&mode=view&post=770691) | 20260224 | 20260303 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 창원캠퍼스 2026년 상반기 업무지원직(식당 단시간 근로자) 3차 채용 공고](https://www.kopo.ac.kr/changwon/board.do?menu=10551&mode=view&post=770690) | 20260224 | 20260303 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 창원캠퍼스 행정지원직(사무직원 휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/changwon/board.do?menu=10551&mode=view&post=770689) | 20260224 | 20260303 | 비정규직 | 신입+경력 |
+| 재단법인 장애인기업종합지원센터 | [2026년 제2차 장애인기업종합지원센터 직원채용 연장공고(기간제 인력채용)_진주 가치만드소](https://debc.fairyhr.com/announcement/detail/48) | 20260223 | 20260304 | 비정규직 | 신입 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 전임의 채용공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttList.do?mi=32253&bbsId=1158) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
 | 국립중앙의료원 | [계약직 간호사-휴직대체(간호부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=245251) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
-| 한국소방산업기술원 | [2026년 제1차 기간제 근로자 채용 공고](https://kfi.or.kr/portal/bbs/B0000037/view.do?nttId=55829&menuNo=500065&pageIndex=1) | 20260219 | 20260305 | 비정규직 | 신입 |
-| 국민건강보험공단 | [2026년도 상반기 국민건강보험공단 신규직원 채용 공고](https://www.nhis.or.kr/nhis/together/wbhaea02700m01.do?mode=view&articleNo=11009043&article.offset=0&articleLimit=10) | 20260220 | 20260305 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-23 14:51:01 (Server Time)
+Updated at: 2026-02-23 15:50:10 (Server Time)
