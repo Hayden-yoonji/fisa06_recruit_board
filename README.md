@@ -18,4 +18,4 @@
 | 국민건강보험공단 | [2026년도 상반기 국민건강보험공단 신규직원 채용 공고](https://www.nhis.or.kr/nhis/together/wbhaea02700m01.do?mode=view&articleNo=11009043&article.offset=0&articleLimit=10) | 20260220 | 20260305 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-23 08:54:31 (Server Time)
+Updated at: 2026-02-23 09:58:26 (Server Time)
