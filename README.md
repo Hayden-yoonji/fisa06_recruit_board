@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제22차)](https://www.kps.co.kr) | 20260220 | 20260223 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[월출산] 월출산국립공원사무소 한시인력(산불감시) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018717) | 20260220 | 20260224 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[오대산] 오대산사무소 기간제(한시인력)[산불감시] 직원 채용(2026년 봄철) 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018713) | 20260220 | 20260224 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 2월 제4차 임시직원 모집 공고(임상병리사, 전화예약)](https://www.knuh.kr/content/04information/02_01.asp) | 20260220 | 20260225 | 비정규직 | 신입 |
-| 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용([기계3부]'26년 제 9호기 계획예방정비공사 3차 채용)](http://www.kps.co.kr) | 20260220 | 20260225 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [한국환경보전원 환경연수처 기간제(육아휴직 대체) 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8107&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260220 | 20260226 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](www.kohom.or.kr) | 20260220 | 20260227 | 청년인턴(채용형) | 신입+경력 |
-| 통일연구원 | [[통일연구원] 2026년 프로젝트연구위원 공개채용 공고(제2026-02호)](https://www.kinu.or.kr/main/board/view.do?nav_code=mai1674793621&code=Mc1gdidTKIt&idx=25915&ref=0&re_level=0&re_step=0&search_type=subject%2Bcontent&viewPage=1) | 20260213 | 20260228 | 비정규직 | 신입+경력 |
+| 한국환경보전원 | [한국환경보전원 녹색환경총괄처 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8109&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260223 | 20260301 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 대학운영직(조리원) 채용 재공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=770515) | 20260223 | 20260302 | 무기계약직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 포항캠퍼스 무기계약직(대학운영직_조리사) 채용 공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=770564) | 20260223 | 20260303 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 구미캠퍼스 비정규직원(영양사) 채용 공고](https://www.kopo.ac.kr/gumi/board.do?menu=4944&mode=view&post=770572) | 20260223 | 20260304 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 간호사-휴직대체(간호부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=245251) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
+| 한국소방산업기술원 | [2026년 제1차 기간제 근로자 채용 공고](https://kfi.or.kr/portal/bbs/B0000037/view.do?nttId=55829&menuNo=500065&pageIndex=1) | 20260219 | 20260305 | 비정규직 | 신입 |
+| 국민건강보험공단 | [2026년도 상반기 국민건강보험공단 신규직원 채용 공고](https://www.nhis.or.kr/nhis/together/wbhaea02700m01.do?mode=view&articleNo=11009043&article.offset=0&articleLimit=10) | 20260220 | 20260305 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-22 23:29:24 (Server Time)
+Updated at: 2026-02-23 02:30:24 (Server Time)
