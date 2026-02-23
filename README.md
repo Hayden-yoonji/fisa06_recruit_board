@@ -9,7 +9,7 @@
 | 한전KPS(주) | [한전KPS(주) 대외사업센터 단기노무원 채용 공고(여수 금호석유화학)](http://www.kps.co.kr) | 20260223 | 20260225 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 2월 제4차 임시직원 모집 공고(임상병리사, 전화예약)](https://www.knuh.kr/content/04information/02_01.asp) | 20260220 | 20260225 | 비정규직 | 신입 |
 | 한국환경보전원 | [한국환경보전원 녹색환경총괄처 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8109&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260223 | 20260301 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 대학운영직(조리원) 채용 재공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=770515) | 20260223 | 20260302 | 무기계약직 | 신입+경력 |
+| 노사발전재단 | [(노사발전재단) [남녀고용평등 유공자 및 우수기업 포상사업] 단기기간제](https://www.jobkorea.co.kr/Recruit/GI_Read/48647688?Oem_Code=C1&logpath=1&stext=%EB%82%A8%EB%85%80%EA%B3%A0%EC%9A%A9%ED%8F%89%EB%93%B1&listno=1&sc=630) | 20260223 | 20260302 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 포항캠퍼스 무기계약직(대학운영직_조리사) 채용 공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=770564) | 20260223 | 20260303 | 무기계약직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 구미캠퍼스 비정규직원(영양사) 채용 공고](https://www.kopo.ac.kr/gumi/board.do?menu=4944&mode=view&post=770572) | 20260223 | 20260304 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 전임의 채용공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttList.do?mi=32253&bbsId=1158) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
@@ -18,4 +18,4 @@
 | 국민건강보험공단 | [2026년도 상반기 국민건강보험공단 신규직원 채용 공고](https://www.nhis.or.kr/nhis/together/wbhaea02700m01.do?mode=view&articleNo=11009043&article.offset=0&articleLimit=10) | 20260220 | 20260305 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-02-23 09:58:26 (Server Time)
+Updated at: 2026-02-23 10:58:05 (Server Time)
