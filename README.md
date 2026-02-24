@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[대전보훈병원] [긴급] 당직의(응급실 및 병동) 공개채용](https://www.bohun.or.kr/daejeon/na/ntt/selectNttInfo.do?mi=33414&bbsId=1158&bbsSysId=daejeon&nttSn=182861) | 20260224 | 20260306 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-24 21:38:37 (Server Time)
+Updated at: 2026-02-24 22:37:14 (Server Time)
