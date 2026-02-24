@@ -15,7 +15,7 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 창원캠퍼스 행정지원직(사무직원 휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/changwon/board.do?menu=10551&mode=view&post=770689) | 20260224 | 20260303 | 비정규직 | 신입+경력 |
 | 재단법인 장애인기업종합지원센터 | [2026년 제2차 장애인기업종합지원센터 직원채용 연장공고(기간제 인력채용)_진주 가치만드소](https://debc.fairyhr.com/announcement/detail/48) | 20260223 | 20260304 | 비정규직 | 신입 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 전임의 채용공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttList.do?mi=32253&bbsId=1158) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 간호사-휴직대체(간호부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=245251) | 20260223 | 20260305 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)충남전북전력지사(안전감시관) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260224 | 20260306 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-23 23:36:01 (Server Time)
+Updated at: 2026-02-24 02:26:40 (Server Time)
