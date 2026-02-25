@@ -18,4 +18,4 @@
 | 분당서울대학교병원 | [분당서울대학교병원 단시간일반직 채용공고](https://snubh.recruiter.co.kr) | 20260225 | 20260306 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-25 19:17:57 (Server Time)
+Updated at: 2026-02-25 20:39:05 (Server Time)
