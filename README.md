@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 석유화학공정기술교육원 무기계약직(경비원) 채용 공고](https://www.kopo.ac.kr/pptc/board.do?menu=10931&mode=view&post=771032) | 20260227 | 20260306 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-26 19:46:25 (Server Time)
+Updated at: 2026-02-26 20:40:53 (Server Time)
