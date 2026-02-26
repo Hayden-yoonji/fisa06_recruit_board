@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 전남대학교병원 | [2026년도 상반기 전공의(레지던트) 추가모집](https://cnuh.recruiter.co.kr/appsite/company/index) | 20260226 | 20260227 | 정규직 | 신입+경력 |
 | 한국원자력의학원 | [2026년 상반기 전공의(인턴) 추가 모집 공고 ](https://www.kirams.re.kr/kirams/board/generalBoardView7.do?no=22739) | 20260226 | 20260227 | 정규직 | 신입+경력 |
 | 국립중앙의료원 | [2026년도 국립중앙의료원 상반기 전공의 추가모집](https://www.nmc.or.kr/nmc/board/B0000007/26734) | 20260226 | 20260227 | 정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신보령사업소 '26년도 계획예방정비공사 사무보조 단기노무원 추가모집](https://www.kps.co.kr) | 20260226 | 20260303 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 고성 계획예방정비공사 단기노무원(사무보조) 채용(제24차)](https://www.kps.co.kr) | 20260226 | 20260303 | 비정규직 | 신입+경력 |
 | 충남대학교병원 | [[세종] 2026년 계약직 전문의 모집공고(신생아중환자실)](https://cnuhinsa.recruiter.co.kr/career/jobs/101739) | 20260226 | 20260303 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [한국환경보전원 중부지사 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8118&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260226 | 20260304 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-04]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=673f58ca86294c4ba2cda2b5bbb8c975) | 20260226 | 20260305 | 비정규직 | 신입 |
-| 한국도로공사 | [한국도로공사 강릉지사 기간제근로자(상황관리원) 채용공고](https://www.ex.co.kr) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 홍천지사 기간제근로자(도로관리원) 채용공고](https://www.ex.co.kr) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[태백산] 태백산국립공원사무소 봄철 산불감시 기간제(한시인력) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018762) | 20260226 | 20260306 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 고양지점(차량순시 정비보조, 상주감시원) 모집](	https://www.kps.co.kr) | 20260226 | 20260304 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)태안사업처 경상 및 상반기 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr/) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 제주캠퍼스 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/jeju/board.do?menu=5152&mode=view&post=771029) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 고리2사업처 정비보조원(OH, 갑을종) 채용 ](www.kps.co.kr) | 20260226 | 20260306 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-26 07:12:36 (Server Time)
+Updated at: 2026-02-26 08:53:35 (Server Time)
