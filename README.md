@@ -18,4 +18,4 @@
 | 한전KPS(주) | [한전KPS(주) 고리2사업처 정비보조원(OH, 갑을종) 채용 ](www.kps.co.kr) | 20260226 | 20260306 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-26 08:53:35 (Server Time)
+Updated at: 2026-02-26 09:54:12 (Server Time)
