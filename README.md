@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(임상병리사) 직원 채용](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=182956) | 20260226 | 20260309 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-27 08:45:30 (Server Time)
+Updated at: 2026-02-27 09:45:13 (Server Time)
