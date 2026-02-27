@@ -9,13 +9,13 @@
 | 전남대학교병원 | [2026년도 상반기 전공의(레지던트) 추가모집](https://cnuh.recruiter.co.kr/appsite/company/index) | 20260226 | 20260227 | 정규직 | 신입+경력 |
 | 한국원자력의학원 | [2026년 상반기 전공의(인턴) 추가 모집 공고 ](https://www.kirams.re.kr/kirams/board/generalBoardView7.do?no=22739) | 20260226 | 20260227 | 정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 서울경기전력지사 고양지점(차량순시 정비보조, 상주감시원) 모집](	https://www.kps.co.kr) | 20260226 | 20260304 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)태안사업처 7호기 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr/) | 20260227 | 20260305 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)태안사업처 경상 및 상반기 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr/) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 제주캠퍼스 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/jeju/board.do?menu=5152&mode=view&post=771029) | 20260226 | 20260305 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 고리2사업처 정비보조원(OH, 갑을종) 채용 ](www.kps.co.kr) | 20260226 | 20260306 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 석유화학공정기술교육원 무기계약직(경비원) 채용 공고](https://www.kopo.ac.kr/pptc/board.do?menu=10931&mode=view&post=771032) | 20260227 | 20260306 | 무기계약직 | 신입+경력 |
 | 서울올림픽기념국민체육진흥공단 | [2026년 서울올림픽기념국민체육진흥공단 체험형 청년인턴 채용공고 ](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=747&menuNo=200186&pageIndex=2) | 20260223 | 20260309 | 청년인턴(체험형) | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(임상병리사) 직원 채용](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=182956) | 20260226 | 20260309 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[안산병원] 별정직 및 기간제 의사(재활의학과, 내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260226 | 20260309 | 정규직,비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-27 04:47:33 (Server Time)
+Updated at: 2026-02-27 05:54:38 (Server Time)
