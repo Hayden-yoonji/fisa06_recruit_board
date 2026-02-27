@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 전남대학교병원 | [2026년도 상반기 전공의(레지던트) 추가모집](https://cnuh.recruiter.co.kr/appsite/company/index) | 20260226 | 20260227 | 정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 고양지점(차량순시 정비보조, 상주감시원) 모집](	https://www.kps.co.kr) | 20260226 | 20260304 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [2026년 2월 제5차 임시직원 모집 공고(영양사, 방사선사)](https://www.knuh.kr/content/04information/02_01.asp) | 20260227 | 20260304 | 비정규직 | 신입 |
 | 한전KPS(주) | [한전KPS(주)태안사업처 7호기 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr/) | 20260227 | 20260305 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경기남부지사)](www.kohom.or.kr) | 20260227 | 20260306 | 청년인턴(채용형) | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경기남부지사)](www.kohom.or.kr) | 20260227 | 20260306 | 청년인턴(채용형) | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 고리2사업처 정비보조원(OH, 갑을종) 채용 ](www.kps.co.kr) | 20260226 | 20260306 | 비정규직 | 신입+경력 |
+| 한국교육과정평가원 | [2026년 4월 한국교육과정평가원 비정규직원 모집 공고](https://kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100202&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260227 | 20260309 | 비정규직 | 신입 |
 | 국립중앙의료원 | [계약직 연구원A(감염병정보통계연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=246213) | 20260227 | 20260309 | 비정규직 | 경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026학년도 학위과정 시간강사(영어) 신규채용 공고](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=771139) | 20260227 | 20260309 | 비정규직 | 신입 |
 | 서울올림픽기념국민체육진흥공단 | [2026년 서울올림픽기념국민체육진흥공단 체험형 청년인턴 채용공고 ](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=747&menuNo=200186&pageIndex=2) | 20260223 | 20260309 | 청년인턴(체험형) | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(임상병리사) 직원 채용](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=182956) | 20260226 | 20260309 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-02-27 07:51:45 (Server Time)
+Updated at: 2026-02-27 08:45:30 (Server Time)
