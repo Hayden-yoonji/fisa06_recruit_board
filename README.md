@@ -18,4 +18,4 @@
 | 근로복지공단 | [[안산병원] 별정직 및 기간제 의사(재활의학과, 내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260226 | 20260309 | 정규직,비정규직 | 신입 |
 
 ---
-Updated at: 2026-02-27 02:23:04 (Server Time)
+Updated at: 2026-02-27 04:47:33 (Server Time)
