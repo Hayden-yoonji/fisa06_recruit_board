@@ -18,4 +18,4 @@
 | 서울올림픽기념국민체육진흥공단 | [2026년 서울올림픽기념국민체육진흥공단 체험형 청년인턴 채용공고 ](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=747&menuNo=200186&pageIndex=2) | 20260223 | 20260309 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-02-28 11:22:50 (Server Time)
+Updated at: 2026-02-28 12:52:09 (Server Time)
