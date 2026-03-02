@@ -15,7 +15,7 @@
 | 한국교육과정평가원 | [2026년 4월 한국교육과정평가원 비정규직원 모집 공고](https://kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100202&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260227 | 20260309 | 비정규직 | 신입 |
 | 국립중앙의료원 | [계약직 연구원A(감염병정보통계연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=246213) | 20260227 | 20260309 | 비정규직 | 경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026학년도 학위과정 시간강사(영어) 신규채용 공고](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=771139) | 20260227 | 20260309 | 비정규직 | 신입 |
-| 한전KPS(주) | [한전KPS(주) 한울1사업처 한울2호기 제26차 계획예방정비공사 단기노무원 채용 공고(2차)](https://www.kps.co.kr) | 20260227 | 20260311 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 무기계약직원(사감원) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=771285) | 20260303 | 20260310 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-02 22:31:08 (Server Time)
+Updated at: 2026-03-02 23:29:41 (Server Time)
