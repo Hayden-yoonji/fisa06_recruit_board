@@ -18,4 +18,4 @@
 | 정보통신정책연구원 | [2026년 청년인턴 공개채용 재공고](https://www.kisdi.re.kr/bbs/view.do?key=m2101113056115&bbsSn=114873) | 20260303 | 20260313 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-03-03 06:56:46 (Server Time)
+Updated at: 2026-03-03 07:47:21 (Server Time)
