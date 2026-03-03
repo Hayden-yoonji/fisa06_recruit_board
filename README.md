@@ -18,4 +18,4 @@
 | 국립공원공단 | [[무등산동부] 2026년 무등산국립공원동부사무소 국립공원지킴이(녹색순찰대) 2차 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018793) | 20260303 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-03 16:53:35 (Server Time)
+Updated at: 2026-03-03 17:46:25 (Server Time)
