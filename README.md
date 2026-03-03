@@ -18,4 +18,4 @@
 | 한국환경공단 | [한국환경공단 충청권환경본부 환경시설관리처 기간제근로자(촉탁직, 일용직) 채용 공고](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=99137&cpage=1&rows=10&condition=&keyword=) | 20260227 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-03 02:27:56 (Server Time)
+Updated at: 2026-03-03 04:48:48 (Server Time)
