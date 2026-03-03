@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직 야간약사(약제부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=246387) | 20260303 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-03 10:42:45 (Server Time)
+Updated at: 2026-03-03 11:35:10 (Server Time)
