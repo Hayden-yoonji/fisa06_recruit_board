@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 본부] 본부 기간제근로자 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=211404) | 20260304 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-04 11:33:17 (Server Time)
+Updated at: 2026-03-04 13:03:07 (Server Time)
