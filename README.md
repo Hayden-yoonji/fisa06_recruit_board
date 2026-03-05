@@ -18,4 +18,4 @@
 | 서울대학교병원 | [연구교수 공개채용](http://www.snuh.org/about/news/recruit/recruView.do?recruit_id=26033) | 20260306 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-05 15:53:32 (Server Time)
+Updated at: 2026-03-05 18:07:07 (Server Time)
