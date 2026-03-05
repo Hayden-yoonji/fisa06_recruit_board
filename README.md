@@ -18,4 +18,4 @@
 | 한전KPS(주) | [한전KPS 강릉사업소 제26-3차 단기노무원 채용공고](https://www.kps.co.kr/) | 20260305 | 20260313 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-05 09:48:44 (Server Time)
+Updated at: 2026-03-05 10:42:48 (Server Time)
