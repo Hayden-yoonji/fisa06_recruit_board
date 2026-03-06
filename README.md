@@ -6,7 +6,7 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주)서인천사업처 #2CC 계획예방정비공사 단기노무원 추가 채용공고 ](https://www.kps.co.kr) | 20260306 | 20260309 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 3월 1차 임시직원 채용공고(업무보조 간호조무 간호사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5047&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260307 | 20260312 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 중부지사 기간제 직원 채용공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8138&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260306 | 20260312 | 비정규직 | 신입+경력 |
 | 전남대학교병원 | [2026년 3월 화순전남대학교병원 직원(대체근로자) 공개채용 공고 ](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=246792) | 20260306 | 20260313 | 비정규직 | 신입 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](www.kohom.or.kr) | 20260306 | 20260313 | 청년인턴(채용형) | 신입+경력 |
@@ -18,4 +18,4 @@
 | 한국산업안전보건공단 | [[안전보건공단 광주광역본부] 여수안전체험교육장 업무직(시설관리원) 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=12&officeCode=1261&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260306YG090339&fdnsRgnMclsfCd=1261) | 20260306 | 20260316 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-03-06 14:39:45 (Server Time)
+Updated at: 2026-03-06 15:40:42 (Server Time)
