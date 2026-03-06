@@ -18,4 +18,4 @@
 | 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260305 | 20260316 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-03-06 02:22:53 (Server Time)
+Updated at: 2026-03-06 04:43:58 (Server Time)
