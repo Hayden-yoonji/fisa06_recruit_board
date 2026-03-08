@@ -18,4 +18,4 @@
 | 한국산업안전보건공단 | [[안전보건공단 광주광역본부] 여수안전체험교육장 업무직(시설관리원) 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=12&officeCode=1261&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260306YG090339&fdnsRgnMclsfCd=1261) | 20260306 | 20260316 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-03-08 18:38:27 (Server Time)
+Updated at: 2026-03-08 19:26:01 (Server Time)
