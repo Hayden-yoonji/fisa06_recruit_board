@@ -12,10 +12,10 @@
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](www.kohom.or.kr) | 20260306 | 20260313 | 청년인턴(채용형) | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](www.kohom.or.kr) | 20260306 | 20260313 | 청년인턴(채용형) | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 경남서부지사] 기간제 근로자(육아휴직 대체 체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211477&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260306 | 20260313 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 부산지역본부] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211476&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260306 | 20260313 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 포항캠퍼스 무기계약직(조리사)채용 2차공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=771829) | 20260309 | 20260316 | 무기계약직 | 신입+경력 |
 | 국립공원공단 | [[소백산생태탐방원] 2026년도 소백산생태탐방원 국립공원지킴이(녹색순찰대) 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018822) | 20260306 | 20260316 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260306 | 20260316 | 비정규직 | 신입 |
 | 한국산업안전보건공단 | [[안전보건공단 광주광역본부] 여수안전체험교육장 업무직(시설관리원) 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=12&officeCode=1261&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260306YG090339&fdnsRgnMclsfCd=1261) | 20260306 | 20260316 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-03-08 21:27:16 (Server Time)
+Updated at: 2026-03-08 22:27:39 (Server Time)
