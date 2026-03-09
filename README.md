@@ -11,11 +11,11 @@
 | 한전KPS(주) | [한전KPS(주) 대외사업센터 안전패트롤 단기노무원 채용 공고(하남 나래에너지서비스)](http://www.kps.co.kr) | 20260309 | 20260311 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 서울경기전력지사 성남지점 벌목공 모집](www.kps.co.kr) | 20260309 | 20260311 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(7호기 안전)](https://www.kps.co.kr) | 20260309 | 20260311 | 비정규직 | 신입+경력 |
-| 전남대학교병원 | [2026년 3월 화순전남대학교병원 직원(대체근로자) 공개채용 공고 ](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=246792) | 20260306 | 20260313 | 비정규직 | 신입 |
 | 한국도로공사 | [한국도로공사 양양지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260309 | 20260316 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 호남지사 보상사업팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8139&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260309 | 20260316 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(7호기 전기)](https://www.kps.co.kr) | 20260309 | 20260316 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 포항캠퍼스 무기계약직(조리사)채용 2차공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=771829) | 20260309 | 20260316 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 무기계약직원(대학운영직_조리원) 채용 3차 공고](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=771897) | 20260309 | 20260317 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-09 02:28:11 (Server Time)
+Updated at: 2026-03-09 04:54:01 (Server Time)
