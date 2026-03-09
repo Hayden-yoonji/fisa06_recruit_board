@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(방사선사) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=183260) | 20260309 | 20260319 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-09 18:57:21 (Server Time)
+Updated at: 2026-03-09 19:43:23 (Server Time)
