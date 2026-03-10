@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[김해보훈요양원] 2026년 3차 정규직 요양보호직 긴급채용공고](https://www.bohun.or.kr/main/na/ntt/selectNttList.do?bbsId=1158&rcrut=care&mi=37031) | 20260311 | 20260320 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-10 20:37:45 (Server Time)
+Updated at: 2026-03-10 21:31:53 (Server Time)
