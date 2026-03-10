@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 전문의(산부인과) 채용공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=183084) | 20260303 | 20260313 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)제주사업소 기력 3호기 계획예방정비공사 단기노무원 추가 채용공고](https://www.kps.co.kr) | 20260310 | 20260316 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[새만금환경생태단지관리단] 2026년 새만금환경생태단지관리단 한시인력(환경관리_상반기) 직원 채용](https://knps.fairy.im) | 20260310 | 20260317 | 비정규직 | 신입+경력 |
 | 한국전력국제원자력대학원대학교 | [[한국전력국제원자력대학원대학교] 체험형 청년인턴 채용](https://www.kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000245&nttId=5122 ) | 20260310 | 20260317 | 청년인턴(체험형) | 신입 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 서울지사)](https://www.kohom.or.kr) | 20260310 | 20260317 | 청년인턴(채용형) | 신입+경력 |
 | 한국에너지공단 | [한국에너지공단 공무직(경비) 채용 공고(보훈 제한경쟁)](https://www.energy.or.kr/front/board/etc/jobList.do) | 20260310 | 20260318 | 무기계약직 | 신입+경력 |
-| 한국에너지공단 | [한국에너지공단 공무직(시설관리 일반) 채용 공고](https://www.energy.or.kr/front/board/etc/jobList.do) | 20260310 | 20260318 | 무기계약직 | 신입+경력 |
-| 한국에너지공단 | [한국에너지공단 공무직(미화) 채용 공고(사회형평인재 제한경쟁)](https://www.energy.or.kr/front/board/etc/jobList.do) | 20260310 | 20260318 | 무기계약직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 연구원-휴직대체(충남응급의료지원센터) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247106) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 연구원A(경기응급의료지원센터) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247105) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 간호사 또는 응급구조사-휴직대체(서울인천광역응급의료상황팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247104) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 연구원(닥터헬기현장이송팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247102) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [의사직(응급의료정책연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247101) | 20260310 | 20260320 | 정규직 | 신입+경력 |
 | 근로복지공단 | [[태백병원] 별정직 의사(내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260310 | 20260320 | 정규직 | 신입 |
-| 국립공원공단 | [[가야산생태탐방원] 2026년 가야산생태탐방원 국립공원지킴이-2차 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018834) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-10 09:49:59 (Server Time)
+Updated at: 2026-03-10 10:42:40 (Server Time)
