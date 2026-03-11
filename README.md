@@ -18,4 +18,4 @@
 | 한국환경보전원 | [한국환경보전원 중부지사 금강수변생태관리단 기간제 직원 채용공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8146&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260311 | 20260318 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-11 05:51:52 (Server Time)
+Updated at: 2026-03-11 06:58:09 (Server Time)
