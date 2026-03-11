@@ -6,6 +6,7 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주)평택사업소 '26년도 신평택 계획예방정비공사 단기노무원 모집(크레인)](https://www.kps.co.kr) | 20260311 | 20260313 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 대외사업센터 단기노무원(포항_안전감시관) 채용 공고](http:///www.kps.co.kr) | 20260311 | 20260313 | 비정규직 | 경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(경상 기계 5차)](https://www.kps.co.kr) | 20260311 | 20260313 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 호남지사 사업교육팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8147&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260311 | 20260316 | 비정규직 | 신입+경력 |
@@ -15,7 +16,6 @@
 | 국립중앙의료원 | [계약직 연구원-휴직대체(충남응급의료지원센터) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247106) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
 | 국립중앙의료원 | [계약직 연구원A(경기응급의료지원센터) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247105) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
 | 국립중앙의료원 | [계약직 간호사 또는 응급구조사-휴직대체(서울인천광역응급의료상황팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247104) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 연구원(닥터헬기현장이송팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247102) | 20260310 | 20260320 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-11 02:12:35 (Server Time)
+Updated at: 2026-03-11 04:45:10 (Server Time)
