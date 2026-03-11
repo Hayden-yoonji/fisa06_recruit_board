@@ -18,4 +18,4 @@
 | 한국식품안전관리인증원 | [2026년 제4차 체험형인턴 및 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260311 | 20260319 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-03-11 20:37:04 (Server Time)
+Updated at: 2026-03-11 21:36:24 (Server Time)
