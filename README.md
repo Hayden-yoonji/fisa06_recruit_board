@@ -11,11 +11,11 @@
 | 한전KPS(주) | [한전KPS(주)남제주사업소 기력 경상정비공사 단기노무원 채용 공고 ](http://www.kps.co.kr) | 20260312 | 20260318 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한강수변생태관리단 기간제(매수토지 조성(육아휴직 대체) 및 운영·관리 등) 직원 채용공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8151&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260312 | 20260318 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[안산병원] 기간제(간호사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 비정규직 | 신입 |
-| 근로복지공단 | [[인재개발원] 공무직(영선·조경기사, 운전원, 웹디자이너) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260319 | 20260319 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[인재개발원] 공무직(영선·조경기사, 운전원, 웹디자이너) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 무기계약직 | 신입+경력 |
 | 근로복지공단 | [[근로복지공단] 공무직(영선·조경기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 무기계약직 | 경력 |
 | 근로복지공단 | [[근로복지공단] 기간제(보육연구원) 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260312 | 20260319 | 비정규직 | 신입 |
 | 한국도로공사 | [한국도로공사 부여지사 기간제근로자(도로관리원) 채용공고](https://www.ex.co.kr) | 20260312 | 20260319 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 대전충남본부 대전(영동)지사 기간제근로자(조경) 채용공고](https://www.ex.co.kr) | 20260312 | 20260319 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-12 14:52:44 (Server Time)
+Updated at: 2026-03-12 16:01:27 (Server Time)
