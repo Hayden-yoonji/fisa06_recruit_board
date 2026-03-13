@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직(단시간 근로자-장애인)채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247457) | 20260313 | 20260323 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-13 05:51:31 (Server Time)
+Updated at: 2026-03-13 06:58:28 (Server Time)
