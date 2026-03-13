@@ -18,4 +18,4 @@
 | 동남권원자력의학원 | [[직원채용] 별정직 간호직(신경외과 전담 간호사) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260314 | 20260323 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-13 20:38:33 (Server Time)
+Updated at: 2026-03-13 21:36:20 (Server Time)
