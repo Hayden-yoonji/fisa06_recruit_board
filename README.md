@@ -18,4 +18,4 @@
 | 근로복지공단 | [[동해병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260323 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-13 08:44:21 (Server Time)
+Updated at: 2026-03-13 09:41:57 (Server Time)
