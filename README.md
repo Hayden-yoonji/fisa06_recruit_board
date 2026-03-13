@@ -12,10 +12,10 @@
 | 한전KPS(주) | [한전KPS(주)남제주사업소 한림복합 #2GT 계획예방정비공사 단기노무원 채용공고](https://www.kps.co.kr/) | 20260312 | 20260317 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)남제주사업소 기력 경상정비공사 단기노무원 채용 공고 ](http://www.kps.co.kr) | 20260312 | 20260318 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[경주] 2026년 경주국립공원 기간제(탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018852) | 20260313 | 20260319 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[안산병원] 기간제(간호사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 비정규직 | 신입 |
+| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 영주캠퍼스 체험형 청년인턴(일반) 채용 공고](https://www.kopo.ac.kr/yeongju/board.do?menu=6234&mode=view&post=772365) | 20260313 | 20260320 | 청년인턴(체험형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772360) | 20260313 | 20260320 | 청년인턴(체험형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 업무직(사감원) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772354) | 20260313 | 20260320 | 무기계약직 | 신입+경력 |
 | 국립중앙의료원 | [계약직(단시간 근로자-장애인)채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247457) | 20260313 | 20260323 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-13 04:46:25 (Server Time)
+Updated at: 2026-03-13 05:51:31 (Server Time)
