@@ -13,9 +13,9 @@
 | 한전KPS(주) | [한전KPS(주)남제주사업소 기력 경상정비공사 단기노무원 채용 공고 ](http://www.kps.co.kr) | 20260312 | 20260318 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[경주] 2026년 경주국립공원 기간제(탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018852) | 20260313 | 20260319 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[안산병원] 기간제(간호사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 비정규직 | 신입 |
-| 근로복지공단 | [[인재개발원] 공무직(영선·조경기사, 운전원, 웹디자이너) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260319 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772360) | 20260313 | 20260320 | 청년인턴(체험형) | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 업무직(사감원) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772354) | 20260313 | 20260320 | 무기계약직 | 신입+경력 |
 | 국립중앙의료원 | [계약직(단시간 근로자-장애인)채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=247457) | 20260313 | 20260323 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260312 | 20260323 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-13 02:24:12 (Server Time)
+Updated at: 2026-03-13 04:46:25 (Server Time)
