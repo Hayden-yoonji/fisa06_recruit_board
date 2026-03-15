@@ -18,4 +18,4 @@
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260324 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-03-15 02:40:58 (Server Time)
+Updated at: 2026-03-15 05:08:05 (Server Time)
