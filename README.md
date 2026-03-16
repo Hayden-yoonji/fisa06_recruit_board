@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 국립공원공단 | [[경주] 2026년 경주국립공원 기간제(탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018852) | 20260313 | 20260319 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)충남전북전력지사(안전감시관) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260316 | 20260318 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[인천병원] 기간제(물리작업치료사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260320 | 비정규직 | 신입 |
 | 근로복지공단 | [[인천병원] 기간제(방사선사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260320 | 비정규직 | 신입 |
 | 근로복지공단 | [[인천병원] 기간제(연구원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260320 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 영주캠퍼스 체험형 청년인턴(일반) 채용 공고](https://www.kopo.ac.kr/yeongju/board.do?menu=6234&mode=view&post=772365) | 20260313 | 20260320 | 청년인턴(체험형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772360) | 20260313 | 20260320 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 진주캠퍼스 업무직(사감원) 채용 공고](https://www.kopo.ac.kr/jinju/board.do?menu=10555&mode=view&post=772354) | 20260313 | 20260320 | 무기계약직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260323 | 정규직 | 신입 |
 | 동남권원자력의학원 | [[직원채용] 별정직 간호직(신경외과 전담 간호사) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260314 | 20260323 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260313 | 20260324 | 비정규직 | 신입 |
+| 서울올림픽기념국민체육진흥공단 | [한국스포츠과학원 초빙연구원 채용공고(2026 스포츠산업 동향 뉴스레터)](https://www.sports.re.kr/front/board/job/boardView.do?board_seq=115&pageNo=1&menu_seq=+997&con_seq=6556&keyKind3=&keyKind4=&keyKind5=&keyKind6=&keyKind7=&keyKind=TITLE&keyWord=) | 20260312 | 20260326 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-15 23:31:56 (Server Time)
+Updated at: 2026-03-16 02:41:08 (Server Time)
