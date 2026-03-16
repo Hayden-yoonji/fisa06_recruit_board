@@ -18,4 +18,4 @@
 | 경북대학교병원 | [2026년 의료요원(진료의사) 12차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260316 | 20260323 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-16 13:19:24 (Server Time)
+Updated at: 2026-03-16 15:03:14 (Server Time)
