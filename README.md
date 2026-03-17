@@ -6,8 +6,8 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 국립공원공단 | [[한려해상]2026년 한시적 근로자(탐방로보수전담팀) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018875) | 20260317 | 20260322 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[소백산생태탐방원] 2026년도 소백산생태탐방원 국립공원지킴이(녹색순찰대) 채용 재공고 추가접수](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018871) | 20260317 | 20260323 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 한울2사업처 한울4호기 제18차 계획예방정비공사 단기노무원 1차 채용공고](	https://www.uljin21.com/) | 20260317 | 20260323 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[대전병원] 공무직(시설미화원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260317 | 20260324 | 무기계약직 | 신입 |
 | 근로복지공단 | [[경기요양병원] 공무직(영선조경기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260317 | 20260324 | 무기계약직 | 신입 |
 | 근로복지공단 | [[정선병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260317 | 20260324 | 무기계약직 | 신입 |
@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 업무지원직(간병지원) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=183531) | 20260317 | 20260327 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-17 10:00:11 (Server Time)
+Updated at: 2026-03-17 11:02:00 (Server Time)
