@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 업무지원직(간병지원) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=183531) | 20260317 | 20260327 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-17 13:18:19 (Server Time)
+Updated at: 2026-03-17 14:59:51 (Server Time)
