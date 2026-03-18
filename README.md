@@ -9,13 +9,13 @@
 | 국립공원공단 | [[한려해상]2026년 한시적 근로자(탐방로보수전담팀) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018875) | 20260317 | 20260322 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[속리산] 2026년 속리산국립공원사무소 기간제(한시인력- 탐방로보수) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018877) | 20260318 | 20260324 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[대전병원] 공무직(시설미화원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260317 | 20260324 | 무기계약직 | 신입 |
-| 근로복지공단 | [[경기요양병원] 공무직(영선조경기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260317 | 20260324 | 무기계약직 | 신입 |
 | 국립공원공단 | [[태백산] 태백산국립공원사무소 자생식물증식장 관리원 한시인력 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018879) | 20260318 | 20260325 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[내장산] 2026년 내장산국립공원 기간제(탐방로 보수전담팀) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018878) | 20260318 | 20260325 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)부산경남전력지사 기장지점 단기노무원(수목관리사, 정비보조)모집](https://www.kps.co.kr) | 20260318 | 20260325 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[변산반도] 2026년 변산반도국립공원 기간제(환경관리_한시인력_2차) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018876) | 20260318 | 20260325 | 비정규직 | 신입+경력 |
+| 한국수자원공사 | [[한국수자원공사] 대청댐지사 단기계약근로자(댐부대시설관리 지원_선박운영관리) 채용 공고](https://k-water.recruiter.co.kr/) | 20260318 | 20260326 | 비정규직 | 신입+경력 |
 | 한국산업안전보건공단 | [[안전보건공단 산업안전보건연구원(대전)] 업무직(시설관리원) 채용공고](https://oshri.kosha.or.kr/oshri/researcherNews/notice.do?mode=view&articleNo=456756&article.offset=0&articleLimit=10) | 20260317 | 20260327 | 무기계약직 | 신입 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 업무지원직(간병지원) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=183531) | 20260317 | 20260327 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-18 02:31:06 (Server Time)
+Updated at: 2026-03-18 04:59:06 (Server Time)
