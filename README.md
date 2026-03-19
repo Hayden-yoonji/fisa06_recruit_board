@@ -6,15 +6,15 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(7호기 기계 2차)](https://www.kps.co.kr) | 20260319 | 20260323 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(경상 기계 6차)](https://www.kps.co.kr) | 20260319 | 20260323 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[계룡산] 계룡산국립공원 기간제(한시인력-탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018886) | 20260319 | 20260324 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [2026년 한국환경보전원 영산강수변생태관리단 사후관리팀 기간제(전담관리인) 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8173&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260319 | 20260324 | 비정규직 | 신입+경력 |
 | 한전KDN | [한전KDN(주) ICT사업 지원업무 프로젝트 계약근로자 채용공고](.) | 20260319 | 20260325 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제(작업치료사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260318 | 20260325 | 비정규직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(병동당직의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260318 | 20260325 | 비정규직 | 신입 |
-| 근로복지공단 | [[동해병원] 기간제 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260318 | 20260325 | 비정규직 | 신입 |
-| 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260318 | 20260325 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 행정지원직(교학처 학과조교 휴직 대체) 4차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=772690) | 20260319 | 20260327 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 상반기 업무지원직(식당파트타임) 3차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=772687) | 20260319 | 20260327 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-19 02:32:11 (Server Time)
+Updated at: 2026-03-19 04:56:41 (Server Time)
