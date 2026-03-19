@@ -18,4 +18,4 @@
 | 근로복지공단 | [[경산지사] 기간제(보험가입조사원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260319 | 20260327 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-03-19 20:41:27 (Server Time)
+Updated at: 2026-03-19 21:38:47 (Server Time)
