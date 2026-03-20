@@ -10,11 +10,11 @@
 | 한전KPS(주) | [한전KPS(주)태안사업처 9호기 계획예방정비공사 단기노무원 추가 채용(3차)](https://www.kps.co.kr/) | 20260320 | 20260325 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 경인지사 및 부천, 고양, 안양사업소 기간제(사무보조직, 운전직, 운송직) 채용 공고](http://www.pola.or.kr) | 20260320 | 20260326 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 충북본부 관내 보은지사 기간제근로자(조경) 2차 채용공고](https://www.ex.co.kr) | 20260320 | 20260327 | 비정규직 | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 일산직업능력개발원] 2026년 정신보건사 대체근로자(체험형 청년 인턴) 채용 재공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211881&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260320 | 20260327 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 근로복지공단 | [[직업환경연구원] 기간제(연구위원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260320 | 20260330 | 비정규직 | 신입 |
 | 근로복지공단 | [[안산병원] 의료직 7급(간호조무사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260320 | 20260330 | 정규직 | 신입 |
 | 근로복지공단 | [[경기요양병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260320 | 20260330 | 정규직 | 신입 |
 | 분당서울대학교병원 | [분당서울대학교병원 경력(간호직, 기술직), 신입(보건직) 직원 채용공고](http://snubh.recruiter.co.kr) | 20260320 | 20260330 | 정규직 | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 서울남부지사] 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211886&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260320 | 20260330 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-03-20 07:00:08 (Server Time)
+Updated at: 2026-03-20 07:51:39 (Server Time)
