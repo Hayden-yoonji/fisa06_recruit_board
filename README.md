@@ -17,4 +17,4 @@
 | 분당서울대학교병원 | [분당서울대학교병원 신입(업무지원직 장애인) 직원 채용 공고](https://snubh.recruiter.co.kr) | 20260320 | 20260330 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-20 02:24:45 (Server Time)
+Updated at: 2026-03-20 04:49:02 (Server Time)
