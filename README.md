@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주) 신보령사업소 26년도 계획예방정비공사 기계보조 단기노무원 4차 추가채용](https://www.kps.co.kr) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 원자력정비기술센터 단기노무원(플랜트전공, 플랜트특별인부, 사무보조) 모집](https://www.kps.co.kr ) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 발전정비기술센터 단기노무원 채용(안전보건 업무보조)](https://www.kps.co.kr) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 신수원지점 26년도 정비점검보수공사 단기노무원 3차 채용](https://www.kps.co.kr/) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)안양사업소 경상정비공사 단기노무원 모집(정비보조)]( https://www.kps.co.kr ) | 20260323 | 20260326 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[변산반도생태탐방원] 2026년 2차 변산반도생태탐방원 기간제[한시인력(수익시설)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018897) | 20260323 | 20260327 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)여수사업처 경상정비공사 단기노무원 모집](https://www.kps.co.kr) | 20260323 | 20260326 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 호남지사 사업교육팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8182&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260323 | 20260329 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[주왕산] 2026년 주왕산 한시인력(탐방로보수) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018898) | 20260323 | 20260330 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [육아휴직 대체직 채용공고(주택관리공단 부산울산지사)](https://www.kohom.or.kr) | 20260323 | 20260330 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 3월 제3차 임시직원 모집 공고(영양사, 미화청소)](	https://www.knuh.kr/content/04information/02_01.asp) | 20260323 | 20260330 | 비정규직 | 신입 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 충북지사)](https://www.kohom.or.kr) | 20260323 | 20260330 | 청년인턴(채용형) | 신입+경력 |
-| 국립중앙의료원 | [계약직 간호사(감염내과-상담실) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=248557) | 20260323 | 20260402 | 비정규직 | 경력 |
+| 한국관광공사 | [한국관광공사 2026년 일반직 신입사원 채용 공고](https://knto.or.kr/recruitInfo) | 20260316 | 20260401 | 정규직 | 신입+경력 |
+| 국립호남권생물자원관 | [국립호남권생물자원관 기간제(단시간)근로자 채용공고](https://hnibr.re.kr/ko/M000000515/bbs/view?pstNo=33491&pageUnit=10&pageIndex=1&searchCnd=01&searchWrd=&searchPstClCdId=) | 20260323 | 20260401 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-23 02:33:11 (Server Time)
+Updated at: 2026-03-23 05:05:33 (Server Time)
