@@ -9,13 +9,13 @@
 | 한전KPS(주) | [한전KPS(주)신세종사업소 경상 안전감시관 채용](https://www.kps.co.kr) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신보령사업소 26년도 계획예방정비공사 기계보조 단기노무원 4차 추가채용](https://www.kps.co.kr) | 20260323 | 20260325 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)여수사업처 경상정비공사 단기노무원 모집](https://www.kps.co.kr) | 20260323 | 20260326 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[소백산북부] 2026년 봄철 한시인력(탐방로보수) 채용 추가접수 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018902) | 20260323 | 20260328 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[태백병원] 기간제(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260323 | 20260330 | 비정규직 | 신입 |
 | 근로복지공단 | [[태백병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260323 | 20260330 | 무기계약직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(병동당직의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260323 | 20260330 | 비정규직 | 신입 |
 | 경북대학교병원 | [2026년 의료요원(진료교수) 15차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260323 | 20260330 | 정규직 | 신입 |
 | 서울대학교병원 | [서울대학교병원 블라인드 직원채용 (대체근로자) 공고 (장애인 특별우대)](https://recruit.snuh.org/joining/recruit/view.do?notice_type=E&recruit_id=26042) | 20260323 | 20260330 | 비정규직 | 신입 |
 | 한국관광공사 | [한국관광공사 2026년 일반직 신입사원 채용 공고](https://knto.or.kr/recruitInfo) | 20260316 | 20260401 | 정규직 | 신입+경력 |
-| 국립호남권생물자원관 | [국립호남권생물자원관 기간제(단시간)근로자 채용공고](https://hnibr.re.kr/ko/M000000515/bbs/view?pstNo=33491&pageUnit=10&pageIndex=1&searchCnd=01&searchWrd=&searchPstClCdId=) | 20260323 | 20260401 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-23 07:15:08 (Server Time)
+Updated at: 2026-03-23 09:01:00 (Server Time)
