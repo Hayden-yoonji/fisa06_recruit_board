@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백병원] 별정직 의사(내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260324 | 20260403 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-03-24 17:02:20 (Server Time)
+Updated at: 2026-03-24 19:07:17 (Server Time)
