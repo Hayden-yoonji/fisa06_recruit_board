@@ -11,11 +11,11 @@
 | 근로복지공단 | [[태백요양병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260325 | 20260401 | 무기계약직 | 신입 |
 | 한국장애인고용공단 | [[한국장애인고용공단 대전직업능력개발원] 교사직 대체근로자(체험형 청년인턴) 채용공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=211994) | 20260325 | 20260401 | 비정규직,청년인턴(체험형) | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 대전직업능력개발원] 일반직 대체근로자(체험형 청년인턴) 채용공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=211992) | 20260325 | 20260401 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 원자력정비기술센터 단기노무원(플랜트 기계설치공, 보통인부) 모집](https://www.kps.co.kr ) | 20260326 | 20260401 | 비정규직 | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 부산직업능력개발원] 일반직 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=211999&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260325 | 20260402 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 수원지점 단기노무원(차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260326 | 20260403 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 분당융합기술교육원 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/ctc/board.do?menu=5265&mode=view&post=773044) | 20260326 | 20260403 | 비정규직 | 신입+경력 |
 | 분당서울대학교병원 | [분당서울대학교병원 2026년 체험형 인턴 채용공고](http://snubh.recruiter.co.kr) | 20260325 | 20260403 | 청년인턴(체험형) | 신입 |
 | 분당서울대학교병원 | [분당서울대학교병원 2026년 체험형 인턴(장애인) 채용공고](http://snubh.recruiter.co.kr) | 20260325 | 20260403 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-03-25 23:38:33 (Server Time)
+Updated at: 2026-03-26 02:37:05 (Server Time)
