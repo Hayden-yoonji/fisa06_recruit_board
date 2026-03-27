@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 국립공원공단 | [[지리산전북] 지리산국립공원전북사무소 한시인력(탐방로보수) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018931) | 20260326 | 20260330 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제29차)](https://www.kps.co.kr) | 20260326 | 20260330 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)충남전북전력지사(안전감시관) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260326 | 20260330 | 비정규직 | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 본부] 본부 기간제근로자 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212011&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260325 | 20260401 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-07]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=d92f4abc2693422283785823a855dadf) | 20260326 | 20260402 | 비정규직 | 신입 |
-| 한국도로공사 | [한국도로공사 함평지사 기간제근로자(도로관리원) 채용공고](https://www.ex.co.kr) | 20260326 | 20260402 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](https://www.kohom.or.kr) | 20260326 | 20260402 | 청년인턴(채용형) | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 수원지점 단기노무원(차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260326 | 20260403 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 분당융합기술교육원 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/ctc/board.do?menu=5265&mode=view&post=773044) | 20260326 | 20260403 | 비정규직 | 신입+경력 |
-| 대구경북첨단의료산업진흥재단 | [대구경북첨단의료산업진흥재단 2026년 제1차(연장) 정원외 계약직원 채용 공고](https://kmedihub.recruiter.co.kr) | 20260327 | 20260405 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한국환경보전원 | [한국환경보전원 영남지사 진양호 야생생물특별보호구역 환경감시원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8209&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260327 | 20260401 | 비정규직 | 신입+경력 |
+| 한국환경보전원 | [한국환경보전원 영남지사 뉴트리아 퇴치전담반 기간제 근로 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8207&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260327 | 20260401 | 비정규직 | 신입+경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 전북지사] 체험형 청년인턴(대체근로자) 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212047&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260327 | 20260403 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](https://www.kohom.or.kr) | 20260327 | 20260403 | 청년인턴(채용형) | 신입+경력 |
+| 한국보훈복지의료공단 | [[부산보훈병원] 청년인턴(체험형-일반) 긴급채용공고 ](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183854) | 20260327 | 20260406 | 청년인턴(체험형) | 신입+경력 |
+| 한국보훈복지의료공단 | [[부산보훈병원] 계약직(임상병리사-단시간) 긴급공개채용](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183853) | 20260327 | 20260406 | 비정규직 | 신입+경력 |
+| 한국보훈복지의료공단 | [[부산보훈병원] 업무지원직(고객지원) 긴급채용공고](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183852) | 20260327 | 20260406 | 무기계약직 | 신입+경력 |
+| 국립공원공단 | [[내장산] 2026년 내장산국립공원 기간제(탐방로 보수전담팀) 직원 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018933) | 20260327 | 20260406 | 비정규직 | 신입+경력 |
+| 한국수목원정원관리원 | [한국수목원정원관리원 2026년 제1차 체험형 청년인턴 및 기간제 근로자 채용 공고](https://www.koagi.or.kr/contents/dynamicDetail?menuId=M0008&upMenuId=M0007&s0&postNo=4500) | 20260327 | 20260406 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)신서천사업소 26년 3차 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr) | 20260327 | 20260406 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-26 23:35:58 (Server Time)
+Updated at: 2026-03-27 02:38:53 (Server Time)
