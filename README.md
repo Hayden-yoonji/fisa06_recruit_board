@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[부산보훈병원] 계약직(임상병리사-단시간) 긴급공개채용](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183853) | 20260327 | 20260406 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-28 18:45:33 (Server Time)
+Updated at: 2026-03-28 19:32:14 (Server Time)
