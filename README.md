@@ -15,7 +15,7 @@
 | 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-09]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=22cef4fe8ac24329882cb108c34aaeb8) | 20260327 | 20260403 | 비정규직 | 신입 |
 | 에너지경제연구원 | [[에너지경제연구원] 공공기관 청년인턴(장애인제한경쟁) 채용 재공고(운영지원팀)](https://recruit.keei.re.kr:10443/ext/rec/rec_1000.jsp?SCH_ANNC_NM=&%20id=) | 20260327 | 20260406 | 청년인턴(체험형) | 신입+경력 |
 | 한국보훈복지의료공단 | [[부산보훈병원] 청년인턴(체험형-일반) 긴급채용공고 ](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183854) | 20260327 | 20260406 | 청년인턴(체험형) | 신입+경력 |
-| 한국보훈복지의료공단 | [[부산보훈병원] 계약직(임상병리사-단시간) 긴급공개채용](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=183853) | 20260327 | 20260406 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 대구캠퍼스 행정지원직(사무직원 휴직대체인력) 채용 공고](https://www.kopo.ac.kr/daegu/board.do?menu=10546&mode=view&post=773151) | 20260327 | 20260408 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-28 23:34:42 (Server Time)
+Updated at: 2026-03-29 02:42:39 (Server Time)
