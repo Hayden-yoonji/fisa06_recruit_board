@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 대구캠퍼스 행정지원직(사무직원 휴직대체인력) 채용 공고](https://www.kopo.ac.kr/daegu/board.do?menu=10546&mode=view&post=773151) | 20260327 | 20260408 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-03-29 13:01:58 (Server Time)
+Updated at: 2026-03-29 14:36:14 (Server Time)
