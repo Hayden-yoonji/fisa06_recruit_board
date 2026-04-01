@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 서울지역본부] 서울지역본부권(서울·강원) 기간제근로자(체험형 청년인턴) 통합채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=212186) | 20260401 | 20260409 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-01 20:49:31 (Server Time)
+Updated at: 2026-04-01 21:45:01 (Server Time)
