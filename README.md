@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제30차)](https://www.kps.co.kr) | 20260401 | 20260403 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [2026년 4월 제1차 임시직원 모집 공고(임상병리사, 주차관리, 방사선사)](https://www.knuh.kr/content/04information/02_01.asp) | 20260401 | 20260406 | 비정규직 | 신입 |
 | 한전KPS(주) | [한전KPS(주) 서울경기전력지사 군포지점 단기노무원(상주감시, 차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260401 | 20260406 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)평택사업소 '26년도 신평택 계획예방정비공사 단기노무원 모집(전기)](https://www.kps.co.kr) | 20260401 | 20260406 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제(한시인력_탐방로보수) 직원 채용 공고](https://www.knps.or.kr/AdmnKoreaNphs/main/main.do?menuNo=8000028) | 20260401 | 20260407 | 비정규직 | 신입+경력 |
 | 한국행정연구원 | [2026년 제1차 청년인턴(제한경쟁) 채용 공고](https://www.kipa.re.kr/html/kor/cmn/bbs/cmnBbsGenList.do/319) | 20260401 | 20260407 | 청년인턴(체험형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 울산지사] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&searchCondition=sjcn&searchKeyword=&menuId=MENU0895&adt1Code=&adt2Code=&registDeptCode=&bbsCode=deptgongji&bbsCnId=212117) | 20260331 | 20260407 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 경남동부지사] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&searchCondition=sjcn&searchKeyword=&menuId=MENU0895&adt1Code=&adt2Code=&registDeptCode=&bbsCode=deptgongji&bbsCnId=212116) | 20260331 | 20260407 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경남지사)](https://www.kohom.or.kr) | 20260401 | 20260409 | 청년인턴(채용형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부] 기간제 근로자 및 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212122&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260401 | 20260410 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 행정지원직(학과조교직 육아휴직 대체) 채용 공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=773435) | 20260401 | 20260410 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[무등산] 2026년 무등산사무소 국립공원지킴이(녹색순찰대) 모집 공고(2차)](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018967) | 20260331 | 20260410 | 비정규직 | 신입+경력 |
+| 한국도로공사 | [한국도로공사 서산아산건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
+| 한국도로공사 | [한국도로공사 춘천지사 기간제근로자(상황관리원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)신서천사업소 26년 4차 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 서울지역본부] 서울지역본부권(서울·강원) 기간제근로자(체험형 청년인턴) 통합채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=212186) | 20260401 | 20260409 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부, 경북지사] 기간제 근로자 및 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212122&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260401 | 20260410 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-01 05:27:09 (Server Time)
+Updated at: 2026-04-01 07:25:33 (Server Time)
