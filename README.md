@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 계획예방정비공사 단기노무원 채용(제30차)](https://www.kps.co.kr) | 20260401 | 20260403 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 4월 제1차 임시직원 모집 공고(임상병리사, 주차관리, 방사선사)](https://www.knuh.kr/content/04information/02_01.asp) | 20260401 | 20260406 | 비정규직 | 신입 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 군포지점 단기노무원(상주감시, 차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260401 | 20260406 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제(한시인력_탐방로보수) 직원 채용 공고](https://www.knps.or.kr/AdmnKoreaNphs/main/main.do?menuNo=8000028) | 20260401 | 20260407 | 비정규직 | 신입+경력 |
 | 한국행정연구원 | [2026년 제1차 청년인턴(제한경쟁) 채용 공고](https://www.kipa.re.kr/html/kor/cmn/bbs/cmnBbsGenList.do/319) | 20260401 | 20260407 | 청년인턴(체험형) | 신입+경력 |
+| 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260401 | 20260408 | 비정규직 | 신입 |
+| 한국환경보전원 | [2026년 환경교육지원처 기간제(교육행정)직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8237&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 서산아산건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 춘천지사 기간제근로자(상황관리원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)신서천사업소 26년 4차 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 서울지역본부] 서울지역본부권(서울·강원) 기간제근로자(체험형 청년인턴) 통합채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=212186) | 20260401 | 20260409 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부, 경북지사] 기간제 근로자 및 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212122&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260401 | 20260410 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-01 07:25:33 (Server Time)
+Updated at: 2026-04-01 09:08:54 (Server Time)
