@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 경상정비공사 단기노무원 채용(제31차)](https://www.kps.co.kr) | 20260402 | 20260406 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 원자력정비기술센터 단기노무원(플랜트특별인부) 모집](https://www.kps.co.kr ) | 20260403 | 20260406 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 부산경남전력지사 함안지점 단기노무원(차량순시, 상주감시) 모집](https://www.kps.co.kr) | 20260402 | 20260406 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [2026년 4월 제1차 임시직원 모집 공고(임상병리사, 주차관리, 방사선사)](https://www.knuh.kr/content/04information/02_01.asp) | 20260401 | 20260406 | 비정규직 | 신입 |
-| 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제(한시인력_탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018974) | 20260401 | 20260407 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 대구지사 안동, 포항사업소 기간제(운전직, 연차자대체) 채용 공고](https://www.pola.or.kr) | 20260402 | 20260408 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 3차 임시직원 채용공고(행정 간호사 조경관리)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5056&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260403 | 20260408 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 2차 임시직원 채용공고(간호사 행정))](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5054&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260403 | 20260408 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 1차 임시직원 채용공고(간호사 간호조무 방사선사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5053&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260403 | 20260408 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260401 | 20260408 | 비정규직 | 신입 |
-| 한국환경보전원 | [2026년 환경교육지원처 기간제(교육행정)직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8237&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 서산아산건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[설악산] 설악산국립공원 기간제 직원[탐방로보수(한시인력)] 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018981) | 20260402 | 20260409 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [제주대학교병원 사업인력 계약직(의료기기안전정보모니터링센터), 단기간 계약직(조리·배식원), 휴직대체 계약직(조리·배식원) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22818/view.do) | 20260402 | 20260409 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-02 14:59:34 (Server Time)
+Updated at: 2026-04-02 16:08:11 (Server Time)
