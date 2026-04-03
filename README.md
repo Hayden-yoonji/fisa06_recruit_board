@@ -11,11 +11,11 @@
 | 한전KPS(주) | [한전KPS(주)충남전북전력지사(안전감시관) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260403 | 20260407 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 서산아산건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260401 | 20260408 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 대구지사 안동, 포항사업소 기간제(운전직, 연차자대체) 채용 공고](https://www.pola.or.kr) | 20260402 | 20260408 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[설악산] 설악산국립공원 기간제 직원[탐방로보수(한시인력)] 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018981) | 20260402 | 20260409 | 비정규직 | 신입+경력 |
+| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경기남부지사)](https://www.kohom.or.kr) | 20260403 | 20260410 | 청년인턴(채용형) | 신입+경력 |
 | 한국산업안전보건공단 | [[안전보건공단 경기동부지사] 기간제 근로자 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=17&officeCode=1726&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260403A1080455&fdnsRgnMclsfCd=1726) | 20260403 | 20260413 | 비정규직 | 신입 |
 | 국립공원공단 | [[태백산] 2026년도 태백산국립공원사무소 국립공원지킴이(4차) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM018982) | 20260403 | 20260413 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 울산캠퍼스 산학협력중점교수 채용 공고(5차)](https://www.kopo.ac.kr/ulsan/board.do?menu=3714&mode=view&post=773605) | 20260403 | 20260413 | 비정규직 | 경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 정규직-무기계약직 업무지원직(취사원) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=184146) | 20260402 | 20260413 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-03 02:36:51 (Server Time)
+Updated at: 2026-04-03 05:07:32 (Server Time)
