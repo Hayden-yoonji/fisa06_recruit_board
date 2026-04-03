@@ -18,4 +18,4 @@
 | 한국산업안전보건공단 | [[안전보건공단 경기동부지사] 기간제 근로자 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=17&officeCode=1726&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260403A1080455&fdnsRgnMclsfCd=1726) | 20260403 | 20260413 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-04-03 08:58:48 (Server Time)
+Updated at: 2026-04-03 09:58:23 (Server Time)
