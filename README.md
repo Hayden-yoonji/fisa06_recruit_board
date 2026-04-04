@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [의사직(응급의료정책연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=250023) | 20260403 | 20260413 | 정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-04 20:36:05 (Server Time)
+Updated at: 2026-04-04 21:34:25 (Server Time)
