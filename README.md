@@ -18,4 +18,4 @@
 | 에너지경제연구원 | [[에너지경제연구원] 공공기관 청년인턴(장애인제한경쟁) 채용 재공고(운영지원팀)](https://recruit.keei.re.kr:10443/ext/rec/rec_1000.jsp?SCH_ANNC_NM=&%20id=) | 20260406 | 20260416 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-06 22:39:47 (Server Time)
+Updated at: 2026-04-06 23:39:25 (Server Time)
