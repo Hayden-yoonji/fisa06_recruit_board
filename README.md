@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주)서인천사업처 2CC 계획예방정비공사 단기노무원 추가 채용공고](https://www.kps.co.kr) | 20260407 | 20260410 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 4차 임시직원 채용공고(업무보조, 간호사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5057&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260408 | 20260413 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260407 | 20260414 | 비정규직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260407 | 20260414 | 비정규직 | 신입 |
 | 국민연금공단 | [2026년 체험형 청년인턴 공개채용 공고](https://nps.saramin.co.kr) | 20260407 | 20260414 | 청년인턴(체험형) | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 전력기술교육원 업무직(경비원) 공개채용 공고](https://www.kopo.ac.kr/power/board.do?menu=16557&mode=view&post=773904) | 20260407 | 20260415 | 무기계약직 | 신입+경력 |
+| 국민연금공단 | [[국민연금공단 광주지역본부] 공무직(보안직) 공개채용 공고](https://www.nps.or.kr/pnsgdnc/hiregdnc/getOHAE0004M0List.do?menuId=MN24000969) | 20260408 | 20260415 | 무기계약직 | 신입 |
 | 학교법인한국폴리텍 | [2026년도 한국폴리텍대학 전력기술교육원 청년인턴(장애) 공개채용 공고](https://www.kopo.ac.kr/power/board.do?menu=16557&mode=view&post=773884) | 20260407 | 20260415 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 행정지원직(교학처 학과조교 휴직 대체) 5차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=773886) | 20260407 | 20260415 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 상반기 업무지원직(식당파트타임) 4차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=773882) | 20260407 | 20260415 | 비정규직 | 신입+경력 |
-| 한국환경공단 | [한국환경공단 충청권환경본부 환경시설관리처 기간제근로자(촉탁직, 일용직) 채용 재공고](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=99420&cpage=1&rows=10&condition=&keyword=) | 20260407 | 20260416 | 비정규직 | 신입+경력 |
+| 한국식품안전관리인증원 | [2026년 제5차 체험형인턴 및 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260408 | 20260416 | 비정규직,청년인턴(체험형) | 신입+경력 |
 | 한국환경공단 | [한국환경공단 기후환경본부 배출권관리처 ETS정책지원부 기간제근로자(촉탁라급) 채용공고](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=99424&cpage=1&rows=10&condition=&keyword=) | 20260407 | 20260417 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-04-07 13:52:49 (Server Time)
+Updated at: 2026-04-07 15:11:31 (Server Time)
