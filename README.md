@@ -18,4 +18,4 @@
 | 한국환경공단 | [한국환경공단 기후환경본부 배출권관리처 ETS정책지원부 기간제근로자(촉탁라급) 채용공고](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=99424&cpage=1&rows=10&condition=&keyword=) | 20260407 | 20260417 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-04-07 09:06:20 (Server Time)
+Updated at: 2026-04-07 10:58:58 (Server Time)
