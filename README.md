@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 항공캠퍼스 대학운영직(운전원) 4차 공개채용 공고](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=773977) | 20260408 | 20260417 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-04-08 11:59:44 (Server Time)
+Updated at: 2026-04-08 13:57:15 (Server Time)
