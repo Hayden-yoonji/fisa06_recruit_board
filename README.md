@@ -13,9 +13,9 @@
 | 한전KPS(주) | [한전KPS(주) 대외사업센터 광양BM시운전반 운전보조원 채용 공고](http://www.kps.co.kr) | 20260410 | 20260415 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[인천병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260410 | 20260417 | 비정규직 | 신입 |
 | 근로복지공단 | [[근로복지공단] 기간제(전산원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260410 | 20260417 | 비정규직 | 신입 |
-| 경북대학교병원 | [2026년 의료요원(진료교수) 17차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260410 | 20260417 | 정규직 | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 서울정수캠퍼스 행정지원직(휴직대체) 채용 공고](https://www.kopo.ac.kr/jungsu/board.do?menu=254&mode=view&post=774127) | 20260410 | 20260418 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260410 | 20260420 | 정규직 | 신입 |
+| 노사발전재단 | [[노사발전재단 인천중장년내일센터] 사무보조 단기기간제 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=53592671&view_type=etc&ref=recruit_manage) | 20260410 | 20260421 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 파주사업소 26년도 정기점검보수공사 단기노무원 채용](https://www.kps.co.kr/) | 20260410 | 20260421 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-10 23:38:34 (Server Time)
+Updated at: 2026-04-11 02:32:08 (Server Time)
