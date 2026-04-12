@@ -18,4 +18,4 @@
 | 동남권원자력의학원 | [[직원채용] 동남권원자력의학원 박사후 연수연구원(첨단방사선바이오연구팀) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260413 | 20260422 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-12 19:41:04 (Server Time)
+Updated at: 2026-04-12 20:40:08 (Server Time)
