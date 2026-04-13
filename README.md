@@ -18,4 +18,4 @@
 | 근로복지공단 | [[대전병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 무기계약직 | 경력 |
 
 ---
-Updated at: 2026-04-13 20:07:36 (Server Time)
+Updated at: 2026-04-13 21:53:26 (Server Time)
