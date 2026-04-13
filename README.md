@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(경상 기술)](https://www.kps.co.kr) | 20260413 | 20260415 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[인천병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260410 | 20260417 | 비정규직 | 신입 |
-| 국립공원공단 | [[태백산] 태백산국립공원사무소 탐방로 보수전담팀 기간제(한시인력) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019020) | 20260413 | 20260420 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260410 | 20260420 | 정규직 | 신입 |
-| 대한적십자사 | [경인권역재활병원 정규직 간호사 채용 공고](https://www.redcross.or.kr/redrecruit/) | 20260413 | 20260421 | 정규직 | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 동부산캠퍼스 사무직원 휴직자 대체인력 채용 공고](https://www.kopo.ac.kr/dongbusan/board.do?menu=6515&mode=view&post=774187) | 20260413 | 20260421 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 동부산캠퍼스 청년인턴(일반) 채용 공고](https://www.kopo.ac.kr/dongbusan/board.do?menu=6515&mode=view&post=774178) | 20260413 | 20260421 | 청년인턴(체험형) | 신입+경력 |
-| 노사발전재단 | [[노사발전재단 인천중장년내일센터] 사무보조 단기기간제 채용](https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=53592671&view_type=etc&ref=recruit_manage) | 20260410 | 20260421 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 구미캠퍼스 체험형 청년인턴(장애제한경쟁) 채용](https://www.kopo.ac.kr/gumi/board.do?menu=4944&mode=view&post=774148) | 20260413 | 20260421 | 청년인턴(체험형) | 신입+경력 |
-| 동남권원자력의학원 | [[직원채용] 동남권원자력의학원 박사후 연수연구원(첨단방사선바이오연구팀) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260413 | 20260422 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [2026년 4월 제2차 임시직원 모집 공고(조리원, 간호직 또는 별정직)](https://www.knuh.kr/content/04information/02_01.asp) | 20260413 | 20260420 | 비정규직 | 신입 |
+| 근로복지공단 | [[정선병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[동해병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[태백병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[대전병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 무기계약직 | 경력 |
+| 근로복지공단 | [[대전병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 비정규직 | 신입 |
+| 근로복지공단 | [[대구병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[창원병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260413 | 20260420 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-04-13 05:46:07 (Server Time)
+Updated at: 2026-04-13 08:08:53 (Server Time)
