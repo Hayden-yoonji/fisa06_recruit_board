@@ -16,4 +16,4 @@
 | 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 계약직 기능직(간호조무사, 약무보조), 업무지원직(급식) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=184521) | 20260414 | 20260424 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-14 17:13:38 (Server Time)
+Updated at: 2026-04-14 19:20:38 (Server Time)
