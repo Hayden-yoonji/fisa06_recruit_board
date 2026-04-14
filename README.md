@@ -6,14 +6,14 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 국립공원공단 | [[무등산동부] 2026년 무등산동부사무소 기간제(탐방로보수전담팀_한시인력) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019028) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [호남지사 사업교육팀 기간제(육아휴직 대체) 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8269&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 대전지사 청주사업소 기간제(운전직, 연차자대체) 채용 공고](https://www.pola.or.kr) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)하동사업처 단기노무원 모집(7호기 기계 4차)](https://www.kps.co.kr) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
-| 제주대학교병원 | [제주대학교병원 단기간 계약직(건설사업관리) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22837/view.do) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)신서천사업소 26년 6차 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[새만금환경생태단지관리단]2026년 봄철 한시인력(환경관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019026) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 파주사업소 26년도 정기점검보수공사 단기노무원 2차 채용](https://www.kps.co.kr/) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(탐방예약제관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019025) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직(단시간 근로자-장애인)채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=250807) | 20260414 | 20260424 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-14 05:26:44 (Server Time)
+Updated at: 2026-04-14 07:51:16 (Server Time)
