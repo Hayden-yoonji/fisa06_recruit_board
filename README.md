@@ -13,7 +13,7 @@
 | 한전KPS(주) | [한전KPS(주)신서천사업소 26년 6차 계획예방정비공사 단기노무원 채용](https://www.kps.co.kr) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[새만금환경생태단지관리단]2026년 봄철 한시인력(환경관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019026) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 파주사업소 26년도 정기점검보수공사 단기노무원 2차 채용](https://www.kps.co.kr/) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(탐방예약제관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019025) | 20260414 | 20260421 | 비정규직 | 신입+경력 |
+| 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 계약직 기능직(간호조무사, 약무보조), 업무지원직(급식) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=184521) | 20260414 | 20260424 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-14 09:21:57 (Server Time)
+Updated at: 2026-04-14 11:06:07 (Server Time)
