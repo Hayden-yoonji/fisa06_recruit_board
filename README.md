@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주)제주사업소 가공송전선로 지장수목 벌채 단기노무원 채용공고](https://www.kps.co.kr) | 20260415 | 20260417 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(탐방로보수) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019032) | 20260415 | 20260420 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용([기계1부]'26년도 당진 4호기 계획예방정비공사 2차 채용)](http://www.kps.co.kr) | 20260415 | 20260420 | 비정규직 | 신입+경력 |
 | 국민건강보험공단 | [(긴급) 2026년도 고유가 피해지원금 상담사 기간제근로자 채용 공고](https://www.nhis.or.kr) | 20260415 | 20260420 | 비정규직 | 신입 |
 | 한전KPS(주) | [한전KPS(주)부산경남전력지사 울산지점 단기노무원(정비보조)모집](https://www.kps.co.kr) | 20260415 | 20260420 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [한국환경보전원 영남지사 낙동강수변생태관리단  현지관리인(기간제) 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8273&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260414 | 20260420 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 파주사업소 26년도 정기점검보수공사 단기노무원 3차 채용(미화)](https://www.kps.co.kr/) | 20260415 | 20260421 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[보전원]국립공원야생생물보전원 기간제(한시인력_자원보전) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019027) | 20260415 | 20260422 | 비정규직 | 신입+경력 |
+| 한국한의약진흥원 | [한국한의약진흥원 2026년도 제1차 개방형직위 채용 재공고](https://nikom.or.kr/nikom/board/view.do?menu_idx=62&manage_idx=45&board_idx=567637&group_depth=0&parent_idx=0&group_idx=0&rowCount=10&search_type=title%2Bcontent&search_text=&viewPage=1) | 20260415 | 20260423 | 비정규직 | 경력 |
 | 한전KPS(주) | [한전KPS(주) 한울1사업처 단기노무원(안전감시관) 채용 공고](https://www.kps.co.kr) | 20260415 | 20260424 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 전북캠퍼스 청년인턴(장애, 일반) 채용 공고](https://www.kopo.ac.kr/jb/board.do?menu=10542&mode=view&post=774372) | 20260415 | 20260424 | 청년인턴(체험형) | 신입+경력 |
-| 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 계약직 기능직(간호조무사, 약무보조), 업무지원직(급식) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=184521) | 20260414 | 20260424 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-15 05:26:50 (Server Time)
+Updated at: 2026-04-15 07:52:00 (Server Time)
