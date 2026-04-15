@@ -17,4 +17,4 @@
 | 한국한의약진흥원 | [한국한의약진흥원 2026년도 제1차 개방형직위 채용 재공고](https://nikom.or.kr/nikom/board/view.do?menu_idx=62&manage_idx=45&board_idx=567637&group_depth=0&parent_idx=0&group_idx=0&rowCount=10&search_type=title%2Bcontent&search_text=&viewPage=1) | 20260415 | 20260423 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-04-15 17:07:37 (Server Time)
+Updated at: 2026-04-15 19:22:04 (Server Time)
