@@ -11,10 +11,10 @@
 | 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(탐방로보수) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019032) | 20260415 | 20260420 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용([기계1부]'26년도 당진 4호기 계획예방정비공사 2차 채용)](http://www.kps.co.kr) | 20260415 | 20260420 | 비정규직 | 신입+경력 |
 | 국민건강보험공단 | [(긴급) 2026년도 고유가 피해지원금 상담사 기간제근로자 채용 공고](https://www.nhis.or.kr) | 20260415 | 20260420 | 비정규직 | 신입 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 6차 임시직원 채용공고(원무지원, 간호사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5059&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260416 | 20260421 | 비정규직 | 신입+경력 |
 | 노사발전재단 | [[노사발전재단 경기중장년내일센터] 중장년 경력지원제 사업 단기기간제 채용](https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=KEC0262604150001&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet) | 20260415 | 20260422 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[보전원]국립공원야생생물보전원 기간제(한시인력_자원보전) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019027) | 20260415 | 20260422 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 광주지사 기간제(사무직, 대체인력) 채용 공고](https://www.pola.or.kr) | 20260415 | 20260423 | 비정규직 | 신입+경력 |
 | 한국한의약진흥원 | [한국한의약진흥원 2026년도 제1차 개방형직위 채용 재공고](https://nikom.or.kr/nikom/board/view.do?menu_idx=62&manage_idx=45&board_idx=567637&group_depth=0&parent_idx=0&group_idx=0&rowCount=10&search_type=title%2Bcontent&search_text=&viewPage=1) | 20260415 | 20260423 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-04-15 13:43:26 (Server Time)
+Updated at: 2026-04-15 15:07:49 (Server Time)
