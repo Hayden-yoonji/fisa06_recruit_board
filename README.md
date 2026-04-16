@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한국도로공사 | [한국도로공사 군위지사 기간제근로자(도로관리원) 채용공고](https://www.ex.co.kr) | 20260416 | 20260422 | 비정규직 | 신입+경력 |
-| 한전KDN | [한전KDN(주) 광주전남본부 AMI분야 비정규직 모집 공고](,) | 20260416 | 20260422 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[지리산경남] 지리산국립공원경남사무소 한시인력(탐방로 보수) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019033) | 20260416 | 20260422 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 상반기 공임상교수요원 초빙(긴급) 공고](www.knuh.kr/content/04information/02_01.asp) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 근로복지공단 | [[순천병원] 기간제(물리치료사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 근로복지공단 | [[안산병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 근로복지공단 | [[안산병원] 기간제(근골격계전문가) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-12]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=f3c6cb07f09849b99062a20f0a1f4538) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
-| 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
+| 경상국립대학교병원 | [장애인근로자 채용공고](http://recruit.gnuh.co.kr) | 20260417 | 20260423 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [의료기술직 채용공고](http://recruit.gnuh.co.kr/) | 20260417 | 20260423 | 정규직 | 신입+경력 |
+| 경상국립대학교병원 | [원무직 채용공고](http://recruit.gnuh.co.kr/) | 20260417 | 20260423 | 정규직 | 신입+경력 |
+| 경상국립대학교병원 | [업무지원직 채용공고](http://recruit.gnuh.co.kr/) | 20260417 | 20260423 | 정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 상반기 업무지원직(식당파트타임) 5차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=774558) | 20260417 | 20260423 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [단시간제 채용공고(편의시설 점원)](http://recruit.gnuh.co.kr) | 20260417 | 20260423 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [계약직 채용공고](http://recruit.gnuh.co.kr) | 20260417 | 20260423 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 청주캠퍼스 대학운영직(조리원) 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=10537&mode=view&post=774546) | 20260417 | 20260425 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 청주캠퍼스 행정지원직(사무직원 육아휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=10537&mode=view&post=774559) | 20260417 | 20260425 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-16 13:52:31 (Server Time)
+Updated at: 2026-04-16 15:42:19 (Server Time)
