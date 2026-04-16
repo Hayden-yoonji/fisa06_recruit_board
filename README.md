@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 청주캠퍼스 행정지원직(사무직원 육아휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=10537&mode=view&post=774559) | 20260417 | 20260425 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-16 17:18:24 (Server Time)
+Updated at: 2026-04-16 19:20:02 (Server Time)
