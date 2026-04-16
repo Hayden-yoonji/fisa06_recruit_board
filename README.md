@@ -18,4 +18,4 @@
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260416 | 20260423 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-04-16 11:06:37 (Server Time)
+Updated at: 2026-04-16 13:52:31 (Server Time)
