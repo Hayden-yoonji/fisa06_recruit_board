@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 월성2사업처 월성3호기 계속운전 관련 배관 열성층평가 계측기 설치 공사 단기노무원 채용](http://www.kps.co.kr) | 20260417 | 20260421 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용([안전팀]'26년도 당진 4호기 계획예방정비공사 1차 채용)](http://www.kps.co.kr) | 20260417 | 20260421 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용([전기1부]'26년도 당진 4호기 계획예방정비공사 3차채용)](http://www.kps.co.kr) | 20260417 | 20260421 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[보전원]국립공원야생생물보전원 기간제(한시인력_자원보전) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019027) | 20260415 | 20260422 | 비정규직 | 신입+경력 |
 | 경상국립대학교병원 | [[창원경상국립대학교병원] 계약직 채용공고](https://recruit.gnuch.co.kr) | 20260417 | 20260423 | 비정규직 | 신입+경력 |
 | 경상국립대학교병원 | [[창원경상국립대학교병원] 업무지원직 채용공고](https://recruit.gnuch.co.kr) | 20260417 | 20260423 | 정규직 | 신입+경력 |
+| 전남대학교병원 | [2026년 4월 화순전남대학교병원 직원(대체근로자) 공개채용 공고 ](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=251315) | 20260417 | 20260424 | 비정규직 | 신입 |
 | 근로복지공단 | [[인천병원] 기간제(방사선사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260417 | 20260424 | 비정규직 | 신입 |
 | 근로복지공단 | [[대구병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260417 | 20260427 | 정규직 | 신입 |
 | 근로복지공단 | [[인천병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260417 | 20260427 | 정규직 | 신입 |
 | 국립중앙의료원 | [계약직 간호사(감염내과-상담실) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=251404) | 20260417 | 20260427 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-04-17 07:51:56 (Server Time)
+Updated at: 2026-04-17 09:21:21 (Server Time)
