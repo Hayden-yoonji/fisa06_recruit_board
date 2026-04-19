@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직 간호사(감염내과-상담실) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=251404) | 20260417 | 20260427 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-04-19 05:33:18 (Server Time)
+Updated at: 2026-04-19 07:23:54 (Server Time)
