@@ -18,4 +18,4 @@
 | 국립공원공단 | [[북한산도봉] 2026년 기간제(녹색순찰대) 직원 채용(3차) 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019045) | 20260420 | 20260430 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-20 22:48:42 (Server Time)
+Updated at: 2026-04-20 23:45:03 (Server Time)
