@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 반도체융합캠퍼스 청년인턴(장애인 제한 경쟁) 채용 공고(3차)](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=774628) | 20260422 | 20260428 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-21 13:48:15 (Server Time)
+Updated at: 2026-04-21 15:15:44 (Server Time)
