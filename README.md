@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 체험형 청년인턴 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=184807) | 20260422 | 20260502 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-22 13:48:04 (Server Time)
+Updated at: 2026-04-22 15:16:23 (Server Time)
