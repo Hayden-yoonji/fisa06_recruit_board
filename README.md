@@ -15,7 +15,7 @@
 | 근로복지공단 | [[대구병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260422 | 20260429 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[창원병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260422 | 20260429 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[안산병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260422 | 20260429 | 청년인턴(체험형) | 신입 |
-| 근로복지공단 | [[인천병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260422 | 20260429 | 청년인턴(체험형) | 신입 |
+| 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 체험형 청년인턴 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=184807) | 20260422 | 20260502 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-22 09:23:51 (Server Time)
+Updated at: 2026-04-22 11:08:38 (Server Time)
