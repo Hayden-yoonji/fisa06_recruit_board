@@ -16,4 +16,4 @@
 | 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260423 | 20260430 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-04-23 19:15:20 (Server Time)
+Updated at: 2026-04-23 20:55:59 (Server Time)
