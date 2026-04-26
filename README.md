@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260424 | 20260506 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-04-26 09:55:28 (Server Time)
+Updated at: 2026-04-26 10:49:56 (Server Time)
