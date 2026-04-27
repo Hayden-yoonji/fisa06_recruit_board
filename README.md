@@ -18,4 +18,4 @@
 | 근로복지공단 | [[근로복지공단] 의료직(의공기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260427 | 20260507 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-04-27 20:09:20 (Server Time)
+Updated at: 2026-04-27 21:55:01 (Server Time)
