@@ -6,6 +6,7 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주) 영흥사업처 4호기 계획예방정비공사 단기노무원 모집(기계2부)](https://www.kps.co.kr) | 20260427 | 20260429 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 영남지사 습지보호지역(능걸산, 무제치늪)  환경감시원 채용 재공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8306&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260427 | 20260503 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 대전충남지사)](www.kohom.or.kr) | 20260427 | 20260504 | 청년인턴(채용형) | 신입+경력 |
 | 한국환경보전원 | [2026년 환경교육지원처 기간제(육아휴직 대체 등) 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8304&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260427 | 20260504 | 비정규직 | 신입+경력 |
@@ -14,8 +15,7 @@
 | 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 정규직 기술직(전산담당), 기능직(시설전기) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=184868) | 20260424 | 20260504 | 정규직 | 신입+경력 |
 | 분당서울대학교병원 | [분당서울대학교병원 단시간일반직(선임급연구원) 채용공고](http://snubh.recruiter.co.kr) | 20260424 | 20260504 | 비정규직 | 신입 |
 | 분당서울대학교병원 | [분당서울대학교병원 단시간일반직 채용공고](https://snubh.recruiter.co.kr) | 20260424 | 20260504 | 비정규직 | 신입 |
-| 분당서울대학교병원 | [분당서울대학교병원 직원(계약업무지원직) 채용공고](http://snubh.recruiter.co.kr) | 20260424 | 20260504 | 비정규직 | 신입 |
 | 국립공원공단 | [[주왕산] 2026년 주왕산 국립공원지킴이 2차 채용 ](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019088) | 20260427 | 20260507 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-27 03:23:16 (Server Time)
+Updated at: 2026-04-27 06:29:12 (Server Time)
