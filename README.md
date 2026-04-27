@@ -10,12 +10,12 @@
 | 한전KPS(주) | [한전KPS(주)태안사업처 3호기 계획예방정비공사 단기노무원 채용(2차)](https://www.kps.co.kr/) | 20260427 | 20260429 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신보령사업소 26년도 계획예방정비공사 단기노무원 5차 추가채용 모집](https://www.kps.co.kr) | 20260427 | 20260429 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 영흥사업처 4호기 계획예방정비공사 단기노무원 모집(기계2부)](https://www.kps.co.kr) | 20260427 | 20260429 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [한국환경보전원 영남지사 습지보호지역(능걸산, 무제치늪)  환경감시원 채용 재공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8306&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260427 | 20260503 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 전북캠퍼스 청년인턴(장애, 일반) 채용(2차) 공고](https://www.kopo.ac.kr/jb/board.do?menu=10542&mode=view&post=775162) | 20260428 | 20260506 | 청년인턴(체험형) | 신입+경력 |
 | 근로복지공단 | [[대전병원] 기간제 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260427 | 20260506 | 비정규직 | 신입 |
+| 동남권원자력의학원 | [[직원채용] 별정직 약무직(약제팀 약사) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260428 | 20260507 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[대구병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260427 | 20260507 | 정규직 | 신입 |
 | 근로복지공단 | [[근로복지공단] 의료직(물리작업치료사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260427 | 20260507 | 정규직 | 신입 |
 | 근로복지공단 | [[근로복지공단] 의료직(의공기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260427 | 20260507 | 정규직 | 신입 |
-| 국립공원공단 | [[주왕산] 2026년 주왕산 국립공원지킴이 2차 채용 ](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019088) | 20260427 | 20260507 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-27 14:00:28 (Server Time)
+Updated at: 2026-04-27 16:27:33 (Server Time)
