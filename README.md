@@ -14,8 +14,8 @@
 | 경북대학교치과병원 | [2026년 제10차 청년인턴(진료지원-치과위생사/구강내과) 채용 공고](www.knudh.kr) | 20260428 | 20260505 | 청년인턴(체험형) | 신입 |
 | 한국장애인고용공단 | [[한국장애인고용공단 부산지역본부] 기간제 근로자 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212898&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260428 | 20260506 | 비정규직,청년인턴(체험형) | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 경남동부지사] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212888&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260428 | 20260506 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 청년인턴 행정보조(일반/장애)] 채용](https://bohun.fairyhr.com/announcement/detail/517) | 20260428 | 20260506 | 청년인턴(체험형) | 신입+경력 |
+| 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 청년인턴 행정보조(일반/장애)] 채용](https://bohun.fairyhr.com/announcement/detail/517) | 20260428 | 20260508 | 청년인턴(체험형) | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 대전지역본부·충북지사] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212886&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260428 | 20260508 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-04-28 09:24:01 (Server Time)
+Updated at: 2026-04-28 11:47:36 (Server Time)
