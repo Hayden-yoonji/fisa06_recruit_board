@@ -18,4 +18,4 @@
 | 한국물기술인증원 | [한국물기술인증원 2026년 제2차 기간제근로자 채용 공고](https://www.kwtc.or.kr/kwha/bbs/view/kwhJobNew.do?&bbsId=53) | 20260429 | 20260508 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-29 18:13:10 (Server Time)
+Updated at: 2026-04-29 20:11:31 (Server Time)
