@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주)광주전남전력지사 강진지점 단기노무원 채용](https://www.kps.co.kr) | 20260430 | 20260504 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 4월 제4차 임시직원 모집 공고 (행정, 간호)](	https://www.knuh.kr/content/04information/02_01.asp) | 20260429 | 20260504 | 비정규직 | 신입 |
-| 대한법률구조공단 | [범죄피해자 국선전담 계약직 소속변호사  대체인력 채용 공고(재공고) ](https://www.klac.or.kr/notification/hireNotice/selectHireNoticeView.do?boardCode=241&contentId=AD_0000159240) | 20260423 | 20260504 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 영흥사업처 4호기 계획예방정비공사 단기노무원 모집(전기1부)](https://www.kps.co.kr) | 20260430 | 20260506 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 의료요원(진료교수, 진료의사) 20차 초빙(긴급) 공고](	https://www.knuh.kr/content/04information/02_01.asp) | 20260429 | 20260506 | 정규직 | 신입 |
 | 한국도로공사 | [한국도로공사 서울산지사 기간제근로자(운전원) 채용공고](https://www.ex.co.kr) | 20260429 | 20260506 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[태백요양병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260429 | 20260506 | 청년인턴(체험형) | 신입 |
-| 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260429 | 20260506 | 비정규직 | 신입 |
-| 한국도로공사 | [한국도로공사 고성지사 기간제근로자(도로관리원) 채용공고](https://www.ex.co.kr) | 20260429 | 20260506 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 진주지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260429 | 20260506 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [칠곡경북대학교병원 2026년 4월 9차 임시직원 채용공고(간호사 행정)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5062&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260430 | 20260506 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[순천병원] 공무직(간병인) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260430 | 20260507 | 무기계약직 | 신입 |
+| 근로복지공단 | [[순천병원] 공무직(시설미화원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260430 | 20260507 | 무기계약직 | 신입 |
+| 근로복지공단 | [[인재개발원] 공무직(영선·조경기사, 운전원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260430 | 20260507 | 무기계약직 | 신입+경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 제주발달장애인훈련센터] 체험형 청년인턴(대체근로자) 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=212883&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt1Code=&adt2Code=&adt1CodeArr=&registDeptCode=&searchCondition=sjcn&searchKeywor) | 20260430 | 20260507 | 비정규직,청년인턴(체험형) | 신입+경력 |
 | 한국물기술인증원 | [한국물기술인증원 2026년 제2차 기간제근로자 채용 공고](https://www.kwtc.or.kr/kwha/bbs/view/kwhJobNew.do?&bbsId=53) | 20260429 | 20260508 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-04-29 23:56:32 (Server Time)
+Updated at: 2026-04-30 03:43:22 (Server Time)
