@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 경북대학교병원 | [칠곡경북대학교병원 2026년 5월 1차 임시직원 채용공고(행정 간호사 청소)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5063&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp%3Fp%5Fpage%3D1%26p%5Fsearch%3D%26p%5Fkeyword%3D%26p%5Fcate%3D) | 20260501 | 20260506 | 비정규직 | 신입+경력 |
-| 대한적십자사 | [서울적십자병원 계약직 간호사(내과전담) 신규채용 공고](https://www.redcross.or.kr/redrecruit) | 20260430 | 20260507 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)충남전북전력지사(안전감시관) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260504 | 20260507 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 파주사업소 '26년도 안전감시관 3차 채용 공고](https://www.kps.co.kr/) | 20260504 | 20260508 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 인천캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/incheon/board.do?menu=6900&mode=view&post=775438) | 20260430 | 20260508 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 인천캠퍼스 행정지원직(휴직대체) 채용 공고](https://www.kopo.ac.kr/incheon/board.do?menu=6900&mode=view&post=775442) | 20260430 | 20260508 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 제주캠퍼스 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/jeju/board.do?menu=5152&mode=view&post=775471) | 20260501 | 20260510 | 비정규직 | 신입+경력 |
-| (재)우체국물류지원단 | [우체국물류지원단 서울지사 동서울, 성남, 강릉사업소 기간제(운전직) 채용 공고](https://www.pola.or.kr) | 20260430 | 20260510 | 비정규직 | 신입+경력 |
-| (재)우체국물류지원단 | [우체국물류지원단 서울지사 기간제(사무직_보건, 육아휴직대체) 채용 공고](https://www.pola.or.kr) | 20260430 | 20260510 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [의사직 및 계약직 전문의 채용 공고(중환자전담전문의, 모자의료전원전담팀(산부인과),소아청소년과(신생아분과))](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=252763) | 20260501 | 20260511 | 정규직,비정규직 | 신입+경력 |
-| 한국교육과정평가원 | [2026년 6월 한국교육과정평가원 비정규직원 모집 공고](https://kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100506&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260430 | 20260511 | 비정규직 | 신입 |
-| 서울대학교병원 | [연구교수 공개채용](http://www.snuh.org/about/news/recruit/recruView.do?recruit_id=26058) | 20260504 | 20260511 | 비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 사업인력 계약직(권역정신응급의료센터_보안인력, 국가결핵관리사업_간호사, 희귀질환등록사업_간호사) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22869/view.do) | 20260504 | 20260511 | 비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 약무직(약사), 단기간 계약직(약사_야간전담) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22868/view.do) | 20260504 | 20260511 | 정규직,비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 원무직(보호사) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22867/view.do) | 20260504 | 20260511 | 정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 휴직대체 계약직(업무지원_환경, 업무지원_통신, 조리·배식원, 소방) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22866/view.do) | 20260504 | 20260511 | 비정규직 | 신입+경력 |
+| 한국환경보전원 | [대외환경협력처 기후변화대응팀 기간제 직원 채용공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8317&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260504 | 20260512 | 비정규직 | 신입+경력 |
+| 분당서울대학교병원 | [분당서울대학교병원 진료교수요원(입원전담진료센터, 영상의학과, 핵의학과) 채용공고](https://snubh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=252384) | 20260504 | 20260513 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-03 23:51:36 (Server Time)
+Updated at: 2026-05-04 03:29:59 (Server Time)
