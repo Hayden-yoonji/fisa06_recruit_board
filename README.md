@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[남양주보훈요양원] 2026년 제1차 장애인 청년인턴 제한경쟁 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37032&nttSn=185146) | 20260504 | 20260514 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-05-05 22:02:04 (Server Time)
+Updated at: 2026-05-05 23:50:52 (Server Time)
