@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 인재원 청년인턴(장애,일반) 채용 공고](https://www.kopo.ac.kr/hrd/board.do?menu=2344&mode=view&post=775678) | 20260508 | 20260517 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-05-07 22:01:26 (Server Time)
+Updated at: 2026-05-07 23:55:09 (Server Time)
