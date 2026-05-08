@@ -18,4 +18,4 @@
 | 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260508 | 20260518 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-08 19:22:37 (Server Time)
+Updated at: 2026-05-08 21:04:16 (Server Time)
