@@ -18,4 +18,4 @@
 | 노사발전재단 | [[노사발전재단] 근로자이음센터 운영사업 단기기간제(5개월) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/49126474?Oem_Code=C1&logpath=1&stex=%EB%85%B8%EC%82%AC%EB%B0%9C%EC%A0%84%EC%9E%AC%EB%8B%A8&listno=1&sc=630) | 20260508 | 20260520 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-10 06:34:47 (Server Time)
+Updated at: 2026-05-10 08:56:00 (Server Time)
