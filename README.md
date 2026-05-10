@@ -10,12 +10,12 @@
 | 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용('26년도 4호기 탈황설비 계획예방정비공사 단기근로자 4차 채용)](http://www.kps.co.kr) | 20260508 | 20260512 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)당진사업처 [기계2부] 2026년 4호기 계획예방정비공사 단기노무원 5차 채용 공고](http://www.kps.co.kr) | 20260508 | 20260512 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 수원지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260508 | 20260514 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 서울경기본부 기간제근로자(상황관리원) 채용공고](https://www.ex.co.kr) | 20260508 | 20260514 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[창원병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260508 | 20260515 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[인천병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260508 | 20260515 | 비정규직 | 신입 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 약무직(약사) 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=185270) | 20260508 | 20260518 | 비정규직 | 신입+경력 |
 | 한국산업안전보건공단 | [[안전보건공단 부산광역본부] 경남지역본부 업무직 보훈제한경쟁(보안경비원) 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=11&officeCode=1181&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260508AW100515&fdnsRgnMclsfCd=1181) | 20260508 | 20260518 | 무기계약직 | 신입 |
 | 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260508 | 20260518 | 정규직 | 신입 |
+| 노사발전재단 | [[노사발전재단] 근로자이음센터 운영사업 단기기간제(5개월) 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/49126474?Oem_Code=C1&logpath=1&stex=%EB%85%B8%EC%82%AC%EB%B0%9C%EC%A0%84%EC%9E%AC%EB%8B%A8&listno=1&sc=630) | 20260508 | 20260520 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-09 23:52:31 (Server Time)
+Updated at: 2026-05-10 03:34:07 (Server Time)
