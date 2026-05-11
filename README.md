@@ -18,4 +18,4 @@
 | 동남권원자력의학원 | [[직원채용] 별정직 사무직(건강증진센터 수어통역사) 공개 채용(재공고)](https://diramsjob.recruiter.co.kr/career/home) | 20260512 | 20260521 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-11 17:56:06 (Server Time)
+Updated at: 2026-05-11 19:54:04 (Server Time)
