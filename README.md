@@ -18,4 +18,4 @@
 | 한국농어촌공사 | [한국농어촌공사 하동남해지사 일반계약직(휴직 대체인력) 채용 재공고](https://www.ekr.or.kr/planweb/board/view.krc?dataUid=8a8bb3529b9690c0019e19f030583bf5&page=1&boardUid=402880317cc0644a017cc5e8000f06b7&contentUid=8a8bb3529665d7140199501cd3ef6280&searchType=&keyword=&categoryUid1=&categoryUid2=8a8bb3529665d714019951996437) | 20260512 | 20260522 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-12 20:45:35 (Server Time)
+Updated at: 2026-05-12 22:13:34 (Server Time)
