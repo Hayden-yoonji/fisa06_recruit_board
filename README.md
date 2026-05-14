@@ -18,4 +18,4 @@
 | 한전KPS(주) | [한전KPS(주) 서울경기전력지사 인천지점 정비보조 모집](https://www.kps.co.kr) | 20260514 | 20260522 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-13 22:15:29 (Server Time)
+Updated at: 2026-05-14 00:02:22 (Server Time)
