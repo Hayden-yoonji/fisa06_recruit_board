@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 업무직(대학운영직_조리원)채용 공고(4차)](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=776138) | 20260515 | 20260525 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-15 12:55:11 (Server Time)
+Updated at: 2026-05-15 15:18:51 (Server Time)
