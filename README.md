@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 광명융합기술교육원 대학운영직(영선원), 체험형 청년인턴 2차 채용 공고](https://www.kopo.ac.kr/gm/board.do?menu=10557&mode=view&post=776090) | 20260515 | 20260524 | 무기계약직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-05-14 22:58:57 (Server Time)
+Updated at: 2026-05-15 00:05:08 (Server Time)
