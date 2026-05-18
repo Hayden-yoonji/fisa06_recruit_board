@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260515 | 20260522 | 비정규직 | 신입 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경남지사)](https://www.kohom.or.kr) | 20260518 | 20260525 | 청년인턴(채용형) | 신입+경력 |
-| 한국보훈복지의료공단 | [[보훈원] (긴급) 계약직 조리원 공개채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260515 | 20260525 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [육아휴직 대체직 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260518 | 20260526 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [국립공원공단 법무팀장(개방형직위) 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019186) | 20260515 | 20260526 | 비정규직 | 경력 |
-| 국립중앙의료원 | [의사직 전문의 채용 공고(내분비대사내과)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254207) | 20260518 | 20260528 | 정규직 | 신입+경력 |
-| 국립중앙의료원 | [의사직 및 계약직 전문의 채용 공고(중환자전담전문의, 모자의료전원전담팀(산부인과),소아청소년과(신생아분과))](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254203) | 20260518 | 20260528 | 정규직,비정규직 | 신입+경력 |
-| 한국산업안전보건공단 | [[안전보건공단 경기남부지사] 기간제 근로자 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=17&officeCode=1728&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260518CA090524&fdnsRgnMclsfCd=1728) | 20260518 | 20260528 | 비정규직 | 신입 |
-| 국립중앙의료원 | [의사직(응급의료정책연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254066) | 20260518 | 20260528 | 정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)충남전북전력지사(김제지점) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260513 | 20260528 | 비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 휴직대체 계약직(임상병리사), 사업인력 계약직(권역정신응급의료센터_행정, 발달장애인거점병원행동발달증진센터_행동치료사) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22886/view.do) | 20260513 | 20260520 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)제주사업소 송전선로 예방순시 단기노무원 채용공고](https://www.kps.co.kr) | 20260518 | 20260520 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 충주캠퍼스 행정지원직(육아휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/chungju/board.do?menu=2839&mode=view&post=776275) | 20260518 | 20260525 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 충주캠퍼스 업무직(대학운영직_조리원) 채용 공고(재공고)](https://www.kopo.ac.kr/chungju/board.do?menu=2839&mode=view&post=776273) | 20260518 | 20260525 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 기간제(영양사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
+| 근로복지공단 | [[대전병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
+| 근로복지공단 | [[대구병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260518 | 20260528 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-18 03:56:18 (Server Time)
+Updated at: 2026-05-18 08:09:02 (Server Time)
