@@ -18,4 +18,4 @@
 | 근로복지공단 | [[대구병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260518 | 20260528 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-18 20:25:50 (Server Time)
+Updated at: 2026-05-18 22:04:16 (Server Time)
