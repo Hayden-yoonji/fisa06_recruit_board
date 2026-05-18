@@ -7,7 +7,6 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 제주대학교병원 | [제주대학교병원 휴직대체 계약직(임상병리사), 사업인력 계약직(권역정신응급의료센터_행정, 발달장애인거점병원행동발달증진센터_행동치료사) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22886/view.do) | 20260513 | 20260520 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)제주사업소 송전선로 예방순시 단기노무원 채용공고](https://www.kps.co.kr) | 20260518 | 20260520 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 충주캠퍼스 행정지원직(육아휴직 대체인력) 채용 공고](https://www.kopo.ac.kr/chungju/board.do?menu=2839&mode=view&post=776275) | 20260518 | 20260525 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 충주캠퍼스 업무직(대학운영직_조리원) 채용 공고(재공고)](https://www.kopo.ac.kr/chungju/board.do?menu=2839&mode=view&post=776273) | 20260518 | 20260525 | 무기계약직 | 신입+경력 |
 | 근로복지공단 | [[태백병원] 기간제(영양사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
@@ -15,7 +14,8 @@
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
 | 근로복지공단 | [[대전병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[대전병원] 기간제(조리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260518 | 20260526 | 비정규직 | 신입 |
+| 국립중앙의료원 | [업무지원직 병동지원-보훈특별고용(간호부) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254229) | 20260518 | 20260528 | 무기계약직 | 신입+경력 |
 | 근로복지공단 | [[대구병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260518 | 20260528 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-18 08:09:02 (Server Time)
+Updated at: 2026-05-18 12:34:06 (Server Time)
