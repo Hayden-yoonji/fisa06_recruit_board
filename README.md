@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 국립공원공단 | [[덕유산] 덕유산국립공원 한시인력(탐방안내) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019185) | 20260515 | 20260519 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[덕유산] 덕유산국립공원 한시인력(탐방로보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019184) | 20260515 | 20260519 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 영흥사업처 경상정비공사 단기노무원 모집(전기2팀)](https://www.kps.co.kr) | 20260515 | 20260520 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [한국환경보전원 영남지사 낙동강수변생태관리단  기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8338&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260515 | 20260520 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260515 | 20260522 | 비정규직 | 신입 |
+| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경남지사)](https://www.kohom.or.kr) | 20260518 | 20260525 | 청년인턴(채용형) | 신입+경력 |
 | 한국보훈복지의료공단 | [[보훈원] (긴급) 계약직 조리원 공개채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260515 | 20260525 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 업무직(대학운영직_조리원)채용 공고(4차)](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=776138) | 20260515 | 20260525 | 무기계약직 | 신입+경력 |
+| 주택관리공단(주) | [육아휴직 대체직 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260518 | 20260526 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [국립공원공단 법무팀장(개방형직위) 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019186) | 20260515 | 20260526 | 비정규직 | 경력 |
-| 국립중앙의료원 | [계약직 단시간 근로자B-장애인(진단검사의학과)채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254028) | 20260515 | 20260526 | 비정규직 | 신입+경력 |
-| 한국농어촌공사 | [한국농어촌공사 강릉지사 공무직(청소원) 공개경쟁 채용 공고](https://www.ekr.or.kr/planweb/board/view.krc?dataUid=8a8bb3529b9690c0019e28e67e2156f9&page=1&boardUid=402880317cc0644a017cc5e8000f06b7&contentUid=8a8bb3529665d7140199501cd3ef6280&searchType=&keyword=&categoryUid1=&categoryUid2=8a8bb3529665d714019951996437) | 20260515 | 20260526 | 무기계약직 | 신입+경력 |
+| 국립중앙의료원 | [의사직 전문의 채용 공고(내분비대사내과)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254207) | 20260518 | 20260528 | 정규직 | 신입+경력 |
+| 국립중앙의료원 | [의사직 및 계약직 전문의 채용 공고(중환자전담전문의, 모자의료전원전담팀(산부인과),소아청소년과(신생아분과))](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254203) | 20260518 | 20260528 | 정규직,비정규직 | 신입+경력 |
+| 한국산업안전보건공단 | [[안전보건공단 경기남부지사] 기간제 근로자 채용공고](https://portal.kosha.or.kr/community/jurisdiction/notice/detail?cityCode=17&officeCode=1728&contsSeCd=20&fdnsIntrcnContsNo=FSCONS260518CA090524&fdnsRgnMclsfCd=1728) | 20260518 | 20260528 | 비정규직 | 신입 |
+| 국립중앙의료원 | [의사직(응급의료정책연구팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=254066) | 20260518 | 20260528 | 정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)충남전북전력지사(김제지점) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260513 | 20260528 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-17 23:02:04 (Server Time)
+Updated at: 2026-05-18 03:56:18 (Server Time)
