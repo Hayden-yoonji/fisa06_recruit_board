@@ -18,4 +18,4 @@
 | 근로복지공단 | [[창원병원] 공무직(시설미화원) 보훈특별전형 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260519 | 20260526 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-05-19 09:50:31 (Server Time)
+Updated at: 2026-05-19 12:41:12 (Server Time)
