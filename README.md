@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | (재)우체국물류지원단 | [우체국물류지원단 기간제(사무보조직) 채용 공고](https://www.pola.or.kr) | 20260520 | 20260522 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 5월 5차 임시직원 채용공고(업무보조(조경관리) 업무보조(원무과) 임상병리사 방사선사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5067&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260521 | 20260526 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 의료요원(진료교수) 21차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260520 | 20260527 | 정규직 | 신입 |
 | 서울대학교병원 | [서울대학교병원 블라인드 직원채용 (대체근로자) 공고 (장애인 특별우대)](https://recruit.snuh.org/joining/recruit/view.do?notice_type=E&recruit_id=26067) | 20260520 | 20260527 | 비정규직 | 신입 |
 | 근로복지공단 | [[대구병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260520 | 20260527 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[대구병원] 기간제 의사(이비인후과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260520 | 20260527 | 비정규직 | 신입 |
 | 근로복지공단 | [[대구병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260520 | 20260527 | 청년인턴(체험형) | 신입 |
-| 한전KPS(주) | [한전KPS(주)제주사업소 경상정비공사 단기노무원 채용공고](https://www.kps.co.kr) | 20260520 | 20260527 | 비정규직 | 신입+경력 |
-| 전남대학교병원 | [2026년 5월 전남대학교병원 직원(대체근로자) 공개채용 공고](https://cnuh.recruiter.co.kr/) | 20260520 | 20260527 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [2026년도 한국폴리텍대학 전력기술교육원 청년인턴(일반) 공개채용 공고](https://www.kopo.ac.kr/power/board.do?menu=16557&mode=view&post=776480) | 20260520 | 20260528 | 청년인턴(체험형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 서울남부지사] 기간제근로자 채용 재공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=213367) | 20260520 | 20260528 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 광주캠퍼스 행정지원직(사무직원 육아휴직 대체) 채용 공고](https://www.kopo.ac.kr/gwangju/board.do?menu=10541&mode=view&post=776478) | 20260521 | 20260528 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 청주캠퍼스 대학운영직(조리원) 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=10537&mode=view&post=776488) | 20260521 | 20260529 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-20 13:40:57 (Server Time)
+Updated at: 2026-05-20 16:55:25 (Server Time)
