@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 청주캠퍼스 대학운영직(조리원) 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=10537&mode=view&post=776488) | 20260521 | 20260529 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-20 16:55:25 (Server Time)
+Updated at: 2026-05-20 19:27:00 (Server Time)
