@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 서울남부지사] 기간제근로자 채용 재공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=213367) | 20260520 | 20260528 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-20 10:52:56 (Server Time)
+Updated at: 2026-05-20 13:40:57 (Server Time)
