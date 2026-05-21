@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 삼천포사업처 경상정비공사 단기노무원 채용(제41차)](https://www.kps.co.kr) | 20260521 | 20260526 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 분당사업소 #8GT 계획예방정비공사 단기노무원 추가(2차)모집](https://www.kps.co.kr) | 20260521 | 20260526 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [칠곡경북대학교병원 2026년 5월 5차 임시직원 채용공고(업무보조(조경관리) 업무보조(원무과) 임상병리사 방사선사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5067&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260521 | 20260526 | 비정규직 | 신입+경력 |
+| 한전KDN | [한전KDN(주) 제주사업처 AMI분야 비정규직 모집공고(긴급)](-) | 20260522 | 20260527 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [ 제주대학교병원 단시간 계약직(장애인_병원안내 등) 모집공고](https://www.jejunuh.co.kr/news/recruit/_/22905/view.do) | 20260521 | 20260527 | 비정규직 | 신입+경력 |
 | 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-18]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=669585181253414f95acadc8777dc0de) | 20260521 | 20260528 | 비정규직 | 신입 |
 | 한국행정연구원 | [2026년 제2차 청년인턴(일반·제한경쟁) 채용 공고](https://www.kipa.re.kr/html/kor/cmn/bbs/cmnBbsGenList.do/319) | 20260521 | 20260528 | 청년인턴(체험형) | 신입+경력 |
@@ -18,4 +18,4 @@
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](https://www.kohom.or.kr) | 20260521 | 20260528 | 청년인턴(채용형) | 신입+경력 |
 
 ---
-Updated at: 2026-05-21 11:34:43 (Server Time)
+Updated at: 2026-05-21 15:33:52 (Server Time)
