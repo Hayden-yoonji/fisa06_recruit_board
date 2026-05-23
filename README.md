@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 정규직-무기계약직 업무지원직(고객지원, 급식) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=185730) | 20260522 | 20260601 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-23 20:56:03 (Server Time)
+Updated at: 2026-05-23 21:58:08 (Server Time)
