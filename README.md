@@ -8,7 +8,6 @@
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[속리산] 속리산국립공원사무소 기간제(한시인력 환경관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019219) | 20260522 | 20260526 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[속리산] 속리산국립공원사무소 기간제(환경관리) 직원 채용 추가접수 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019217) | 20260522 | 20260526 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)당진사업처 [기계2부] 2026년 4호기 계획예방정비공사 단기노무원 7차 채용 공고](http://www.kps.co.kr) | 20260522 | 20260527 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[순천병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260522 | 20260529 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[순천병원] 기간제(물리치료사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260522 | 20260529 | 비정규직 | 신입 |
 | 근로복지공단 | [[순천병원] 공무직(시설미화원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260522 | 20260529 | 무기계약직 | 신입 |
@@ -16,6 +15,7 @@
 | 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 계약직 기능직(진료지원,행정), 업무지원직(급식) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=185751) | 20260522 | 20260601 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 정규직 기능직(단시간_간호조무사,행정,시설-기계,시설-건축), 기술직(시설-환경) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=185752) | 20260522 | 20260601 | 정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 정규직-무기계약직 업무지원직(고객지원, 급식) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=185730) | 20260522 | 20260601 | 무기계약직 | 신입+경력 |
+| 국립공원공단 | [[주왕산] 2026년 주왕산 국립공원지킴이 3차 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019224) | 20260525 | 20260604 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-25 05:21:41 (Server Time)
+Updated at: 2026-05-25 10:12:50 (Server Time)
