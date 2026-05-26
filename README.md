@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백요양병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260526 | 20260605 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-26 18:28:26 (Server Time)
+Updated at: 2026-05-26 20:55:12 (Server Time)
