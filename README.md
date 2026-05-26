@@ -9,13 +9,13 @@
 | 한국보훈복지의료공단 | [[본사] 계약직 일반기능직(운전기사_보훈제한) 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37029&bbsId=1158&bbsSysId=main&nttSn=185804) | 20260526 | 20260526 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신보령사업소 '26년도 경상정비공사 사무보조 단기노무원 모집 (기계부)](https://www.kps.co.kr) | 20260526 | 20260528 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신보령사업소 '26년도 경상정비공사 사무보조 단기노무원 모집](https://www.kps.co.kr) | 20260526 | 20260529 | 비정규직 | 신입+경력 |
+| 세종학당재단 | [2026년 하반기 1차 세종학당 국외 파견 한국어 교원 선발 공고](https://www.ksif.or.kr) | 20260526 | 20260601 | 비정규직 | 신입+경력 |
+| 경북대학교병원 | [칠곡경북대학교병원 2026년 5월 6차 임시직원 채용공고(간호사 물리치료사 청소)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5068&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260527 | 20260601 | 비정규직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260526 | 20260602 | 청년인턴(채용형) | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 제주발달장애인훈련센터] 2026년 대체근로자 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=213460) | 20260526 | 20260603 | 비정규직 | 신입+경력 |
+| 한국수자원공사 | [[한국수자원공사] 금강유역협력단 공군 SWM 사업(제17전투비행단) 특수직(기술관리_건설사업) 채용](https://k-water.recruiter.co.kr/) | 20260527 | 20260604 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 신한울1사업소 '26-6차 경상정비공사 단기노무원 채용 공고](http://www.kps.co.kr) | 20260526 | 20260604 | 비정규직 | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 충남지사] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260526 | 20260604 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 경북대학교치과병원 | [2026년도 제2차 신규직원(보훈특별채용-경비, 주차) 채용 공고](www.knudh.kr) | 20260521 | 20260604 | 무기계약직 | 신입 |
 | 근로복지공단 | [[태백요양병원] 의료직(간호사) 6급 채용 공고](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) | 20260526 | 20260605 | 정규직 | 신입 |
-| 국립공원공단 | [2026년 오대산사무소 기간제(한시인력) [환경관리] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019226) | 20260526 | 20260605 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-26 07:52:11 (Server Time)
+Updated at: 2026-05-26 15:39:03 (Server Time)
