@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 영남융합기술캠퍼스 업무직(대학운영직_사감) 채용 공고](https://www.kopo.ac.kr/yct/board.do?menu=10559&mode=view&post=776970) | 20260528 | 20260605 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-05-28 12:29:29 (Server Time)
+Updated at: 2026-05-28 16:54:36 (Server Time)
