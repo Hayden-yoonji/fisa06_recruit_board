@@ -7,14 +7,14 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [(공고취소)한전KPS(주) 신보령사업소 '26년도 경상정비공사 사무보조 단기노무원 모집](https://www.kps.co.kr) | 20260526 | 20260529 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[속리산] 속리산국립공원사무소 기간제(한시인력 환경관리) 직원 채용 추가접수 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019254) | 20260528 | 20260601 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[속리산] 속리산국립공원사무소 국립공원지킴이 모집 추가접수 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019251) | 20260528 | 20260601 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)강원충북전력지사 단기노무원(제천지점 차량순시) 채용공고(14차)](https://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 대구경북전력지사 단기노무원 채용(직할)](http://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주)평택사업소 '26년도 경상정비공사 단기노무원 모집(전기, 사무)](https://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 수원지점 단기노무원(벌목공, 차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260529 | 20260605 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 영남융합기술캠퍼스 업무직(대학운영직_사감) 채용 공고](https://www.kopo.ac.kr/yct/board.do?menu=10559&mode=view&post=776970) | 20260528 | 20260605 | 무기계약직 | 신입+경력 |
+| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-19]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=522d1aedd4a24a729b347f47477b62ad) | 20260529 | 20260605 | 비정규직 | 신입 |
+| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 수원지점 단기노무원(상주감시, 차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260529 | 20260605 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 아산캠퍼스 대학운영직(경비원_일반) 채용 공고](https://www.kopo.ac.kr/asan) | 20260529 | 20260608 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 아산캠퍼스 대학운영직(경비원_보훈특별고용) 채용 공고](https://www.kopo.ac.kr/asan) | 20260529 | 20260608 | 무기계약직 | 신입+경력 |
 | 한국장애인고용공단 | [[한국장애인고용공단 인천지사] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=213558) | 20260529 | 20260608 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-05-29 03:54:09 (Server Time)
+Updated at: 2026-05-29 07:59:58 (Server Time)
