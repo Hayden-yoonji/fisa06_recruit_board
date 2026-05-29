@@ -1,20 +1,21 @@
 # 📢 공공기관 채용 현황판
 
 이 페이지는 **공공데이터 OpenAPI**를 사용하여 자동으로 업데이트됩니다.  
-오늘 기준, 지원 가능한 공고는 총 **9건**입니다.
+오늘 기준, 지원 가능한 공고는 총 **10건**입니다.
 
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [(공고취소)한전KPS(주) 신보령사업소 '26년도 경상정비공사 사무보조 단기노무원 모집](https://www.kps.co.kr) | 20260526 | 20260529 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)강원충북전력지사 단기노무원(제천지점 차량순시) 채용공고(14차)](https://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 대구경북전력지사 단기노무원 채용(직할)](http://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)평택사업소 '26년도 경상정비공사 단기노무원 모집(전기, 사무)](https://www.kps.co.kr) | 20260529 | 20260602 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-19]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=522d1aedd4a24a729b347f47477b62ad) | 20260529 | 20260605 | 비정규직 | 신입 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 수원지점 단기노무원(상주감시, 차량순시 정비보조) 모집](https://www.kps.co.kr) | 20260529 | 20260605 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 아산캠퍼스 대학운영직(경비원_일반) 채용 공고](https://www.kopo.ac.kr/asan) | 20260529 | 20260608 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 아산캠퍼스 대학운영직(경비원_보훈특별고용) 채용 공고](https://www.kopo.ac.kr/asan) | 20260529 | 20260608 | 무기계약직 | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 인천지사] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=213558) | 20260529 | 20260608 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 경북대학교병원 | [2026년 5월 제3차 임시직원 모집 공고(시설기술, 주차관리, 미화청소)](https://www.knuh.kr/content/04information/02_01.asp) | 20260529 | 20260604 | 비정규직 | 신입 |
+| 전남대학교병원 | [2026년 5월 화순전남대학교병원 직원(대체근로자) 공개채용 공고 ](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255252) | 20260529 | 20260605 | 비정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260605 | 비정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260605 | 비정규직 | 신입 |
+| 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260605 | 비정규직 | 신입 |
+| 근로복지공단 | [[정선병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260605 | 무기계약직 | 신입 |
+| 한국보훈복지의료공단 | [[광주보훈병원] 전문의(통합내과) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=185955) | 20260529 | 20260608 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[근로복지공단] 의료직(산업위생사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260608 | 정규직 | 경력 |
+| 근로복지공단 | [[근로복지공단] 의료직(물리작업치료사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260608 | 정규직 | 신입 |
+| 근로복지공단 | [[근로복지공단] 의료직(방사선사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260608 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-29 07:59:58 (Server Time)
+Updated at: 2026-05-29 11:37:52 (Server Time)
