@@ -18,4 +18,4 @@
 | 근로복지공단 | [[근로복지공단] 의료직(방사선사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260529 | 20260608 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-05-30 17:10:06 (Server Time)
+Updated at: 2026-05-30 19:20:19 (Server Time)
