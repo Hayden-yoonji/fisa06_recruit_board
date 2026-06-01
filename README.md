@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[대전보훈요양원] 2026년 제2차 정규직 요양보호사 긴급 채용 공고](https://www.bohun.or.kr/djcare/na/ntt/selectNttInfo.do?mi=34278&bbsId=1358&bbsSysId=djcare&nttSn=186026) | 20260601 | 20260611 | 정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-01 18:40:39 (Server Time)
+Updated at: 2026-06-01 22:11:56 (Server Time)
