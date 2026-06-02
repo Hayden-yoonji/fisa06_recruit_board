@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| (재)우체국물류지원단 | [우체국물류지원단 서울지사 동서울물류사업소 기간제(발착직) 채용 공고](https://www.pola.or.kr) | 20260602 | 20260604 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 신보령사업소 '26년도 경상정비공사 계약보조 단기노무원 모집](https://www.kps.co.kr) | 20260602 | 20260605 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)충남전북전력지사(청양지점) 단기노무원 채용 공고](http://www.kps.co.kr) | 20260602 | 20260605 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주) 원자력정비기술센터 단기노무원(플랜트기계설치공, 플랜트전공, 플랜트특별인부, 사무보조) 모집](https://www.kps.co.kr ) | 20260602 | 20260605 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 화성캠퍼스 청년인턴(장애인 제한경쟁) 공개채용 공고](https://www.kopo.ac.kr/hwaseong/board.do?menu=7078&mode=view&post=777071) | 20260601 | 20260608 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 인천캠퍼스 업무직(미화원) 채용 공고](https://www.kopo.ac.kr/incheon/board.do?menu=6900&mode=view&post=777153) | 20260602 | 20260609 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 인천캠퍼스 업무직(조리원) 채용 공고](https://www.kopo.ac.kr/incheon/board.do?menu=6900&mode=view&post=777151) | 20260602 | 20260609 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 인천캠퍼스 업무직(사감) 채용 공고](https://www.kopo.ac.kr/incheon/board.do?menu=6900&mode=view&post=777150) | 20260602 | 20260609 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 대전캠퍼스 업무직(대학운영직_경비원) 채용 공고](https://www.kopo.ac.kr/daejeon/board.do?menu=10536&mode=view&post=777163) | 20260602 | 20260609 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 강릉캠퍼스 업무직원[대학운영직_경비원(보훈특별고용)] 채용 공고](https://www.kopo.ac.kr/gangneung/board.do?menu=10535&mode=view&post=777190) | 20260602 | 20260612 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 기간제(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260609 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 기간제(영양사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260609 | 비정규직 | 신입 |
+| 근로복지공단 | [[태백병원] 공무직(방사선사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260609 | 무기계약직 | 신입 |
+| 근로복지공단 | [[태백병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260609 | 청년인턴(체험형) | 신입 |
+| 근로복지공단 | [[태백병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260609 | 청년인턴(체험형) | 신입 |
+| 한국보훈복지의료공단 | [[본사] 장애인 예술작가(체험형 청년인턴) 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37029&bbsId=1158&bbsSysId=main&nttSn=186042) | 20260602 | 20260612 | 청년인턴(체험형) | 신입 |
+| 국립중앙의료원 | [의사직 전문의 채용 재공고(내분비대사내과)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255758) | 20260602 | 20260612 | 정규직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 별정직 의사(내과 또는 가정의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260602 | 20260612 | 정규직 | 신입 |
+| 한국보훈복지의료공단 | [[본사] (긴급) 계약직 업무지원직(경비) 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37029&bbsId=1158&bbsSysId=main&nttSn=186041) | 20260602 | 20260612 | 비정규직 | 신입 |
+| 국립중앙의료원 | [의사직 및 계약직 전문의 채용 재공고(중환자전담전문의, 소아청소년과-신생아분과)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255754) | 20260602 | 20260612 | 정규직,비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-02 05:51:20 (Server Time)
+Updated at: 2026-06-02 10:40:42 (Server Time)
