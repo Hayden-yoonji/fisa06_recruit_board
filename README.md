@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[본사] (긴급) 계약직 업무지원직(경비) 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37029&bbsId=1158&bbsSysId=main&nttSn=186041) | 20260602 | 20260612 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-02 14:55:16 (Server Time)
+Updated at: 2026-06-02 18:41:17 (Server Time)
