@@ -18,4 +18,4 @@
 | 근로복지공단 | [[대전병원] 공무직(시설경비원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-06-04 18:19:58 (Server Time)
+Updated at: 2026-06-04 20:58:19 (Server Time)
