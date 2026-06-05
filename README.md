@@ -14,8 +14,8 @@
 | 근로복지공단 | [[인천병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[인천병원] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[태백요양병원] 공무직(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 무기계약직 | 신입 |
-| 근로복지공단 | [[정선병원] 공무직(시설경비원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 무기계약직 | 신입 |
-| 근로복지공단 | [[대전병원] 공무직(시설경비원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260611 | 무기계약직 | 신입 |
+| 한국보훈복지의료공단 | [[대구보훈병원] 의사직(호흡기내과, 순환기내과, 응급의학과, 외과, 비뇨의학과, 입원전담의) 채용공고](https://bohun.fairyhr.com/announcement/detail/556) | 20260604 | 20260615 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[순천병원] 별정직 의사(내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260604 | 20260615 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-06-04 22:26:29 (Server Time)
+Updated at: 2026-06-05 00:11:18 (Server Time)
