@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 국립공원공단 | [[덕유산] 덕유산국립공원 여름성수기 한시인력(환경관리) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019281) | 20260605 | 20260609 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-20]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=12334baa9b92410b8a9af5309d1e0c79) | 20260605 | 20260612 | 비정규직 | 신입 |
-| 국립중앙의료원 | [계약직 단시간 근로자-장애인(공공사회사업팀, 물류팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=256026) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
-| 한국산업안전보건공단 | [[안전보건공단] 본부(울산) 제2차 기간제 근로자 채용공고](https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=20260605112655G0K9S3) | 20260605 | 20260615 | 비정규직 | 신입 |
-| 한국산업안전보건공단 | [[안전보건공단] 본부(울산) 업무직 채용공고](https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=20260605112655G0K9S3) | 20260605 | 20260615 | 무기계약직 | 신입 |
-| 강원대학교치과병원 | [(무기) 계약직 (조리원) 직원 모집 공고](http://www.knudh.or.kr) | 20260605 | 20260615 | 무기계약직,비정규직 | 신입+경력 |
-| 강원대학교치과병원 | [계약직(치과기공사) 모집 공고](http://www.knudh.or.kr) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
-| 강원대학교치과병원 | [계약직(간호사) 모집 공고](http://www.knudh.or.kr) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
-| 강원대학교치과병원 | [계약직(치과위생사) 모집 공고](http://www.knudh.or.kr) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
-| 강원대학교치과병원 | [정규직(임상병리사) 모집 공고](http://www.knudh.or.kr) | 20260605 | 20260615 | 정규직 | 신입+경력 |
+| 한국환경보전원 | [한국환경보전원 자연복원기획처 자연복원사업팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8383&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260605 | 20260612 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[안산병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260605 | 20260612 | 비정규직 | 신입 |
+| 국립중앙의료원 | [무기계약직 간호사(간호부-심장혈관흉부외과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=256123) | 20260605 | 20260615 | 무기계약직 | 신입+경력 |
+| 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(국립공원지킴이) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019287) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [업무지원직 병동지원-보훈특별고용(간호부) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255990) | 20260605 | 20260615 | 무기계약직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 약사(약제부) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255989) | 20260606 | 20260615 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 간호사(간호부-소화기내과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255988) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 간호사(감염내과-상담실) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255987) | 20260605 | 20260615 | 비정규직 | 경력 |
+| 국립공원공단 | [[주왕산] 2026년 주왕산 국립공원지킴이 3차 모집 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019286) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
+| 국립중앙의료원 | [계약직 간호사(간호부-소아청소년과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255986) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-05 05:19:59 (Server Time)
+Updated at: 2026-06-05 09:55:44 (Server Time)
