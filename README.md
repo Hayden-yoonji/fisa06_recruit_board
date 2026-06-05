@@ -6,8 +6,8 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 경북대학교병원 | [2026년 의료요원(진료교수) 22차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260605 | 20260612 | 정규직 | 신입 |
 | 한국환경보전원 | [한국환경보전원 자연복원기획처 자연복원사업팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8383&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260605 | 20260612 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[안산병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260605 | 20260612 | 비정규직 | 신입 |
 | 국립중앙의료원 | [무기계약직 간호사(간호부-심장혈관흉부외과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=256123) | 20260605 | 20260615 | 무기계약직 | 신입+경력 |
 | 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(국립공원지킴이) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019287) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
 | 국립중앙의료원 | [업무지원직 병동지원-보훈특별고용(간호부) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255990) | 20260605 | 20260615 | 무기계약직 | 신입+경력 |
@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직 간호사(간호부-소아청소년과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255986) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-05 09:55:44 (Server Time)
+Updated at: 2026-06-05 12:40:35 (Server Time)
