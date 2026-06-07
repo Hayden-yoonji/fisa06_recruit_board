@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [계약직 간호사(간호부-소아청소년과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=255986) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-07 13:58:32 (Server Time)
+Updated at: 2026-06-07 15:38:19 (Server Time)
