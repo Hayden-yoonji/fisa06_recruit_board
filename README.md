@@ -18,4 +18,4 @@
 | 한국산업안전보건공단 | [[건설업] '26년도 안전한 일터 지킴이 채용공고](https://kosha.or.kr/notification/notice/contruction?bbsId=B2025021400001&pstNo=20260608090036EUSJ42) | 20260608 | 20260618 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-08 20:25:05 (Server Time)
+Updated at: 2026-06-08 22:41:02 (Server Time)
