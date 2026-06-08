@@ -13,9 +13,9 @@
 | 근로복지공단 | [[안산병원] 기간제(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260608 | 20260615 | 비정규직 | 신입 |
 | 근로복지공단 | [[순천병원] 기간제 의사(응급의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260608 | 20260615 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 바이오캠퍼스  업무직(대학운영직_경비원) 채용 공고](https://www.kopo.ac.kr/bio/board.do?menu=5899&mode=view&post=777531) | 20260608 | 20260615 | 무기계약직 | 신입+경력 |
+| 한국보훈복지의료공단 | [[광주보훈병원] 청년인턴(체험형) 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=186208) | 20260608 | 20260618 | 청년인턴(체험형) | 신입+경력 |
+| 한국수산자원공단 | [한국수산자원공단 2026년 개방직위(서해·남해본부장) 공개 모집(재공고)](https://www.fira.or.kr/newfira/web/news/news01_02.jsp?mode=view&article_no=35652&board_wrapper=%2Fnewfira%2Fweb%2Fnews%2Fnews01_02.jsp&pager.offset=0&board_no=3) | 20260608 | 20260618 | 비정규직 | 경력 |
 | 한국산업안전보건공단 | [[건설업] '26년도 안전한 일터 지킴이 채용공고](https://kosha.or.kr/notification/notice/contruction?bbsId=B2025021400001&pstNo=20260608090036EUSJ42) | 20260608 | 20260618 | 비정규직 | 신입 |
-| 한국산업안전보건공단 | [[제조업] '26년도 안전한 일터 지킴이 채용공고](https://kosha.or.kr/notification/notice/contruction?bbsId=B2025021400001&pstNo=20260608090036EUSJ42) | 20260608 | 20260618 | 비정규직 | 신입 |
-| 한국장애인고용공단 | [[한국장애인고용공단 경기남부직업능력개발원] 특정업무직(운영지원직) 미화원 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=213765&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt2Code=&adt1&searchCondition=sjcn&recordCountPerPage=10) | 20260608 | 20260618 | 무기계약직,비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-08 09:24:47 (Server Time)
+Updated at: 2026-06-08 14:10:49 (Server Time)
