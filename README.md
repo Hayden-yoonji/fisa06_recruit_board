@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주)새울1사업처 새울1호기 제6차 OH공사 정비보조원 및 안전순찰요원 2차 채용공고](https://www.kps.co.kr) | 20260608 | 20260610 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [2026년 의료요원(진료교수) 22차 초빙(긴급) 공고](https://www.knuh.kr/content/04information/02_01.asp) | 20260605 | 20260612 | 정규직 | 신입 |
 | 한국도로공사 | [한국도로공사 수원지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260608 | 20260614 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 원주캠퍼스 청년인턴(장애) 채용 재공고](https://www.kopo.ac.kr/wonju/board.do?menu=10534&mode=view&post=777618) | 20260608 | 20260615 | 청년인턴(체험형) | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 원주캠퍼스 업무직(대학운영직_경비원) 채용 재공고](https://www.kopo.ac.kr/wonju/board.do?menu=10534&mode=view&post=777617) | 20260608 | 20260615 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 기간제(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260608 | 20260615 | 비정규직 | 신입 |
+| 근로복지공단 | [[안산병원] 기간제(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260608 | 20260615 | 비정규직 | 신입 |
+| 근로복지공단 | [[순천병원] 기간제 의사(응급의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260608 | 20260615 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 바이오캠퍼스  업무직(대학운영직_경비원) 채용 공고](https://www.kopo.ac.kr/bio/board.do?menu=5899&mode=view&post=777531) | 20260608 | 20260615 | 무기계약직 | 신입+경력 |
-| 국립중앙의료원 | [무기계약직 간호사(간호부-심장혈관흉부외과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=256123) | 20260605 | 20260615 | 무기계약직 | 신입+경력 |
-| 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(국립공원지킴이) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019287) | 20260605 | 20260615 | 비정규직 | 신입+경력 |
 | 한국산업안전보건공단 | [[건설업] '26년도 안전한 일터 지킴이 채용공고](https://kosha.or.kr/notification/notice/contruction?bbsId=B2025021400001&pstNo=20260608090036EUSJ42) | 20260608 | 20260618 | 비정규직 | 신입 |
 | 한국산업안전보건공단 | [[제조업] '26년도 안전한 일터 지킴이 채용공고](https://kosha.or.kr/notification/notice/contruction?bbsId=B2025021400001&pstNo=20260608090036EUSJ42) | 20260608 | 20260618 | 비정규직 | 신입 |
-| 한국장애인고용공단 | [[한국장애인고용공단 경기남부직업능력개발원] 특정업무직(운영지원직) 미화원 채용](https://www.kead.or.kr) | 20260608 | 20260618 | 무기계약직,비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [2026년도 산학협력중점교수 채용 공고(반도체융합캠퍼스)](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=777496) | 20260608 | 20260618 | 비정규직 | 경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 경기남부직업능력개발원] 특정업무직(운영지원직) 미화원 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&bbsCode=deptgongji&bbsCnId=213765&bbsNm=%EB%B6%80%EC%84%9C+%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD&menuId=MENU0895&adt2Code=&adt1&searchCondition=sjcn&recordCountPerPage=10) | 20260608 | 20260618 | 무기계약직,비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-08 04:15:36 (Server Time)
+Updated at: 2026-06-08 09:24:47 (Server Time)
