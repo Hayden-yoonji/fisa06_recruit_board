@@ -18,4 +18,4 @@
 | 한국농어촌공사 | [한국농어촌공사 강릉지사 공무직(청소원) 공개경쟁 채용 재공고](https://www.ekr.or.kr/planweb/board/view.krc?dataUid=8a8bb3529b9690c0019ea99e4e10128f&page=1&boardUid=402880317cc0644a017cc5e8000f06b7&contentUid=8a8bb3529665d7140199501cd3ef6280&searchType=&keyword=&categoryUid1=&categoryUid2=8a8bb3529665d714019951996437) | 20260609 | 20260619 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-09 15:57:27 (Server Time)
+Updated at: 2026-06-09 18:14:40 (Server Time)
