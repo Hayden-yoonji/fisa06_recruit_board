@@ -17,4 +17,4 @@
 | 한국식품안전관리인증원 | [2026년 제7차 체험형인턴 및 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260610 | 20260618 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-06-10 10:05:48 (Server Time)
+Updated at: 2026-06-10 14:24:28 (Server Time)
