@@ -6,11 +6,11 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 국립공원공단 | [[설악산] 설악산국립공원 기간제 직원[환경관리(한시인력)] 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019316) | 20260611 | 20260617 | 비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 단기간 계약직(중앙물류이송), 휴직대체 계약직(조리·배식원, 물리치료사, 원무) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do) | 20260612 | 20260617 | 비정규직 | 신입+경력 |
+| 제주대학교병원 | [제주대학교병원 계약직(행정) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do) | 20260612 | 20260618 | 무기계약직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 서울지사 동서울물류사업소 기간제(발착직) 채용 공고](http://www.pola.or.kr) | 20260612 | 20260618 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 서울지사 기간제(사무직_보건, 육아휴직대체) 채용 공고](https://www.pola.or.kr) | 20260612 | 20260618 | 비정규직 | 신입+경력 |
 | 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-22]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=79b9785727c74710b3b36758af3ab06a) | 20260611 | 20260618 | 비정규직 | 신입 |
-| 근로복지공단 | [[대구병원] 기간제(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260611 | 20260618 | 비정규직 | 신입 |
 | 한국식품안전관리인증원 | [2026년 제8차 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260612 | 20260619 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 비정규직 | 신입 |
 | 근로복지공단 | [[정선병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 무기계약직 | 신입 |
@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 대구캠퍼스 무기계약직원_업무직(조리원) 채용 공고](https://www.kopo.ac.kr/daegu/board.do?menu=10546&mode=view&post=777905) | 20260612 | 20260622 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-12 08:59:16 (Server Time)
+Updated at: 2026-06-12 12:26:24 (Server Time)
