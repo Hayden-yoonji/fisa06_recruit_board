@@ -18,4 +18,4 @@
 | 코레일네트웍스(주) | [코레일네트웍스(주) 2026년 상반기 수시채용](https://korailnetworks.recruiter.co.kr) | 20260610 | 20260624 | 정규직,무기계약직,비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-14 16:24:07 (Server Time)
+Updated at: 2026-06-14 18:15:16 (Server Time)
