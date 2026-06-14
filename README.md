@@ -15,7 +15,7 @@
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 비정규직 | 신입 |
 | 근로복지공단 | [[정선병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 무기계약직 | 신입 |
 | 근로복지공단 | [[순천병원] 기간제 의사(산부인과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260622 | 비정규직 | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 대구캠퍼스 무기계약직원_업무직(조리원) 채용 공고](https://www.kopo.ac.kr/daegu/board.do?menu=10546&mode=view&post=777905) | 20260612 | 20260622 | 무기계약직 | 신입+경력 |
+| 코레일네트웍스(주) | [코레일네트웍스(주) 2026년 상반기 수시채용](https://korailnetworks.recruiter.co.kr) | 20260610 | 20260624 | 정규직,무기계약직,비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-13 22:05:32 (Server Time)
+Updated at: 2026-06-14 00:09:12 (Server Time)
