@@ -9,13 +9,13 @@
 | 제주대학교병원 | [제주대학교병원 단기간 계약직(중앙물류이송), 휴직대체 계약직(조리·배식원, 물리치료사, 원무) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do) | 20260612 | 20260617 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [제주대학교병원 계약직(행정) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do) | 20260612 | 20260618 | 무기계약직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 서울지사 동서울물류사업소 기간제(발착직) 채용 공고](http://www.pola.or.kr) | 20260612 | 20260618 | 비정규직 | 신입+경력 |
-| (재)우체국물류지원단 | [우체국물류지원단 서울지사 기간제(사무직_보건, 육아휴직대체) 채용 공고](https://www.pola.or.kr) | 20260612 | 20260618 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고[2026-22]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=79b9785727c74710b3b36758af3ab06a) | 20260611 | 20260618 | 비정규직 | 신입 |
 | 한국식품안전관리인증원 | [2026년 제8차 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260612 | 20260619 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[정선병원] 기간제 의사(응급실) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 비정규직 | 신입 |
 | 근로복지공단 | [[정선병원] 공무직(전기기계통신기사_전기분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260619 | 무기계약직 | 신입 |
 | 근로복지공단 | [[순천병원] 기간제 의사(산부인과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260612 | 20260622 | 비정규직 | 신입 |
 | 코레일네트웍스(주) | [코레일네트웍스(주) 2026년 상반기 수시채용](https://korailnetworks.recruiter.co.kr) | 20260610 | 20260624 | 정규직,무기계약직,비정규직 | 신입 |
+| 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260615 | 20260625 | 정규직 | 신입 |
+| (재)한국통계정보원 | [[제2026-07] 한국통계정보원 무기계약직(경력직) 제한경쟁 채용 공고](https://kosii.or.kr/kosii/dc/pstmng/dcCmPstMngDetail.do?menuCd=DC0505010000&bbsId=BBS00000000000000060&pstId=PST00000000000004064&page=1&srchTxt=) | 20260612 | 20260625 | 무기계약직 | 경력 |
 
 ---
-Updated at: 2026-06-14 22:13:43 (Server Time)
+Updated at: 2026-06-15 00:13:32 (Server Time)
