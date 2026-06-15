@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [2026년도 한국폴리텍대학 성남캠퍼스 업무직(조리사) 채용 공고](https://www.kopo.ac.kr/seongnam/board.do?menu=10526&mode=view&post=776952) | 20260616 | 20260625 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-15 21:44:38 (Server Time)
+Updated at: 2026-06-15 23:47:34 (Server Time)
