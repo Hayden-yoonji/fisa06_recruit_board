@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주) 월성2사업처 월성4호기 정지냉각계통 열교환기#2 전단 배관 교체공사 채용공고](http://www.kps.co.kr) | 20260616 | 20260618 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [칠곡경북대학교병원 2026년 6월 1차 임시직원 채용공고(행정 간호사 임상병리사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5069&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260616 | 20260622 | 비정규직 | 신입+경력 |
-| 주택도시보증공사 | [2026년 주택도시보증공사 시니어 상담사 채용공고](https://www.khug.or.kr/hug/web/ci/re/cire000051.jsp) | 20260615 | 20260622 | 비정규직 | 신입 |
-| 한국도로공사 | [한국도로공사 경남권건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260615 | 20260622 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 창녕지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260615 | 20260622 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 고성지사 기간제근로자(조경) 채용공고](https://www.ex.co.kr) | 20260615 | 20260622 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 김포파주건설사업단 기간제근로자(사무원) 채용공고](https://www.ex.co.kr) | 20260615 | 20260622 | 비정규직 | 신입+경력 |
+| 국립아시아문화전당재단 | [2026년 국립아시아문화전당재단 청년인턴 채용 연장공고](https://www.accf.or.kr/main/board/jobposting-view/1315) | 20260616 | 20260623 | 청년인턴(체험형) | 신입 |
 | 국립호남권생물자원관 | [2026년 국립호남권생물자원관 청년인턴 채용 공고](https://hnibr.re.kr/ko/M000000515/bbs/view?pstNo=33626&pageUnit=10&pageIndex=1&searchCnd=01&searchWrd=&searchPstClCdId=) | 20260616 | 20260623 | 청년인턴(체험형) | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 춘천캠퍼스 업무직[대학운영직_영선원] 채용 공고](https://www.kopo.ac.kr/chuncheon/board.do?menu=10533&mode=view&post=778125) | 20260616 | 20260623 | 무기계약직 | 신입+경력 |
+| 한국보훈복지의료공단 | [[광주보훈병원] 계약직 기능직(간호조무사) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=186473#none) | 20260616 | 20260626 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[태백병원] 별정직 의사(내과 또는 가정의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260616 | 20260626 | 정규직 | 신입 |
+| 근로복지공단 | [[순천병원] 의료직(산업위생사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260616 | 20260626 | 정규직 | 경력 |
+| 국립공원공단 | [[월악산] 2026년 월악산국립공원사무소 한시인력(국립공원지킴이) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019326) | 20260616 | 20260626 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[전주보훈요양원] 장애인 청년인턴(단시간) 채용 공고](https://www.bohun.or.kr/jjcare/na/ntt/selectNttInfo.do?mi=34249&bbsId=1259&bbsSysId=jjcare&nttSn=186438) | 20260616 | 20260626 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-06-16 04:26:40 (Server Time)
+Updated at: 2026-06-16 10:10:00 (Server Time)
