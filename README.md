@@ -17,4 +17,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 제주발달장애인훈련센터] 2026년 대체근로자 채용](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=214072) | 20260617 | 20260625 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-17 21:09:19 (Server Time)
+Updated at: 2026-06-17 23:27:17 (Server Time)
