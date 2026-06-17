@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[전주보훈요양원] 장애인 청년인턴(단시간) 채용 공고](https://www.bohun.or.kr/jjcare/na/ntt/selectNttInfo.do?mi=34249&bbsId=1259&bbsSysId=jjcare&nttSn=186438) | 20260616 | 20260626 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-06-16 22:14:14 (Server Time)
+Updated at: 2026-06-17 00:19:01 (Server Time)
