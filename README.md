@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 울산캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=778422) | 20260618 | 20260626 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-06-18 12:55:51 (Server Time)
+Updated at: 2026-06-18 16:36:00 (Server Time)
