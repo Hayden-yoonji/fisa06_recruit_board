@@ -14,8 +14,8 @@
 | 한국도로공사 | [한국도로공사 공주지사 기간제근로자(운전원) 채용공고](https://www.ex.co.kr) | 20260618 | 20260625 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260619 | 20260626 | 비정규직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260619 | 20260626 | 비정규직 | 신입 |
-| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 울산캠퍼스 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=778422) | 20260618 | 20260626 | 청년인턴(체험형) | 신입+경력 |
+| 국립중앙의료원 | [계약직 전문의(서울인천광역응급의료상황팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=257566) | 20260619 | 20260629 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[월출산] 월출산국립공원사무소 국립공원지킴이 모집 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019337) | 20260618 | 20260629 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-19 07:09:28 (Server Time)
+Updated at: 2026-06-19 12:08:28 (Server Time)
