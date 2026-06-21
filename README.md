@@ -9,13 +9,13 @@
 | 한전KPS(주) | [한전KPS청평양수사업소 단기노무원 모집(화천수력 현대화공사)](https://www.kps.co.kr) | 20260619 | 20260622 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[속리산] 속리산국립공원사무소 기간제 (자원보전-ASF) 직원 채용 추가접수 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019338) | 20260618 | 20260622 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 6월 제2차 임시직원 모집 공고 (시설기술(설비), 간호, 별정(약물분석연구원))](https://www.knuh.kr/content/04information/02_01.asp) | 20260619 | 20260624 | 비정규직 | 신입 |
+| 한전KPS(주) | [한전KPS(주)양양양수사업소 경상정비 단기노무원 채용](https://www.kps.co.kr) | 20260622 | 20260624 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 대전지사 청주사업소 기간제(운전직, 연차자대체) 채용 공고](https://www.pola.or.kr) | 20260619 | 20260625 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[태백산] 태백산국립공원사무소 하반기 탐방로 보수전담팀 기간제(한시인력) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019339) | 20260619 | 20260625 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 공주지사 기간제근로자(운전원) 채용공고](https://www.ex.co.kr) | 20260618 | 20260625 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260619 | 20260626 | 비정규직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260619 | 20260626 | 비정규직 | 신입 |
 | 국립중앙의료원 | [계약직 전문의(서울인천광역응급의료상황팀) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=257566) | 20260619 | 20260629 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[월출산] 월출산국립공원사무소 국립공원지킴이 모집 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019337) | 20260618 | 20260629 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-21 13:08:31 (Server Time)
+Updated at: 2026-06-21 15:54:18 (Server Time)
