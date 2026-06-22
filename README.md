@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[보훈원] 비정규직(조리원, 간호조무사) 직원 채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260622 | 20260702 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-06-22 15:53:58 (Server Time)
+Updated at: 2026-06-22 19:31:52 (Server Time)
