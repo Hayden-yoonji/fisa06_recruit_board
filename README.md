@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 한전KPS(주) | [한전KPS(주)남제주사업소 기력2호기 계획예방정비공사 단기노무원 채용 공고](https://www.kps.co.kr/) | 20260623 | 20260625 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제[한시인력(수익시설,환경관리)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019343) | 20260622 | 20260626 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[중부지역본부] 국립공원공단 중부권역 내 공무직(환경관리_청사미화) 직원 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019361) | 20260623 | 20260628 | 무기계약직 | 신입+경력 |
 | 근로복지공단 | [[대구북부지사] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260622 | 20260629 | 청년인턴(체험형) | 신입 |
-| 근로복지공단 | [[경인지역본부] 공무직 직원 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260622 | 20260629 | 무기계약직 | 신입 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경남지사)](https://www.kohom.or.kr) | 20260622 | 20260629 | 청년인턴(채용형) | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 충주캠퍼스 업무직(대학운영직_조리원) 채용 공고](https://www.kopo.ac.kr/chungju/board.do?menu=2839&mode=view&post=778844) | 20260623 | 20260630 | 무기계약직 | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 대전충남지사)](https://www.kohom.or.kr) | 20260623 | 20260630 | 청년인턴(채용형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 항공캠퍼스 대학운영직(조리원) 2차 공개채용 공고](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=778736) | 20260622 | 20260701 | 무기계약직 | 신입+경력 |
-| 한국건강증진개발원 | [한국건강증진개발원 2026년 제3차 위촉전문원 채용 연장공고](https://khepi-hr.jobnlab.co.kr/) | 20260622 | 20260701 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[보훈원] 비정규직(조리원, 간호조무사) 직원 채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260622 | 20260702 | 비정규직,청년인턴(체험형) | 신입+경력 |
-| 한국산업안전보건공단 | [[안전보건공단 산업안전보건연구원(대전)] 업무직(시설관리원) 채용공고](https://oshri.kosha.or.kr/oshri/researcherNews/notice.do?mode=view&articleNo=456863&article.offset=0&articleLimit=10) | 20260622 | 20260703 | 무기계약직 | 신입 |
+| 근로복지공단 | [[순천병원] 별정직 의사(내과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260623 | 20260703 | 정규직 | 신입 |
+| 근로복지공단 | [[순천병원] 기간제 의사(응급의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260623 | 20260703 | 비정규직 | 신입 |
+| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 영주캠퍼스 업무직(대학운영직 조리원) 채용 공고](https://www.kopo.ac.kr/yeongju/board.do?menu=6234&mode=view&post=778821) | 20260623 | 20260703 | 무기계약직 | 신입+경력 |
+| 한국농촌경제연구원 | [한국농촌경제연구원 2026-8차(재공모) 계약직 채용 공고](https://www.krei.re.kr/krei/page/69?cmd=view&pst=505306&pageIndex=1) | 20260623 | 20260703 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-23 05:03:19 (Server Time)
+Updated at: 2026-06-23 09:44:57 (Server Time)
