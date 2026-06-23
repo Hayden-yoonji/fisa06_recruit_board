@@ -12,10 +12,10 @@
 | 근로복지공단 | [[경인지역본부] 공무직 직원 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260622 | 20260629 | 무기계약직 | 신입 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경남지사)](https://www.kohom.or.kr) | 20260622 | 20260629 | 청년인턴(채용형) | 신입+경력 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 광주전남지사)](https://www.kohom.or.kr) | 20260622 | 20260629 | 청년인턴(채용형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 원주캠퍼스 청년인턴(장애) 채용 3차 재공고](https://www.kopo.ac.kr/wonju/board.do?menu=10534&mode=view&post=778691) | 20260622 | 20260629 | 청년인턴(체험형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 항공캠퍼스 대학운영직(조리원) 2차 공개채용 공고](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=778736) | 20260622 | 20260701 | 무기계약직 | 신입+경력 |
 | 한국건강증진개발원 | [한국건강증진개발원 2026년 제3차 위촉전문원 채용 연장공고](https://khepi-hr.jobnlab.co.kr/) | 20260622 | 20260701 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[보훈원] 비정규직(조리원, 간호조무사) 직원 채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260622 | 20260702 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한국산업안전보건공단 | [[안전보건공단 산업안전보건연구원(대전)] 업무직(시설관리원) 채용공고](https://oshri.kosha.or.kr/oshri/researcherNews/notice.do?mode=view&articleNo=456863&article.offset=0&articleLimit=10) | 20260622 | 20260703 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-06-22 22:04:37 (Server Time)
+Updated at: 2026-06-23 00:09:04 (Server Time)
