@@ -18,4 +18,4 @@
 | 한국농촌경제연구원 | [한국농촌경제연구원 2026-8차(재공모) 계약직 채용 공고](https://www.krei.re.kr/krei/page/69?cmd=view&pst=505306&pageIndex=1) | 20260623 | 20260703 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-23 15:50:17 (Server Time)
+Updated at: 2026-06-23 17:58:43 (Server Time)
