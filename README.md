@@ -7,15 +7,15 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 제주대학교병원 | [제주대학교병원 단기간 계약직(중앙물류이송), 휴직대체 계약직(조리·배식원) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2625) | 20260624 | 20260630 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(수상안전관리원) 직원 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019366) | 20260625 | 20260701 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(환경관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019364) | 20260625 | 20260701 | 비정규직 | 신입+경력 |
 | 한국도로공사 | [한국도로공사 도로교통연구원 기간제근로자(연구원) 채용공고](https://www.ex.co.kr) | 20260624 | 20260701 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[대구병원] 공무직(시설경비원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
 | 근로복지공단 | [[대구병원] 공무직(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
 | 근로복지공단 | [[안산병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
 | 근로복지공단 | [[청주지사] 기간제(보험가입조사원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 비정규직 | 신입 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 충남캠퍼스 업무직(대학운영직 조리사) 채용 공고](https://www.kopo.ac.kr/chungnam/board.do?menu=10539&mode=view&post=778894) | 20260624 | 20260701 | 무기계약직 | 신입+경력 |
-| 근로복지공단 | [[용인지사] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 청년인턴(체험형) | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 충남캠퍼스 비정규직(업무지원직 식당업무보조) 채용 공고](https://www.kopo.ac.kr/chungnam/board.do?menu=10539&mode=view&post=778892) | 20260624 | 20260701 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [ 한국폴리텍대학 전남캠퍼스 업무직(조리원) 공개 채용 공고](https://www.kopo.ac.kr/jeonnam/board.do?menu=10543&mode=view&post=778934) | 20260625 | 20260702 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-24 23:05:58 (Server Time)
+Updated at: 2026-06-25 03:50:51 (Server Time)
