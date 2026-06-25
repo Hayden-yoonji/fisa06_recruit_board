@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [ 한국폴리텍대학 전남캠퍼스 업무직(조리원) 공개 채용 공고](https://www.kopo.ac.kr/jeonnam/board.do?menu=10543&mode=view&post=778934) | 20260625 | 20260702 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-06-25 13:21:02 (Server Time)
+Updated at: 2026-06-25 16:27:18 (Server Time)
