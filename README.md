@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 제주대학교병원 | [제주대학교병원 단기간 계약직(중앙물류이송), 휴직대체 계약직(조리·배식원) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2625) | 20260624 | 20260630 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(수상안전관리원) 직원 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019366) | 20260625 | 20260701 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[한려동부] 2026년 한려해상국립공원동부사무소 한시인력(환경관리) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019364) | 20260625 | 20260701 | 비정규직 | 신입+경력 |
-| 한국도로공사 | [한국도로공사 도로교통연구원 기간제근로자(연구원) 채용공고](https://www.ex.co.kr) | 20260624 | 20260701 | 비정규직 | 신입+경력 |
-| 근로복지공단 | [[대구병원] 공무직(시설경비원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
-| 근로복지공단 | [[대구병원] 공무직(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
-| 근로복지공단 | [[안산병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 무기계약직 | 신입 |
-| 근로복지공단 | [[청주지사] 기간제(보험가입조사원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260624 | 20260701 | 비정규직 | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 충남캠퍼스 업무직(대학운영직 조리사) 채용 공고](https://www.kopo.ac.kr/chungnam/board.do?menu=10539&mode=view&post=778894) | 20260624 | 20260701 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [ 한국폴리텍대학 전남캠퍼스 업무직(조리원) 공개 채용 공고](https://www.kopo.ac.kr/jeonnam/board.do?menu=10543&mode=view&post=778934) | 20260625 | 20260702 | 무기계약직 | 신입+경력 |
+| 국립공원공단 | [[설악산] 설악산국립공원 기간제 직원[환경관리(한시인력)] 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019373) | 20260626 | 20260701 | 비정규직 | 신입+경력 |
+| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](https://www.kohom.or.kr) | 20260626 | 20260703 | 청년인턴(채용형) | 신입+경력 |
+| 한국보훈복지의료공단 | [[부산보훈병원] 계약직(치과위생사) 긴급채용공고](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=186821) | 20260626 | 20260706 | 비정규직 | 경력 |
+| 근로복지공단 | [[순천병원] 기간제 의사(산부인과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260625 | 20260706 | 비정규직 | 신입 |
+| 근로복지공단 | [[태백병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260625 | 20260706 | 정규직 | 신입 |
+| 분당서울대학교병원 | [분당서울대학교병원 단시간일반직(선임급연구원) 채용공고](http://snubh.recruiter.co.kr) | 20260625 | 20260706 | 비정규직 | 신입 |
+| 분당서울대학교병원 | [분당서울대학교병원 단시간일반직 채용공고](https://snubh.recruiter.co.kr) | 20260625 | 20260706 | 비정규직 | 신입 |
+| 분당서울대학교병원 | [분당서울대학교병원 직원(계약업무지원직) 채용공고](http://snubh.recruiter.co.kr) | 20260625 | 20260706 | 비정규직 | 신입 |
+| 분당서울대학교병원 | [분당서울대학교병원 직원(계약사무직, 계약보건직) 채용공고](https://snubh.recruiter.co.kr) | 20260625 | 20260706 | 비정규직 | 신입+경력 |
+| 분당서울대학교병원 | [분당서울대학교병원 직원(계약보건직) 채용공고](https://snubh.recruiter.co.kr) | 20260625 | 20260706 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-06-25 23:20:34 (Server Time)
+Updated at: 2026-06-26 03:57:21 (Server Time)
