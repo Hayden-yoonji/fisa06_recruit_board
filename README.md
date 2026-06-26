@@ -18,4 +18,4 @@
 | 근로복지공단 | [[순천병원] 기간제 의사(산부인과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260625 | 20260706 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-26 11:11:04 (Server Time)
+Updated at: 2026-06-26 14:29:14 (Server Time)
