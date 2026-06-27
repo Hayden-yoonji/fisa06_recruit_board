@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[부산보훈병원] 계약직(치과위생사) 긴급채용공고](https://www.bohun.or.kr/busan/na/ntt/selectNttInfo.do?mi=33215&bbsId=1158&bbsSysId=busan&nttSn=186821) | 20260626 | 20260706 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-06-27 15:16:56 (Server Time)
+Updated at: 2026-06-27 17:12:46 (Server Time)
