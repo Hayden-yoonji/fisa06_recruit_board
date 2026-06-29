@@ -18,4 +18,4 @@
 | 한국전력공사 | [기간제근로자(대체인력) 채용공고[대전세종충남본부 천안지사, 대덕유성지사]](http://recruit.kepco.co.kr/sangsi) | 20260625 | 20260709 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-29 17:39:10 (Server Time)
+Updated at: 2026-06-29 20:00:55 (Server Time)
