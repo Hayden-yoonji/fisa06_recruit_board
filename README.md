@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 제주대학교병원 | [「2026년도 블라인드 채용」 제주대학교병원 진료교수 모집공고(영상의학과)](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do) | 20260626 | 20260702 | 정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주) 대구사업소 단기노무원 채용('26년도 대구 열병합발전시설 정기점검보수공사)](http://www.kps.co.kr) | 20260629 | 20260701 | 비정규직 | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)한빛1사업처 한빛1호기 제28차 O/H공사 단기노무원 채용공고(3차)](http://www.kps.co.kr) | 20260629 | 20260703 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[다도해해상]2026년 다도해해상 한시인력(수상안전) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019388) | 20260629 | 20260703 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[변산반도생태탐방원] 2026년 3차 변산반도생태탐방원 기간제[한시인력(수익시설)] 직원 채용 추가접수 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019386) | 20260629 | 20260703 | 비정규직 | 신입+경력 |
-| 전남대학교병원 | [2026년 6월 화순전남대학교병원 직원(대체근로자) 공개채용 공고 ](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=258110) | 20260626 | 20260703 | 비정규직 | 신입 |
-| 근로복지공단 | [[태백병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260626 | 20260703 | 무기계약직 | 신입 |
-| 근로복지공단 | [[대구병원] 기간제(물리치료사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260626 | 20260703 | 비정규직 | 신입 |
-| 한국도로공사 | [한국도로공사 연수원 하계 기간제근로자(조무원, 청소원) 채용공고](https://www.ex.co.kr) | 20260626 | 20260703 | 비정규직 | 신입+경력 |
+| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고 [2026-23]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=412bbe84b8af42e4841ec6d7ce9200f2) | 20260629 | 20260706 | 비정규직 | 신입 |
+| 국립공원공단 | [[내장산] 2026년 내장산국립공원사무소 기간제(수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019390) | 20260629 | 20260706 | 비정규직 | 신입+경력 |
+| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 전북지사)](https://www.kohom.or.kr) | 20260629 | 20260706 | 청년인턴(채용형) | 신입+경력 |
 | 근로복지공단 | [[순천지사] 공무직(보험가입조사원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260629 | 20260706 | 무기계약직 | 신입 |
 | 근로복지공단 | [[광주지역본부] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260629 | 20260706 | 청년인턴(체험형) | 신입 |
-| 국립중앙의료원 | [의사직 전문의 채용 재공고(내분비대사내과, 중환자전담전문의)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=258181) | 20260626 | 20260706 | 정규직 | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 경기남부직업능력개발원] 특정업무직(운영지원직) 시설정비원(3조3교대) 및 미화원 채용](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260629 | 20260709 | 무기계약직,비정규직 | 신입+경력 |
+| 한국전력공사 | [기간제근로자(대체인력) 채용공고[대전세종충남본부 천안지사, 대덕유성지사]](http://recruit.kepco.co.kr/sangsi) | 20260625 | 20260709 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-29 04:10:51 (Server Time)
+Updated at: 2026-06-29 09:27:42 (Server Time)
