@@ -18,4 +18,4 @@
 | 한국교육과정평가원 | [2026년 8월 한국교육과정평가원 비정규직원 모집 공고](https://www.kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100716&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260630 | 20260710 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-30 09:40:41 (Server Time)
+Updated at: 2026-06-30 12:10:50 (Server Time)
