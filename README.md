@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주) 대구사업소 단기노무원 채용('26년도 대구 열병합발전시설 정기점검보수공사)](http://www.kps.co.kr) | 20260629 | 20260701 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)당진사업처 단기노무원 채용('26년도 1~4호기 탈황설비 경상정비공사 단기근로자 1차 채용)](http://www.kps.co.kr) | 20260630 | 20260702 | 비정규직 | 신입+경력 |
-| 한전KPS(주) | [한전KPS(주)한빛1사업처 한빛1호기 제28차 O/H공사 단기노무원 채용공고(3차)](http://www.kps.co.kr) | 20260629 | 20260703 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[다도해해상]2026년 다도해해상 한시인력(수상안전) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019388) | 20260629 | 20260703 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[태안] 2026년 태안해안 기간제[한시인력(수익시설)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019404) | 20260630 | 20260706 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[태안] 2026년 태안해안 기간제[한시인력_환경관리(해양)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019403) | 20260630 | 20260706 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[태안] 2026년 태안해안 한시인력[수상안전관리반(해변안전순찰요원)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019402) | 20260630 | 20260706 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[태백산] 태백산국립공원사무소 환경관리 기간제(한시인력) 직원 채용(4차) 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019398) | 20260630 | 20260706 | 비정규직 | 신입+경력 |
-| 국립공원공단 | [[태백산] 태백산국립공원사무소 수익시설 기간제(한시인력) 직원 채용(2차) 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019397) | 20260630 | 20260706 | 비정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고 [2026-23]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=412bbe84b8af42e4841ec6d7ce9200f2) | 20260629 | 20260706 | 비정규직 | 신입 |
-| 국립공원공단 | [[내장산] 2026년 내장산국립공원사무소 기간제(수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019390) | 20260629 | 20260706 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260630 | 20260707 | 비정규직 | 신입 |
+| 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260630 | 20260707 | 비정규직 | 신입 |
 | 한국장애인고용공단 | [[한국장애인고용공단 경기지역본부] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsView.do?pageIndex=1&menuId=MENU0895&bbsCode=deptgongji&bbsCnId=214349) | 20260630 | 20260707 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 육아정책연구소 | [[제2026-11호] 육아정책연구소 계약직 행정원(대체근무자) 채용 ](https://kicce.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=256299) | 20260624 | 20260708 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 반도체융합캠퍼스 업무직(대학운영직_전기원) 채용 공고](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=779224) | 20260630 | 20260708 | 무기계약직 | 경력 |
+| 한국교육과정평가원 | [2026년 8월 한국교육과정평가원 비정규직원 모집 공고](https://www.kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100716&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260630 | 20260710 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-06-30 05:05:56 (Server Time)
+Updated at: 2026-06-30 09:40:41 (Server Time)
