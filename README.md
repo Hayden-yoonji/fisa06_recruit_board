@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 성남캠퍼스 체험형 청년인턴(일반) 채용 공고](https://www.kopo.ac.kr/seongnam/board.do?menu=10526&mode=view&post=779300) | 20260701 | 20260710 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-02 04:58:55 (Server Time)
+Updated at: 2026-07-02 08:18:32 (Server Time)
