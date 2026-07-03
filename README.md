@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 약무직(약사) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=187102) | 20260703 | 20260713 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-03 16:26:32 (Server Time)
+Updated at: 2026-07-03 18:14:04 (Server Time)
