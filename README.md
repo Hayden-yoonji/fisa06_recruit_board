@@ -7,7 +7,7 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[소백산] 소백산사무소 기간제(수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019432) | 20260703 | 20260708 | 비정규직 | 신입+경력 |
-| (재)우체국물류지원단 | [우체국물류지원단 경인지사 고양덕양우체국 기간제(소포직) 채용 공고](http://www.pola.or.kr) | 20260703 | 20260709 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[다도해서부] 다도해해상국립공원서부사무소 기간제[한시인력(탐방안전)] 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019440) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[치악산] 2026년 치악산국립공원 기간제(한시인력-수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019436) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[덕유산] 덕유산국립공원 여름성수기 한시인력(수익시설) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019437) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[변산반도]2026년 변산반도국립공원 기간제(탐방안전_한시인력) 직원 채용공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019434) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부] 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260706 | 20260715 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-06 08:22:40 (Server Time)
+Updated at: 2026-07-06 12:49:48 (Server Time)
