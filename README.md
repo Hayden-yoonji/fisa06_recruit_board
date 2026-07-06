@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[소백산] 소백산사무소 기간제(수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019432) | 20260703 | 20260708 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 6월 제3차 임시직원 모집 공고(시설기술(설비), 별정(약물분석연구원), 행정, 간호)](https://www.knuh.kr/content/04information/02_01.asp) | 20260703 | 20260708 | 비정규직 | 신입 |
-| 국립공원공단 | [[내장산백암] 내장산국립공원백암사무소 기간제(환경관리_한시인력) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019429) | 20260703 | 20260708 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 경인지사 고양덕양우체국 기간제(소포직) 채용 공고](http://www.pola.or.kr) | 20260703 | 20260709 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 대전충남지사)](www.kohom.or.kr) | 20260703 | 20260710 | 청년인턴(채용형) | 신입+경력 |
-| 주택관리공단(주) | [체험형 인턴 채용공고(주택관리공단 강원지사)](www.kohom.or.kr) | 20260703 | 20260710 | 청년인턴(체험형) | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 경기북부지사)](www.kohom.or.kr) | 20260703 | 20260710 | 청년인턴(채용형) | 신입+경력 |
+| 국립공원공단 | [[치악산] 2026년 치악산국립공원 기간제(한시인력-수익시설) 직원 채용](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019436) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[덕유산] 덕유산국립공원 여름성수기 한시인력(수익시설) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019437) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[변산반도]2026년 변산반도국립공원 기간제(탐방안전_한시인력) 직원 채용공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019434) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[변산반도]2026년 변산반도국립공원 기간제(수익시설_한시인력) 직원 채용공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019435) | 20260706 | 20260710 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[대구보훈병원] (긴급) 정규직 업무지원직(급식, 청소), 계약직 보건직(임상병리사), 기능직(행정), 업무지원직(급식) 채용 공고](https://www.bohun.or.kr/daegu/na/ntt/selectNttInfo.do?mi=33151&bbsId=1158&bbsSysId=daegu&nttSn=187113) | 20260703 | 20260713 | 정규직,무기계약직,비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 정규직-무기계약직 업무지원직(고객지원, 시설지원, 급식) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=187104) | 20260703 | 20260713 | 무기계약직 | 신입+경력 |
-| 한국보훈복지의료공단 | [[광주보훈병원] 계약직 약무직(약사) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=187102) | 20260703 | 20260713 | 비정규직 | 신입+경력 |
+| 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부] 기간제근로자 및 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260706 | 20260715 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-05 23:02:56 (Server Time)
+Updated at: 2026-07-06 03:47:43 (Server Time)
