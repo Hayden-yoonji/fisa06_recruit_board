@@ -18,4 +18,4 @@
 | 강원대학교치과병원 | [계약직(간호사) 모집 공고](http://www.knudh.or.kr) | 20260707 | 20260716 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-08 08:32:12 (Server Time)
+Updated at: 2026-07-08 11:06:57 (Server Time)
