@@ -13,9 +13,9 @@
 | 제주대학교병원 | [제주대학교병원 휴직대체 계약직(조리·배식원, 임상병리사, 방사선사, 간호사, 행정) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2629) | 20260708 | 20260715 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [제주대학교병원 사업인력 계약직(권역정신응급의료센터_보안인력, 지역장애인보건의료센터_사회복지사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2628) | 20260708 | 20260715 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [제주대학교병원 계약직(가정전문간호사, 가정형 호스피스 전담간호사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2627) | 20260708 | 20260715 | 무기계약직 | 신입+경력 |
-| 근로복지공단 | [[서울관악지사] 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260708 | 20260715 | 청년인턴(체험형) | 신입 |
 | 강원대학교치과병원 | [계약직(치과위생사) 모집 공고](http://www.knudh.or.kr) | 20260707 | 20260716 | 비정규직 | 신입+경력 |
 | 강원대학교치과병원 | [계약직(간호사) 모집 공고](http://www.knudh.or.kr) | 20260707 | 20260716 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 기간제교사(생활상담) 공개채용 공고](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=779908) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-08 22:08:56 (Server Time)
+Updated at: 2026-07-09 00:12:38 (Server Time)
