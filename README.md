@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 국립공원공단 | [[팔공산서부] 2026년 팔공산국립공원서부사무소 기간제(환경관리) 직원 채용(3차)](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019395) | 20260630 | 20260714 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [2026년 의료요원(진료교수) 23차 초빙(긴급) 공고](https://knuh.kr/content/04information/02_01.asp?proc_type=view&b_num=7488&rtn_url=%2Fcontent%2F04information%2F02%5F01%2Easp) | 20260708 | 20260715 | 정규직 | 신입 |
 | 근로복지공단 | [[순천병원] 기간제(임상병리사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260708 | 20260715 | 비정규직 | 신입 |
 | 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 전북지사)](https://www.kohom.or.kr) | 20260708 | 20260715 | 청년인턴(채용형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 제주캠퍼스 행정지원직(휴직자 대체) 채용 공고](https://www.kopo.ac.kr/jeju/board.do?menu=5152&mode=view&post=779877) | 20260708 | 20260715 | 비정규직 | 신입+경력 |
 | 제주대학교병원 | [제주대학교병원 휴직대체 계약직(조리·배식원, 임상병리사, 방사선사, 간호사, 행정) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2629) | 20260708 | 20260715 | 비정규직 | 신입+경력 |
-| 제주대학교병원 | [제주대학교병원 사업인력 계약직(권역정신응급의료센터_보안인력, 지역장애인보건의료센터_사회복지사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2628) | 20260708 | 20260715 | 비정규직 | 신입+경력 |
-| 제주대학교병원 | [제주대학교병원 계약직(가정전문간호사, 가정형 호스피스 전담간호사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2627) | 20260708 | 20260715 | 무기계약직 | 신입+경력 |
 | 강원대학교치과병원 | [계약직(치과위생사) 모집 공고](http://www.knudh.or.kr) | 20260707 | 20260716 | 비정규직 | 신입+경력 |
 | 강원대학교치과병원 | [계약직(간호사) 모집 공고](http://www.knudh.or.kr) | 20260707 | 20260716 | 비정규직 | 신입+경력 |
+| 서울올림픽기념국민체육진흥공단 | [서울올림픽기념국민체육진흥공단 지도자관리팀 단기지원직(연수조교) 채용(재공고)](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=760&menuNo=200186&pageIndex=1) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 기간제교사(생활상담) 공개채용 공고](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=779908) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-09 00:12:38 (Server Time)
+Updated at: 2026-07-09 04:55:13 (Server Time)
