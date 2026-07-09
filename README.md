@@ -18,4 +18,4 @@
 | 서울올림픽기념국민체육진흥공단 | [서울올림픽기념국민체육진흥공단 지도자관리팀 단기지원직(연수조교) 채용(재공고)](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=760&menuNo=200186&pageIndex=1) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-09 15:57:30 (Server Time)
+Updated at: 2026-07-09 18:04:11 (Server Time)
