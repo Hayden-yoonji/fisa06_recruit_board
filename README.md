@@ -7,7 +7,8 @@
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[팔공산서부] 2026년 팔공산국립공원서부사무소 기간제(환경관리) 직원 채용(3차)](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019395) | 20260630 | 20260714 | 비정규직 | 신입+경력 |
-| 경북대학교병원 | [2026년 의료요원(진료교수) 23차 초빙(긴급) 공고](https://knuh.kr/content/04information/02_01.asp?proc_type=view&b_num=7488&rtn_url=%2Fcontent%2F04information%2F02%5F01%2Easp) | 20260708 | 20260715 | 정규직 | 신입 |
+| 한국도로공사 | [한국도로공사 군위지사 기간제근로자(안전순찰원) 채용공고](https://www.ex.co.kr) | 20260709 | 20260715 | 비정규직 | 신입+경력 |
+| 한국식품안전관리인증원 | [2026년 제8차 체험형인턴 및 제9차 계약직직원 채용](https://www.haccp.or.kr/user/board.do?board=763) | 20260709 | 20260716 | 비정규직,청년인턴(체험형) | 신입+경력 |
 | 근로복지공단 | [[동해병원] 기간제 의사(응급실전담의) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
 | 근로복지공단 | [[동해병원] 기간제 의사(진단검사의학과 또는 병리과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
 | 근로복지공단 | [[안산병원] 기간제(임상심리사) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
@@ -15,7 +16,6 @@
 | 근로복지공단 | [[안산병원] 기간제(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
 | 서울대학교치과병원 | [서울대학교치과병원 촉탁직(간호직, 연구직) 채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=259692) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 | 서울올림픽기념국민체육진흥공단 | [서울올림픽기념국민체육진흥공단 지도자관리팀 단기지원직(연수조교) 채용(재공고)](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=760&menuNo=200186&pageIndex=1) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍 다솜고등학교 기간제교사(생활상담) 공개채용 공고](https://www.kopo.ac.kr/dasom/board.do?menu=2468&mode=view&post=779908) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-09 08:29:23 (Server Time)
+Updated at: 2026-07-09 12:05:54 (Server Time)
