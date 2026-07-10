@@ -15,7 +15,7 @@
 | 근로복지공단 | [[안산병원] 기간제(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
 | 근로복지공단 | [[안산병원] 기간제(사무원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260709 | 20260716 | 비정규직 | 신입 |
 | 서울대학교치과병원 | [서울대학교치과병원 촉탁직(간호직, 연구직) 채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=259692) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
-| 서울올림픽기념국민체육진흥공단 | [서울올림픽기념국민체육진흥공단 지도자관리팀 단기지원직(연수조교) 채용(재공고)](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=760&menuNo=200186&pageIndex=1) | 20260709 | 20260719 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 울산캠퍼스 청년인턴(장애) 2차 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=779942) | 20260710 | 20260720 | 청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-09 22:23:56 (Server Time)
+Updated at: 2026-07-10 00:06:45 (Server Time)
