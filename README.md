@@ -6,7 +6,6 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 대한무역투자진흥공사 | [Invest KOREA 대표 채용 공고](https://www.kotra.or.kr/subList/20000005817) | 20260714 | 20260719 | 무기계약직 | 경력 |
 | 국립공원공단 | [[보전원]국립공원야생생물보전원 기간제(한시인력_자원보전) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019488) | 20260714 | 20260720 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [2026년 환경교육지원처 기간제(교육행정) 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8464&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260714 | 20260720 | 비정규직 | 신입+경력 |
 | 한전MCS(주) | [한전MCS 2026년 하반기 시니어계약직 신규채용 공고](https://recruit.incruit.com/kepcomcs) | 20260713 | 20260720 | 비정규직 | 신입 |
@@ -16,6 +15,7 @@
 | 학교법인한국폴리텍 | [2026년 한국폴리텍대학 청주캠퍼스 초빙교원 채용 공고](https://www.kopo.ac.kr/cheongju/board.do?menu=6132&mode=view&post=780143) | 20260714 | 20260721 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[보훈원] 비정규직(조리원) 직원 채용](https://www.bohun.or.kr/town/na/ntt/selectNttList.do?mi=34327&bbsId=1158) | 20260713 | 20260723 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년 하반기 체험형 청년인턴(장애예술인, 든든동행파트너) 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=187392) | 20260713 | 20260723 | 청년인턴(체험형) | 신입+경력 |
+| 한국기술교육대학교 | [2026년 하반기 한국기술교육대학교 특임교수 채용 공고](https://www.koreatech.ac.kr/notice/view.es?mid=a10604040000&board_id=150&post_seq=819&prefix_id=) | 20260710 | 20260724 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-07-14 02:40:33 (Server Time)
+Updated at: 2026-07-14 05:33:09 (Server Time)
