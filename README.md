@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [2026년도 하반기 한국폴리텍대학 영주캠퍼스 초빙교원 공개채용 공고](https://www.kopo.ac.kr/yeongju/board.do?menu=6234&mode=view&post=780299) | 20260716 | 20260724 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-15 16:24:07 (Server Time)
+Updated at: 2026-07-15 18:09:33 (Server Time)
