@@ -9,8 +9,8 @@
 | 경북대학교병원 | [칠곡경북대학교병원 2026년 7월 2차 임시직원 채용공고(행정, 임상병리사, 간호사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5072&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260715 | 20260720 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [칠곡경북대학교병원 2026년 7월 1차 임시직원 채용공고(간호사, 업무보조, 약사)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5071&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260715 | 20260720 | 비정규직 | 신입+경력 |
 | 국립공원공단 | [[소백산북부] 2026년 한시인력(환경관리) 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019495) | 20260714 | 20260720 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 강원지사)](www.kohom.or.kr) | 20260714 | 20260721 | 청년인턴(채용형) | 신입+경력 |
-| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 동부산캠퍼스 초빙교원 채용 공고](https://www.kopo.ac.kr/dongbusan/board.do?menu=10554&mode=view&post=780164) | 20260715 | 20260723 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[서울남부지사] 기간제(보험가입조사원-휴직대체) 채용공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260715 | 20260722 | 비정규직 | 신입 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 춘천캠퍼스 청년인턴(장애, 일반) 채용 공고](https://www.kopo.ac.kr/chuncheon/board.do?menu=10533&mode=view&post=780217) | 20260715 | 20260724 | 청년인턴(체험형) | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 대전캠퍼스 비정규직(업무지원직_식당업무보조) 채용 공고](https://www.kopo.ac.kr/daejeon/board.do?menu=10536&mode=view&post=780204) | 20260715 | 20260724 | 비정규직 | 신입+경력 |
 | 학교법인한국폴리텍 | [한국폴리텍대학 대전캠퍼스 업무직(대학운영직_조리원) 채용 공고](https://www.kopo.ac.kr/daejeon/board.do?menu=10536&mode=view&post=780203) | 20260715 | 20260724 | 무기계약직 | 신입+경력 |
 | 학교법인한국폴리텍 | [2026년도 하반기 한국폴리텍대학 영남융합기술캠퍼스 초빙교원 공개채용](https://www.kopo.ac.kr/yct/board.do?menu=10559&mode=view&post=780072) | 20260715 | 20260724 | 비정규직 | 경력 |
@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260714 | 20260724 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-14 23:05:19 (Server Time)
+Updated at: 2026-07-15 02:38:51 (Server Time)
