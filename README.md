@@ -17,4 +17,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 반도체융합캠퍼스 업무직(대학운영직_전기원) 채용 공고(2차)](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=780374) | 20260716 | 20260726 | 무기계약직 | 경력 |
 
 ---
-Updated at: 2026-07-16 09:16:51 (Server Time)
+Updated at: 2026-07-16 11:41:30 (Server Time)
