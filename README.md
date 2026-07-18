@@ -18,4 +18,4 @@
 | 근로복지공단 | [[대전병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260727 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-18 14:55:26 (Server Time)
+Updated at: 2026-07-18 15:59:40 (Server Time)
