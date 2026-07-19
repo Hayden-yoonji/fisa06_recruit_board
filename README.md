@@ -18,4 +18,4 @@
 | 전남대학교병원 | [2026년도 후반기 치의학계열 전공의(인턴, 레지던트) 모집 공고](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260326) | 20260720 | 20260729 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-19 19:18:09 (Server Time)
+Updated at: 2026-07-19 20:52:39 (Server Time)
