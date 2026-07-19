@@ -12,10 +12,10 @@
 | 근로복지공단 | [[정선병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260723 | 무기계약직 | 신입 |
 | 근로복지공단 | [[태백병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260723 | 무기계약직 | 신입 |
 | 근로복지공단 | [[대전병원] 공무직(시설미화원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260723 | 무기계약직 | 신입 |
-| 근로복지공단 | [[대전병원] 기간제(조리사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260723 | 비정규직 | 신입 |
 | 국립공원공단 | [[지리산전남] 지리산국립공원전남사무소 기간제(탐방로 보수) 직원 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019506) | 20260717 | 20260724 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[태백병원] 별정직 의사(내과 또는 가정의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260727 | 정규직 | 신입 |
 | 근로복지공단 | [[대전병원] 별정직 의사(직업환경의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260716 | 20260727 | 정규직 | 신입 |
+| 전남대학교병원 | [2026년도 후반기 치의학계열 전공의(인턴, 레지던트) 모집 공고](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260326) | 20260720 | 20260729 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-19 14:57:42 (Server Time)
+Updated at: 2026-07-19 16:02:24 (Server Time)
