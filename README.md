@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[인천보훈병원] 2026-10차 직원[보건직(휴직대체 영양사)] 긴급공개채용](https://www.bohun.or.kr/incheon/na/ntt/selectNttInfo.do?mi=33641&bbsId=1158&bbsSysId=incheon&nttSn=187599) | 20260720 | 20260730 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-20 18:06:03 (Server Time)
+Updated at: 2026-07-20 20:22:23 (Server Time)
