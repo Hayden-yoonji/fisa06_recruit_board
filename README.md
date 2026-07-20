@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[한국장애인고용공단 경기남부직업능력개발원] 특정업무직(운영지원직) 시설정비원(3조3교대) 채용](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260720 | 20260730 | 무기계약직,비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-20 10:13:44 (Server Time)
+Updated at: 2026-07-20 13:08:00 (Server Time)
