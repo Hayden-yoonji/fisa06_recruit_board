@@ -18,4 +18,4 @@
 | 한국농촌경제연구원 | [한국농촌경제연구원 2026년 제5차(재공모) 청년인턴(장애인 제한경쟁) 채용 공고](https://www.krei.re.kr/krei/page/69?cmd=view&pst=505436&pageIndex=1) | 20260721 | 20260731 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-07-21 11:47:45 (Server Time)
+Updated at: 2026-07-21 13:56:22 (Server Time)
