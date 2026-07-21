@@ -18,4 +18,4 @@
 | 전남대학교병원 | [2026년 7월 전남대학교병원 직원(중증장애인 단시간근로자_무기계약직) 공개채용시험 공고](https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260269) | 20260715 | 20260729 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-07-21 19:26:15 (Server Time)
+Updated at: 2026-07-21 21:11:53 (Server Time)
