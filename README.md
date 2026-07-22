@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [약무직 5급 약사(약제부) 채용 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260826) | 20260721 | 20260731 | 정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-22 10:26:37 (Server Time)
+Updated at: 2026-07-22 12:25:49 (Server Time)
