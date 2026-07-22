@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026년 행정지원직(휴직 대체) 채용 공고](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=780623) | 20260722 | 20260730 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-22 21:10:33 (Server Time)
+Updated at: 2026-07-22 23:06:07 (Server Time)
