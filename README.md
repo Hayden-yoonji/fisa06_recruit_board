@@ -8,14 +8,14 @@
 | --- | --- | --- | --- | --- | --- |
 | 국립공원공단 | [[내장산] 2026년 내장산국립공원사무소 기간제(수익시설) 직원 추가 채용 공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019514) | 20260721 | 20260727 | 비정규직 | 신입+경력 |
 | 한전KPS(주) | [한전KPS(주) 고리2사업처 4호기 제29차 OH 정비보조원 12차 채용 공고](https://www.kps.co.kr) | 20260722 | 20260727 | 비정규직 | 신입+경력 |
+| 국립공원공단 | [[계룡산] 2026년 계룡산국립공원사무소 기간제(한시인력-수익시설) 직원 채용 재공고](https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019524) | 20260723 | 20260728 | 비정규직 | 신입+경력 |
 | 경북대학교병원 | [칠곡경북대학교병원 2026년 7월 4차 임시직원 채용공고(시설기술(건축, 설비), 업무보조, 간호조무)](https://www.knuch.kr:442/content/04info/11_01.asp?proc_type=view&b_num=5075&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp%3Fproc%5Ftype%3Dlist) | 20260723 | 20260728 | 비정규직 | 신입+경력 |
 | 국민연금공단 | [[국민연금공단 서울남부지역본부] 공무직(시설직, 보안직) 및 기간제근로자(시설직) 공개채용 공고](https://www.nps.or.kr/pnsgdnc/hiregdnc/getOHAE0004M0List.do?menuId=MN24000969) | 20260722 | 20260729 | 무기계약직,비정규직 | 신입+경력 |
 | 근로복지공단 | [[태백요양병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260722 | 20260729 | 청년인턴(채용형) | 신입 |
 | 근로복지공단 | [[동해병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260722 | 20260729 | 청년인턴(채용형) | 신입 |
 | 근로복지공단 | [[태백병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260722 | 20260729 | 청년인턴(채용형) | 신입 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026년 하반기 청년인턴 채용](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=780624) | 20260722 | 20260730 | 청년인턴(체험형) | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026년 하반기 업무지원직(조리보조) 채용 공고](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=780625) | 20260722 | 20260730 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 부산캠퍼스 2026년 행정지원직(휴직 대체) 채용 공고](https://www.kopo.ac.kr/busan/board.do?menu=5622&mode=view&post=780623) | 20260722 | 20260730 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[안산병원] 장애전형 청년(체험형)인턴 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260723 | 20260730 | 청년인턴(채용형) | 신입 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 하반기 업무지원직(식당파트타임) 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=780778) | 20260723 | 20260731 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-23 02:55:16 (Server Time)
+Updated at: 2026-07-23 05:56:53 (Server Time)
