@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 울산캠퍼스 2026년 하반기 업무지원직(식당파트타임) 채용 공고](https://www.kopo.ac.kr/ulsan/board.do?menu=10553&mode=view&post=780778) | 20260723 | 20260731 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-23 16:37:23 (Server Time)
+Updated at: 2026-07-23 18:13:57 (Server Time)
