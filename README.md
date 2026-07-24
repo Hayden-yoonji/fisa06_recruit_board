@@ -18,4 +18,4 @@
 | 근로복지공단 | [[울산병원] 의료직 2, 3급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260724 | 20260803 | 정규직 | 경력 |
 
 ---
-Updated at: 2026-07-24 14:57:05 (Server Time)
+Updated at: 2026-07-24 16:47:11 (Server Time)
