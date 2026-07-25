@@ -18,4 +18,4 @@
 | 한국산업안전보건공단 | [[안전보건공단] 2026년도 체험형 인턴 채용공고](https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=202607241023578BBECA) | 20260724 | 20260804 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-07-25 09:49:56 (Server Time)
+Updated at: 2026-07-25 11:12:15 (Server Time)
