@@ -18,4 +18,4 @@
 | 근로복지공단 | [[동해병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260727 | 20260806 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-27 21:12:32 (Server Time)
+Updated at: 2026-07-27 23:03:42 (Server Time)
