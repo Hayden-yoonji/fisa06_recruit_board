@@ -11,11 +11,11 @@
 | (재)우체국물류지원단 | [우체국물류지원단 경인지사 안양,부평물류사업소 기간제(우편물구분) 채용 공고](https://www.pola.or.kr) | 20260724 | 20260730 | 비정규직 | 신입+경력 |
 | (재)우체국물류지원단 | [우체국물류지원단 경인지사 안양,부평물류사업소 기간제(우편물구분) 채용 공고](https://www.pola.or.kr) | 20260724 | 20260730 | 비정규직 | 신입+경력 |
 | 경상국립대학교병원 | [2026년 하반기 의사직 채용 공고](http://recruit.gnuh.co.kr) | 20260724 | 20260730 | 정규직 | 신입+경력 |
-| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고 [2026-27]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=e54df169295e42838dd1f5659ddf902f) | 20260723 | 20260730 | 비정규직 | 신입 |
 | 근로복지공단 | [[대전지역본부] 공무직(보험가입조사원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260724 | 20260731 | 무기계약직 | 신입 |
 | 한국보훈복지의료공단 | [[대전보훈요양원] 체험형 청년인턴(장애인) 채용 공고](https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37031&bbsId=1158&bbsSysId=main&nttSn=187792) | 20260724 | 20260803 | 청년인턴(체험형) | 신입 |
 | 근로복지공단 | [[울산병원] 의료직 2, 3급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260724 | 20260803 | 정규직 | 경력 |
 | 한국산업안전보건공단 | [[안전보건공단] 2026년도 체험형 인턴 채용공고](https://kosha.or.kr/notification/jobncontract/job/jobdata?bbsId=B2025021400005&pstNo=202607241023578BBECA) | 20260724 | 20260804 | 청년인턴(체험형) | 신입 |
+| 한국원자력안전기술원 | [한국원자력안전기술원 2026년 4차 청년인턴 공개채용 공고](https://kins.recruiter.co.kr) | 20260722 | 20260806 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-07-26 22:06:57 (Server Time)
+Updated at: 2026-07-27 00:02:05 (Server Time)
