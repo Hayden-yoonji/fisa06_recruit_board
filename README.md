@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백병원] 의료직 4급(약사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260728 | 20260807 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-07-28 08:37:03 (Server Time)
+Updated at: 2026-07-28 11:19:28 (Server Time)
