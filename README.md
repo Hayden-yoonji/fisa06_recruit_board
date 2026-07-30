@@ -18,4 +18,4 @@
 | 근로복지공단 | [[인재개발원] 공무직(영선·조경기사) 채용 재공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260730 | 20260806 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-30 19:29:55 (Server Time)
+Updated at: 2026-07-30 21:12:17 (Server Time)
