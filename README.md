@@ -18,4 +18,4 @@
 | 국립중앙의료원 | [의사직 전문의 채용 재공고(내분비대사내과, 중환자전담전문의)](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261570) | 20260728 | 20260807 | 정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-07-29 22:06:35 (Server Time)
+Updated at: 2026-07-30 00:01:33 (Server Time)
