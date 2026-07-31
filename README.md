@@ -6,16 +6,16 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 양주지점 단기노무원(정비보조) 모집](https://www.kps.co.kr) | 20260731 | 20260804 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [[창원경상국립대학교병원] 장애인근로자 채용공고](https://recruit.gnuch.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [[창원경상국립대학교병원] 계약직(학생정신건강거점센터 사업전담인력) 채용공고](https://recruit.gnuch.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [[창원경상국립대학교병원] 계약직 채용공고](http://recruit.gnuch.co.kr/) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
+| 경상국립대학교병원 | [[창원경상국립대학교병원] 업무지원직 채용공고](https://recruit.gnuch.co.kr) | 20260731 | 20260806 | 정규직 | 신입+경력 |
 | 경상국립대학교병원 | [단시간제(편의시설 점원) 채용공고](https://gnuh.recruiter.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 경상국립대학교병원 | [장애인근로자 채용공고](https://gnuh.recruiter.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 경상국립대학교병원 | [계약직(평일 시간제 약사) 채용공고](https://gnuh.recruiter.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 경상국립대학교병원 | [계약직(학생정신건강거점센터 사업전담인력) 채용공고](https://gnuh.recruiter.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 경상국립대학교병원 | [계약직 채용공고](https://gnuh.recruiter.co.kr/) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 한국환경보전원 | [대외환경협력처 환경보건팀 기간제 직원 채용공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8509&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
-| 경상국립대학교병원 | [업무지원직 채용공고](https://gnuh.recruiter.co.kr/) | 20260731 | 20260806 | 정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 바이오캠퍼스 하반기 업무지원직(식당업무보조) 채용 공고](https://www.kopo.ac.kr/bio/board.do?menu=5899&mode=view&post=781211) | 20260731 | 20260807 | 비정규직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 바이오캠퍼스 업무직(대학운영직_조리원) 채용 공고](https://www.kopo.ac.kr/bio/board.do?menu=5899&mode=view&post=781210) | 20260731 | 20260807 | 무기계약직 | 신입+경력 |
-| 학교법인한국폴리텍 | [한국폴리텍대학 아산캠퍼스 행정지원직[청년인턴(일반)] 채용 공고](https://www.kopo.ac.kr/asan/board.do?menu=10538&mode=view&post=781207) | 20260731 | 20260809 | 청년인턴(체험형) | 신입+경력 |
+| 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고 [2026-29]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=d27d5a06b0ce46d4a0ed7bf370accfac) | 20260731 | 20260807 | 비정규직 | 신입 |
+| 근로복지공단 | [[순천병원] 별정직 의사(진단검사의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260731 | 20260810 | 정규직 | 신입 |
+| 근로복지공단 | [[순천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260731 | 20260810 | 정규직 | 신입 |
+| 한국장애인고용공단 | [[한국장애인고용공단 대전지역본부] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260731 | 20260810 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-31 03:13:46 (Server Time)
+Updated at: 2026-07-31 06:45:37 (Server Time)
