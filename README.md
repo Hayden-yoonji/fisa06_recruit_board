@@ -11,11 +11,11 @@
 | 경상국립대학교병원 | [[창원경상국립대학교병원] 계약직(학생정신건강거점센터 사업전담인력) 채용공고](https://recruit.gnuch.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
 | 경상국립대학교병원 | [[창원경상국립대학교병원] 계약직 채용공고](http://recruit.gnuch.co.kr/) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
 | 경상국립대학교병원 | [[창원경상국립대학교병원] 업무지원직 채용공고](https://recruit.gnuch.co.kr) | 20260731 | 20260806 | 정규직 | 신입+경력 |
-| 경상국립대학교병원 | [단시간제(편의시설 점원) 채용공고](https://gnuh.recruiter.co.kr) | 20260731 | 20260806 | 비정규직 | 신입+경력 |
 | 한국문화관광연구원 | [한국문화관광연구원 위촉직원 채용 공고 [2026-29]](https://www.kcti.re.kr/web/board/boardContentsView.do?link_g_topmenu_id=ddae821ae0f44206abfef8bb42bbd86f&link_g_submenu_id=588dd60e4c414d5a9131a2e1db29910e&link_g_homepage=F&board_id=19&contents_id=d27d5a06b0ce46d4a0ed7bf370accfac) | 20260731 | 20260807 | 비정규직 | 신입 |
+| 한국교육과정평가원 | [2026년 9월 한국교육과정평가원 비정규직원 모집 공고](https://www.kice.re.kr/boardCnts/view.do?boardID=10028&boardSeq=5100826&lev=0&m=0503&searchType=S&statusYN=W&page=1&s=kice) | 20260731 | 20260810 | 비정규직 | 신입 |
 | 근로복지공단 | [[순천병원] 별정직 의사(진단검사의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260731 | 20260810 | 정규직 | 신입 |
 | 근로복지공단 | [[순천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260731 | 20260810 | 정규직 | 신입 |
 | 한국장애인고용공단 | [[한국장애인고용공단 대전지역본부] 기간제 근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260731 | 20260810 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-07-31 06:45:37 (Server Time)
+Updated at: 2026-07-31 09:46:07 (Server Time)
