@@ -6,15 +6,15 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 군포지점 단기노무원(상주감시원) 모집](https://www.kps.co.kr) | 20260803 | 20260805 | 비정규직 | 신입+경력 |
-| 주택관리공단(주) | [채용형 인턴 채용공고(주택관리공단 충북지사)](www.kohom.or.kr) | 20260803 | 20260810 | 청년인턴(채용형) | 신입+경력 |
-| 국립중앙의료원 | [계약직 약사(약제부) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261844) | 20260731 | 20260810 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 연구원B-휴직대체(지역의료교육팀) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261843) | 20260731 | 20260810 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 단시간근로자-간호조무사(소화기내과 내시경실) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261842) | 20260731 | 20260810 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 간호사(감염내과-상담실) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261841) | 20260731 | 20260810 | 비정규직 | 경력 |
-| 국립중앙의료원 | [계약직 간호사(간호부-소화기내과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261840) | 20260731 | 20260810 | 비정규직 | 신입+경력 |
-| 국립중앙의료원 | [계약직 간호사(간호부-소아청소년과) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=261839) | 20260731 | 20260810 | 비정규직 | 신입+경력 |
-| 한국장애인고용공단 | [[한국장애인고용공단 대구지역본부, 경북지사] 기간제 대체근로자(체험형 청년인턴) 채용 공고](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260803 | 20260812 | 비정규직,청년인턴(체험형) | 신입+경력 |
+| 한전KPS(주) | [한전KPS(주)서인천사업처 2026년 신인천 4CC 계획예방정비공사 안전관리보조 단기노무원 채용공고](https://www.kps.co.kr) | 20260803 | 20260806 | 비정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [2026년 체험형 청년인턴(장애) 채용 공고](https://www.kopo.ac.kr/seongnam/board.do?menu=10526&mode=view&post=781328) | 20260803 | 20260810 | 청년인턴(체험형) | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 반도체융합캠퍼스 업무직(대학운영직_전기원) 채용 공고](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=781280) | 20260803 | 20260810 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [한국폴리텍대학 반도체융합캠퍼스 업무직(대학운영직_조리원) 채용 2차 공고](https://www.kopo.ac.kr/semi/board.do?menu=3303&mode=view&post=781281) | 20260803 | 20260810 | 무기계약직 | 신입+경력 |
+| 학교법인한국폴리텍 | [업무직(대학운영직_조리사 및 조리원) 채용 공고](https://www.kopo.ac.kr/seongnam/board.do?menu=10526&mode=view&post=781325) | 20260803 | 20260810 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[근로복지공단] 공무직(시설안내원, 전기·기계·통신기사) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260803 | 20260810 | 무기계약직 | 신입+경력 |
+| 근로복지공단 | [[근로복지공단] 공무직(사무원, 퇴직연금운영요원) 및 기간제(보육연구원) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260803 | 20260810 | 무기계약직,비정규직 | 신입 |
+| 한국보훈복지의료공단 | [[광주보훈병원] 계약직 업무지원직(고객지원_간병지원) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=188079) | 20260803 | 20260813 | 비정규직 | 신입+경력 |
+| 근로복지공단 | [[인천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260803 | 20260813 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-08-03 03:46:21 (Server Time)
+Updated at: 2026-08-03 07:29:26 (Server Time)
