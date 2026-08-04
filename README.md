@@ -18,4 +18,4 @@
 | 한국보훈복지의료공단 | [[수원보훈요양원] 육아휴직 대체 간호사 채용 공고](https://www.bohun.or.kr/suwon/na/ntt/selectNttInfo.do?mi=37037&bbsId=1768&bbsSysId=suwon&nttSn=188140) | 20260804 | 20260814 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-08-04 20:26:20 (Server Time)
+Updated at: 2026-08-04 22:14:11 (Server Time)
