@@ -6,6 +6,7 @@
 ### 📋 채용 공고 목록
 | 기관명 | 공고제목 | 시작일 | 마감일 | 고용형태 | 구분 |
 | --- | --- | --- | --- | --- | --- |
+| 경북대학교병원 | [칠곡경북대병원 2026년도 하반기 전공의(레지던트 1년차) 모집 공고](https://www.knuch.kr/content/04info/11_01.asp?proc_type=view&b_num=5078&rtn_url=%2Fcontent%2F04info%2F11%5F01%2Easp) | 20260804 | 20260812 | 정규직 | 신입 |
 | 충북대학교병원 | [2026년도 충북대학교병원 하반기 전공의(레지던트 1년차) 모집 공고](https://cbnuh.recruiter.co.kr) | 20260804 | 20260812 | 정규직 | 신입 |
 | 충북대학교병원 | [2026년도 충북대학교병원 하반기 전공의(인턴) 모집 공고](https://cbnuh.recruiter.co.kr) | 20260804 | 20260812 | 정규직 | 신입 |
 | 국립중앙의료원 | [2026년도 하반기 국립중앙의료원 레지던트 1년차 모집 공고](https://www.nmc.or.kr/nmc/board/B0000007/27702) | 20260810 | 20260812 | 정규직 | 신입 |
@@ -14,8 +15,7 @@
 | 부산대학교병원 | [2026년도 하반기 레지던트 1년차 모집 공고(양산부산대학교병원)](https://pnuyh.recruiter.co.kr/career/jobs/124020) | 20260804 | 20260812 | 정규직 | 신입 |
 | 부산대학교병원 | [2026년도 하반기 인턴 모집 공고(양산부산대학교병원)](https://pnuyh.recruiter.co.kr/career/jobs/124024) | 20260804 | 20260812 | 정규직 | 신입 |
 | 한국보훈복지의료공단 | [[중앙보훈병원] 2026년도 하반기 전공의(인턴, 레지던트1년차) 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=188139) | 20260804 | 20260812 | 정규직 | 신입+경력 |
-| 한국환경공단 | [한국환경공단 충청권환경본부 환경시설관리처 기간제근로자(촉탁직, 일용직) 채용 재공고](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=100205&cpage=1&rows=10&condition=&keyword=) | 20260804 | 20260813 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[수원보훈요양원] 육아휴직 대체 간호사 채용 공고](https://www.bohun.or.kr/suwon/na/ntt/selectNttInfo.do?mi=37037&bbsId=1768&bbsSysId=suwon&nttSn=188140) | 20260804 | 20260814 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-08-04 08:39:45 (Server Time)
+Updated at: 2026-08-04 11:24:46 (Server Time)
