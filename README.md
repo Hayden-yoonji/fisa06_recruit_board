@@ -14,8 +14,8 @@
 | 부산대학교병원 | [2026년도 하반기 레지던트 1년차 모집공고](https://pnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262147) | 20260804 | 20260812 | 정규직 | 신입 |
 | 부산대학교병원 | [2026년도 하반기 레지던트 1년차 모집 공고(양산부산대학교병원)](https://pnuyh.recruiter.co.kr/career/jobs/124020) | 20260804 | 20260812 | 정규직 | 신입 |
 | 부산대학교병원 | [2026년도 하반기 인턴 모집 공고(양산부산대학교병원)](https://pnuyh.recruiter.co.kr/career/jobs/124024) | 20260804 | 20260812 | 정규직 | 신입 |
-| 한국보훈복지의료공단 | [[중앙보훈병원] 2026년도 하반기 전공의(인턴, 레지던트1년차) 채용 공고](https://www.bohun.or.kr/seoul/na/ntt/selectNttInfo.do?mi=32253&bbsId=1158&bbsSysId=seoul&nttSn=188139) | 20260804 | 20260812 | 정규직 | 신입+경력 |
+| 학교법인한국폴리텍 | [2026년 한국폴리텍대학 포항캠퍼스 산학협력중점교수 채용 2차공고](https://www.kopo.ac.kr/pohang/board.do?menu=6016&mode=view&post=781456) | 20260805 | 20260814 | 비정규직 | 경력 |
 | 한국보훈복지의료공단 | [[수원보훈요양원] 육아휴직 대체 간호사 채용 공고](https://www.bohun.or.kr/suwon/na/ntt/selectNttInfo.do?mi=37037&bbsId=1768&bbsSysId=suwon&nttSn=188140) | 20260804 | 20260814 | 비정규직 | 경력 |
 
 ---
-Updated at: 2026-08-04 14:19:30 (Server Time)
+Updated at: 2026-08-04 16:52:55 (Server Time)
