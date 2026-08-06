@@ -18,4 +18,4 @@
 | 서울대학교병원 | [서울대학교병원 블라인드 직원채용 (대체근로자) 공고 (장애인 특별우대)](https://recruit.snuh.org/joining/recruit/view.do?notice_type=E&recruit_id=26091) | 20260731 | 20260814 | 비정규직 | 신입 |
 
 ---
-Updated at: 2026-08-06 08:39:01 (Server Time)
+Updated at: 2026-08-06 11:24:09 (Server Time)
