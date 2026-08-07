@@ -18,4 +18,4 @@
 | 서울대학교치과병원 | [서울대학교치과병원 촉탁간호직(병동, 수술장) 채용 공고](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262580) | 20260807 | 20260817 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-07 13:07:35 (Server Time)
+Updated at: 2026-08-07 14:54:07 (Server Time)
