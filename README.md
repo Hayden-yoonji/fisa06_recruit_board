@@ -15,7 +15,7 @@
 | 한국보훈복지의료공단 | [[광주보훈병원] 전문의(정형외과) 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=188266) | 20260807 | 20260818 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(임상병리사) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=188265) | 20260807 | 20260818 | 비정규직 | 신입+경력 |
 | 근로복지공단 | [[순천병원] 별정직 의사(재활의학과) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260807 | 20260818 | 정규직 | 신입 |
-| 한전KPS(주) | [한전KPS(주) 서울경기전력지사 양주지점 단기노무원(정비보조) 모집](https://www.kps.co.kr) | 20260807 | 20260818 | 비정규직 | 신입+경력 |
+| 한국의료분쟁조정중재원 | [[재공고] 한국의료분쟁조정중재원 제2차 상임감정위원(비전일,정형외과) 공개모집 재공고](https://www.k-medi.or.kr/web/lay1/bbs/S1T13C148/A/47/list.do) | 20260807 | 20260819 | 정규직 | 경력 |
 
 ---
-Updated at: 2026-08-08 23:30:50 (Server Time)
+Updated at: 2026-08-09 01:52:49 (Server Time)
