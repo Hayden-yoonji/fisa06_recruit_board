@@ -18,4 +18,4 @@
 | 한국의료분쟁조정중재원 | [[재공고] 한국의료분쟁조정중재원 제2차 상임감정위원(비전일,정형외과) 공개모집 재공고](https://www.k-medi.or.kr/web/lay1/bbs/S1T13C148/A/47/list.do) | 20260807 | 20260819 | 정규직 | 경력 |
 
 ---
-Updated at: 2026-08-09 14:36:02 (Server Time)
+Updated at: 2026-08-09 15:32:56 (Server Time)
