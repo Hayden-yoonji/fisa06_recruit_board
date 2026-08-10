@@ -18,4 +18,4 @@
 | 한국장애인고용공단 | [[경기남부직업능력개발원] 기간제근로자(전산관리원 대체인력) 공개경쟁 채용](https://www.kead.or.kr/bbs/deptgongji/bbsPage.do?menuId=MENU0895) | 20260810 | 20260820 | 비정규직,청년인턴(체험형) | 신입+경력 |
 
 ---
-Updated at: 2026-08-10 21:42:33 (Server Time)
+Updated at: 2026-08-10 22:38:56 (Server Time)
