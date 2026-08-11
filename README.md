@@ -18,4 +18,4 @@
 | 근로복지공단 | [[순천병원] 의료직(산업위생사 4급) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260811 | 20260821 | 정규직 | 경력 |
 
 ---
-Updated at: 2026-08-11 22:44:08 (Server Time)
+Updated at: 2026-08-11 23:41:48 (Server Time)
