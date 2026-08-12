@@ -18,4 +18,4 @@
 | 분당서울대학교병원 | [분당서울대학교병원 신입(보건직) 직원 채용공고](http://snubh.recruiter.co.kr) | 20260812 | 20260821 | 정규직 | 신입 |
 
 ---
-Updated at: 2026-08-12 10:07:45 (Server Time)
+Updated at: 2026-08-12 11:48:14 (Server Time)
