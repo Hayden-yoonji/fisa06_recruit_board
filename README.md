@@ -18,4 +18,4 @@
 | 서울올림픽기념국민체육진흥공단 | [서울올림픽기념국민체육진흥공단 스포츠복지팀 단기지원직(온라인상담) 채용공고](https://kspo.or.kr/kspo/singl/empmn/view.do?empmnId=769&menuNo=200186&pageIndex=1) | 20260807 | 20260821 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-13 16:04:36 (Server Time)
+Updated at: 2026-08-13 17:57:49 (Server Time)
