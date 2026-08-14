@@ -18,4 +18,4 @@
 | 한국소비자원 | [2026년 한국소비자원 제2차 청년인턴(장애인, 지역상생) 채용 공고](https://www.kca.go.kr/kca/sub.do?menukey=5113&mode=view&no=1004549155) | 20260814 | 20260824 | 청년인턴(체험형) | 신입 |
 
 ---
-Updated at: 2026-08-14 11:44:44 (Server Time)
+Updated at: 2026-08-14 13:10:14 (Server Time)
