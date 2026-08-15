@@ -15,7 +15,7 @@
 | 국립중앙의료원 | [계약직 연구원(데이터기반정책연구팀) 재공고](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=263304) | 20260814 | 20260824 | 비정규직 | 신입+경력 |
 | 한국환경보전원 | [한국환경보전원 자연복원기획처 자연복원사업팀 기간제 직원 채용 공고](https://www.keci.or.kr/common/bbs/selectBbs.do?bbs_code=A1003&bbs_seq=8537&sch_sort_col=&sch_sort=&sch_type=&row_per_page=&sch_text=&currentPage=1) | 20260814 | 20260824 | 비정규직 | 신입+경력 |
 | 한국보훈복지의료공단 | [[광주보훈병원] 계약직 보건직(임상심리사) - 휴직대체 직원 채용 공고](https://www.bohun.or.kr/gwangju/na/ntt/selectNttInfo.do?mi=32890&bbsId=1158&bbsSysId=gwangju&nttSn=188465) | 20260814 | 20260824 | 비정규직 | 신입+경력 |
-| 한국소비자원 | [2026년 한국소비자원 제2차 청년인턴(장애인, 지역상생) 채용 공고](https://www.kca.go.kr/kca/sub.do?menukey=5113&mode=view&no=1004549155) | 20260814 | 20260824 | 청년인턴(체험형) | 신입 |
+| 제주대학교병원 | [제주대학교병원 사업인력 계약직(권역난임임산부심리상담센터_임상심리사 또는 사회복지사 또는 간호사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2644) | 20260814 | 20260825 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-14 23:23:12 (Server Time)
+Updated at: 2026-08-15 01:19:41 (Server Time)
