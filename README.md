@@ -18,4 +18,4 @@
 | 제주대학교병원 | [제주대학교병원 사업인력 계약직(권역난임임산부심리상담센터_임상심리사 또는 사회복지사 또는 간호사) 모집공고](https://www.jejunuh.co.kr/prog/rcrutPbanc/main/sub05_03_03_01/view.do?rcrutPbancNo=2644) | 20260814 | 20260825 | 비정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-16 09:28:18 (Server Time)
+Updated at: 2026-08-16 10:24:41 (Server Time)
