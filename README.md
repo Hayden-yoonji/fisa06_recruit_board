@@ -18,4 +18,4 @@
 | 충남대학교병원 | [[세종] 2026년 8월 업무지원직 직원 채용공고](https://cnuhinsa.recruiter.co.kr/career/home) | 20260814 | 20260828 | 정규직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-18 02:56:39 (Server Time)
+Updated at: 2026-08-18 03:48:53 (Server Time)
