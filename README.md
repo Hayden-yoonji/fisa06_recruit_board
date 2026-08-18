@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 바이오캠퍼스 업무직(대학운영직_조리원) 채용공고](https://www.kopo.ac.kr/bio/board.do?menu=5899&mode=view&post=782387) | 20260818 | 20260827 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-18 11:26:35 (Server Time)
+Updated at: 2026-08-18 12:50:02 (Server Time)
