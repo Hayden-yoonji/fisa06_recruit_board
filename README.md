@@ -18,4 +18,4 @@
 | 근로복지공단 | [[태백병원] 공무직(전기기계통신기사-기계분야) 채용 공고](https://www.comwel.or.kr/recruit/hp/main.do) | 20260819 | 20260826 | 무기계약직 | 신입 |
 
 ---
-Updated at: 2026-08-19 10:30:37 (Server Time)
+Updated at: 2026-08-19 11:26:16 (Server Time)
