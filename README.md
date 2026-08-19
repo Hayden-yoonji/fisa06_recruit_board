@@ -18,4 +18,4 @@
 | 학교법인한국폴리텍 | [한국폴리텍대학 원주캠퍼스 업무직(대학운영직_미화원) 채용 공고](https://www.kopo.ac.kr/wonju/board.do?menu=10534&mode=view&post=782599) | 20260820 | 20260827 | 무기계약직 | 신입+경력 |
 
 ---
-Updated at: 2026-08-19 17:27:56 (Server Time)
+Updated at: 2026-08-19 18:37:27 (Server Time)
