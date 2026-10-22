@@ -7,4 +7,4 @@
 데이터 요청 실패
 
 ---
-Updated at: 2026-10-21 22:10:50 (Server Time)
+Updated at: 2026-10-22 01:19:50 (Server Time)
